@@ -1,0 +1,2393 @@
+# Terrain & Biome Compendium (Full)
+
+Each item: `Name: description`. Append-only: new entries go at the end, so line numbers in terrain-biome.md never change.
+
+
+## Sky & Aerial
+### Atmospheric Layers
+- Lower Sky (Troposphere): turbulent weather-filled air where clouds form, birds fly, and low-altitude aircraft fight crosswinds and storms.
+- Stratosphere Calm: thin, still, bright upper air above the weather, ideal for high-altitude gliders and silent drifting balloons.
+- Mesosphere Edge: freezing near-space sky streaked with burning meteors, thin air, and a curved blue-black horizon.
+- Above-the-Clouds Sunlit Expanse: endless white cloud floor under blazing sun, offering safe cruising, hidden peaks, and sky creatures.
+### Cloud Terrain
+- Cumulus Fields: puffy white cloud mounds that can be bounced across or hidden within, with gentle updrafts between them.
+- Thunderhead Towers: huge anvil-topped storm clouds with violent updrafts, hail, and lightning that punish careless flyers.
+- Cirrus Highlands: icy wispy streaks high in the sky, slippery footing, thin air, and strong steady winds.
+- Cloud Sea: vast flat layer of cloud with peaks poking through, perfect for hidden ambushes and surf-like traversal.
+- Fog Banks: dense low clouds drifting in drifting walls, cutting visibility and concealing cliffs, ships, and lurking predators.
+- Storm Wall: towering churning barrier of black cloud and lightning that blocks routes and tests ship durability.
+- Eye of the Storm: eerie calm clearing ringed by violent cloud walls, often hiding treasure, wrecks, or a boss.
+### Wind Phenomena
+- Jet Stream: fast high-altitude river of wind that speeds travel in one direction and tears apart weak craft.
+- Updraft Column: rising pillar of warm air that lifts gliders and creatures upward, useful for reaching high ledges.
+- Tornado Funnel: spinning debris-filled vortex that hurls objects, damages structures, and drags the unwary into the sky.
+- Trade-Wind Corridor: steady predictable breeze lane that rewards sailing and flying routes with fast, safe travel.
+- Doldrums (dead air): windless stagnant zone that strands sailing craft, drains supplies, and breeds bored, desperate crews.
+- Gale Canyon: narrow channel of howling wind between rock or cloud walls, pushing travelers off course.
+### Light & Electric Phenomena
+- Aurora Curtain: shimmering sheets of green and violet light overhead, lending eerie glow, magical energy, and spirit sightings.
+- Lightning Field: open expanse crackling with strikes, with conductive spires, charged air, and burst damage for the careless.
+- Rainbow Bridge: shimmering arc of color spanning gaps in the sky, serving as a magical path or hidden gateway.
+- Sprite Storm: silent red flashes of lightning above thunderclouds, glowing eerily and hinting at strange energy creatures.
+### Floating & Built Sky
+- Floating Island: chunk of earth hovering in open air with grass, waterfalls dripping into nothing, and isolated wildlife.
+- Sky Archipelago: cluster of floating islands linked by ropes, bridges, and air currents, ideal for exploration chains.
+- Aerial Reef: living or coral-like growth suspended in the sky, drifting with colorful flyers and gas bladder creatures.
+- Cloud City: gleaming settlement built on or within cloud banks, with markets, docks, and rival sky factions.
+- Airship Harbor: busy mooring towers and docks for dirigibles, full of cargo, traders, mechanics, and smugglers.
+- Sky Bridge: long suspended span crossing a chasm or sky gap, swaying in wind and open to ambush.
+- Sky Tree / Beanstalk: colossal plant climbing through the clouds, with branch platforms, giant fruit, and lofty hidden realms.
+- Aerial Ruins: broken towers and temples adrift among clouds, holding forgotten relics, nesting flyers, and crumbling platforms.
+
+## Scale-Shifted
+### Microscopic
+- Cell Interior: gelatinous chamber full of floating organelles, membranes, and energy factories, guarded by defensive proteins.
+- Bloodstream River: red-lit rushing current carrying cells, pathogens, and debris past branching vessel walls and valves.
+- Petri Dish Jungle: glowing colonies of bacteria and mold forming bizarre landscapes with spreading, toxic, and nutrient-rich patches.
+- Dewdrop World: lens-like water spheres on leaves bending light, hiding tiny swimmers and sparkling refracted pathways.
+- Moss Micro-Forest: dense green filaments towering like trees, home to tardigrades, mites, and dripping moisture.
+- Dust-Mite Plains: soft drifting fiber fields in bedding or carpet, grazed by mites and rippling with static.
+### Inside Bodies
+- Giant's Stomach: acid-pooled cavern of slimy folds, half-digested debris, and lurching walls that squeeze intruders.
+- Ribcage Cavern: curved bone arches around a thumping chamber, echoing with heartbeats, breathing winds, and sinew ropes.
+- Neural Web: branching glowing fibers carrying electric pulses between nodes, with signal hazards and memory fragments.
+- Vein Network: pulsing tunnels with valve gates, steady flow currents, and cramped junctions patrolled by defensive cells.
+- Throat Tunnel: wet ridged passage with gusting breath, dangling flesh, and sudden swallowing surges.
+### Giant-World (household scale)
+- Under the Table: dim forest of chair legs and crumbs, ruled by scavenging insects and looming giant feet.
+- Garden Grass Forest: towering blades with dewdrop pools, ant trails, and lurking spiders in dappled sunlight.
+- Sink Basin Sea: slick porcelain valley with a drain whirlpool, faucet waterfall, and sudden floods of soapy water.
+- Attic Canyon: dusty beams and boxes forming cliffs, with cobwebs, hidden heirlooms, and rustling nesting creatures.
+- Toolbox Cavern: metal-walled den of giant screws, wrenches, and oil, with sharp edges and rolling hazards.
+- Drain Pipe Maze: slimy twisting tubes with trickling water, rusty grates, and rats or worse waiting inside.
+### Toy & Miniature
+- Toy Box Land: cluttered playground of oversized blocks, wind-up soldiers, and plush hills, animated by childlike magic.
+- Model Railway Town: tiny painted village with working tracks, tunnels, and trains that follow fixed, dangerous schedules.
+- Diorama: carefully staged scene with painted backdrops and frozen figures, hiding trick walls and glass boundaries.
+- Board-Game Board: stylized tiled landscape with dice-driven movement, card events, and rules bending the world.
+- Snow Globe: enclosed glass dome with swirling flakes, a tiny frozen town, and a looming shake-induced blizzard.
+- Terrarium: sealed miniature ecosystem with humid air, moss, tiny reptiles, and glass walls that limit escape.
+- Dollhouse: multi-story rooms of miniature furniture and porcelain residents, creepy, silent, and full of hidden passages.
+
+## Time & Dimensional
+- Time-Frozen Zone: area where motion halts mid-action, letting players walk among suspended people, raindrops, and projectiles.
+- Time-Looped Valley: region that resets after a set period, trapping inhabitants and rewarding knowledge carried between cycles.
+- Accelerated Time Zone: area where days pass in seconds, with ruined structures, rapid plant growth, and aging hazards.
+- Slowed Time Zone: sluggish area where movement drags, projectiles crawl, and tense stealth or sniping rules.
+- Temporal Rift: jagged tear in time spitting out relics, creatures, and echoes from various eras with unstable footing.
+- Era Overlap Zone: place where past and future structures and people coexist, producing anachronistic mixed enemies and loot.
+- Parallel Mirror World: reversed duplicate of the known land with altered rules, evil doubles, and inverted geography.
+- Pocket Dimension: small self-contained space accessed through a door or object, often a private vault or hideout.
+- Fold in Space: shortcut where distance collapses, linking distant places through disorienting overlaps and sudden teleports.
+- Portal Hub: central chamber of many gateways to different worlds, guarded by gatekeepers and bustling with travelers.
+- Shifting Maze Dimension: ever-changing corridors that rearrange themselves, demanding adaptive navigation and punishing memorized routes.
+- Echo of the Past: ghostly replay of a historical moment that players can witness, interact with, and sometimes alter.
+
+## Weather & Seasonal (modifier layer)
+### Precipitation
+- Rain: steady falling water that dampens sound, darkens ground, slows fire, and swells streams.
+- Downpour: heavy deluge reducing visibility, flooding low areas, muddying roads, and drowning out footsteps and shouts.
+- Drizzle: light persistent mist-like rain giving a gloomy mood, slick surfaces, and mild visibility loss.
+- Snowfall: soft falling snow that gathers underfoot, muffles noise, and leaves tracks easy to follow.
+- Blizzard: howling wind-driven snow with whiteout visibility, bitter cold, and rapid exposure damage.
+- Hailstorm: pelting ice stones that damage exposed travelers, dent armor, and shred crops and tents.
+- Ice Storm: freezing rain coating everything in glaze, dropping branches, snapping power lines, and making footing treacherous.
+- Freezing Fog: supercooled mist that coats surfaces in rime, hides landmarks, and slowly chills those within.
+### Wind Events
+- Sandstorm: wall of blowing grit that blinds, scours exposed skin, and buries camps and tracks.
+- Dust Storm: dry brown cloud of lifted topsoil choking lungs, reducing sight, and fouling machinery.
+- Haboob: towering churning dust wall rolling across arid land, arriving suddenly and engulfing caravans.
+- Hurricane: massive rotating coastal storm with storm surge, flying debris, and flooded streets lasting many hours.
+- Typhoon: powerful ocean cyclone battering ports and ships with huge waves, torrential rain, and fierce gusts.
+- Cyclone: broad spiraling storm system tearing roofs, uprooting trees, and driving surges across lowlands.
+- Tornado Alley: open plains regularly hit by twisting funnels, offering storm chasing, shelter hunting, and sudden devastation.
+- Squall Line: narrow band of sudden gusty storms sweeping through, dropping temperature and catching sailors unprepared.
+### Temperature Events
+- Heat Wave: oppressive stretch of scorching days draining stamina, spoiling food, and driving people toward shade and water.
+- Cold Snap: abrupt plunge in temperature that freezes water, cracks pipes, and threatens unprepared travelers and livestock.
+- Hard Frost: killing freeze that blackens crops, glazes ground, and makes surfaces brittle and slippery.
+- Drought: long dry spell with cracked earth, failing wells, wildfire risk, and desperate migration for water.
+- Flood Season: period of swollen rivers breaching banks, drowning fields, isolating villages, and washing away bridges.
+### Visibility
+- Thick Fog: heavy white murk limiting sight to a few steps, ideal for ambushes and getting lost.
+- Mist: light low haze softening distances, hiding small details, and adding atmosphere without blocking movement.
+- Smog: foul yellow-gray air from industry or fires, causing coughing, dim light, and health penalties.
+- Ash Fall: gray flakes drifting from volcanoes or fires, coating land, clogging lungs, and darkening the sky.
+- Whiteout: blinding snow or glare removing all contrast and depth, making orientation nearly impossible.
+### Electrical
+- Thunderstorm: dark rumbling storm with lightning strikes, heavy rain, and wind threatening tall objects and open ground.
+- Dry Lightning: rainless electrical storm that ignites tinder-dry forests and grasslands, spreading wildfire across the landscape.
+- Static Storm: crackling charged air that disrupts electronics, raises hair, sparks metal, and zaps unprepared travelers.
+### Seasons
+- Spring Thaw: melting snow swells streams, softens ground, and awakens animals and blossoms after harsh winter.
+- Summer Bloom: long warm days of lush growth, abundant forage, buzzing insects, and thriving trade and travel.
+- Autumn Fall: golden leaves, harvest bounty, migrating birds, and cooling nights as preparations for winter begin.
+- Deep Winter: harsh frozen months of short days, scarce food, impassable roads, and hungry predators.
+- Wet Season: extended rains swelling rivers, flooding plains, spreading disease, and unlocking lush growth and new routes.
+- Dry Season: parched months with low water, dust, easy travel, wildfire risk, and animals clustering at waterholes.
+- Monsoon Season: seasonal wind shift bringing torrential rains, landslides, flooded fields, and steamy warm air.
+- Mud Season: sloppy thaw or rain period where roads bog down, wagons stick, and travel crawls.
+### Day & Sky Cycle
+- Dawn: soft rising light, dewy ground, waking birds, and a short window favoring early raids and travel.
+- Midday: bright overhead sun with short shadows, intense heat, and peak activity and visibility.
+- Dusk: fading orange light with lengthening shadows, bats emerging, and creeping danger as night approaches.
+- Midnight: deepest dark hours favoring stealth, nocturnal predators, spirits, and eerie silence broken by distant sounds.
+- Solar Eclipse: moon blocks the sun, bringing eerie twilight, confused animals, and omens or magical power surges.
+- Polar Night: weeks of continuous darkness in far latitudes, lit only by stars, aurora, and fires.
+- Midnight Sun: weeks of continuous daylight in far latitudes, disrupting sleep and exposing hidden things at all hours.
+- Blood Moon: rare crimson lunar eclipse inspiring dread, empowering monsters and rituals, and warping tides and tempers.
+
+## Space & Celestial
+### Orbital
+- Low Orbit: swift fringe of space above a planet, with glowing horizon, drag, satellites, and fast reentry dangers.
+- Geostationary Belt: ring of fixed-position satellites and stations far above the equator, ideal for relays and secret outposts.
+- Debris Field: swirling cloud of wrecked hulls and shrapnel that shreds ships and provides scavenging opportunities.
+- Lagrange Point: gravitationally balanced pocket in space, perfect for stable stations, hidden bases, and drifting wrecks.
+- Orbital Ring: gigantic habitat or structure encircling a planet, with docking spokes, elevators, and layered districts.
+### Planetary Surfaces
+- Lunar Maria: smooth dark basalt plains pocked with small craters, covered in gray dust and ideal for landing bases.
+- Lunar Crater Field: rim-ringed pits and rubble providing cover, shadowed ice deposits, and treacherous low-gravity walking.
+- Lunar Highlands: bright rugged uplands of ancient crust, jagged ridges, and abundant rock for mining.
+- Lunar Lava Tubes: huge underground tunnels from old volcanism, sheltering colonies from radiation and holding hidden resources.
+- Martian Red Plains: rust-colored dusty flats with scattered rocks, thin air, and dust devils sweeping the horizon.
+- Martian Canyon: colossal rift valley with layered cliffs, windswept floor, and possible ice, caves, or ancient traces.
+- Martian Giant Volcano: enormous shield mountain with gentle slopes, sheer cliffs, vast calderas, and cold thin air.
+- Martian Polar Cap: frozen ice dome layered with dust and carbon dioxide frost, with spiral troughs and bitter cold.
+- Venus Hellscape: crushing, acid-clouded furnace of lava plains and volcanoes, destroying gear and demanding specialized survival tech.
+- Gas Giant Atmosphere: banded storms, crushing pressure, and lightning in endless cloud layers, home to floating exotic life.
+- Ice Giant Depths: dark blue slush of methane and water under immense pressure, with diamond rain and strange currents.
+- Ice Moon Crust: fractured frozen shell with ridges, geysers, and glittering plains, hiding oceans below and harsh radiation.
+- Subsurface Ocean Moon: dark warm sea beneath an ice shell, with hydrothermal vents and strange alien biology.
+- Tidally Locked Terminator Zone: narrow twilight strip between a scorched day side and frozen night side, ideal for habitation.
+- Rogue Planet Dark: starless wandering world in permanent night, lit by volcanic heat, glowing life, or faint cosmic light.
+- Dwarf Planet Plain: distant frozen expanse of nitrogen ice and dim sunlight, with cliffs, craters, and eerie silence.
+- Comet Surface: crumbly dirty ice with jets of gas, weak gravity, and a long glowing tail.
+- Asteroid Surface: rocky low-gravity terrain of craters and boulders, ideal for mining, hiding, and hazardous jumps.
+### Deep Space
+- Asteroid Belt: ring of drifting rocks of all sizes, offering mining, ambushes, and tricky navigation between tumbling hazards.
+- Kuiper Ring: dim icy frontier beyond the outer planets, scattered with frozen worlds, comets, and lonely outposts.
+- Oort Cloud: vast sparse shell of icy bodies at the system edge, remote, cold, and almost empty.
+- Nebula: glowing colorful gas cloud where stars are born, dimming sensors and hiding ships in shimmering mist.
+- Dark Nebula: thick dust cloud blocking starlight, creating inky voids ideal for stealth, lurking creatures, and navigation trouble.
+- Star Nursery: dense glowing cluster where new stars ignite, with radiation, bright gas pillars, and protostar hazards.
+- Pulsar Field: region swept by rapid beams of lethal radiation from spinning neutron stars, timing-based hazard to navigate.
+- Accretion Disk: blazing spiral of superheated matter orbiting a black hole or star, gravitationally treacherous and intensely radioactive.
+- Event Horizon: point of no return around a black hole where time warps, light bends, and escape fails.
+- Neutron Star Surface: ultra-dense glowing crust with crushing gravity, extreme magnetism, and mountains only millimeters tall.
+- Binary Star Gap: unstable space between two orbiting suns, with double shadows, tidal stresses, and shifting light.
+- Supernova Remnant: expanding shell of glowing wreckage from a dead star, rich in heavy elements and radiation.
+- Cosmic Void: vast almost empty gulf between galaxies, cold and silent, with distant lights and isolated drifters.
+- Galactic Core: dense blazing star-packed center of a galaxy with intense radiation and a supermassive black hole.
+- Galactic Halo: sparse outer sphere of ancient stars and globular clusters surrounding a galaxy, quiet and mysterious.
+- Wormhole Throat: shimmering tunnel entrance bending space, offering instant long-range travel with unstable, hazardous passage.
+- Solar Corona: searing plasma halo around a star, whipping with flares and magnetic loops that destroy unshielded craft.
+- Star Surface: roiling seething sea of plasma, sunspots, and prominences, survivable only by exotic or fiery beings.
+
+## Planes & Otherworldly (abstract planes)
+### Dream & Mind
+- Dreamscape: shifting surreal landscape shaped by thoughts, where logic bends, symbols walk, and gravity obeys feelings.
+- Nightmare Realm: twisted version of dreams full of fears made flesh, distorted geometry, and pursuing horrors.
+- Memory Palace: grand mental building of rooms holding stored memories, guarded by forgetfulness and reachable through recall puzzles.
+- Collective Unconscious: shared deep mind-space of archetypes, myths, and symbolic beings that influence everyone's dreams.
+- Mindscape: inner landscape of a single mind reflecting emotions, with personality aspects as inhabitants and landmarks.
+- Fever Dream: hot, delirious, warped landscape with melting walls, looping events, and unreliable perception.
+### Spirit
+- Astral Plane: silvery drifting realm beyond the body, where thought travels, cords connect, and strange entities roam.
+- Ethereal Mist: pale veil between worlds, hiding half-seen spirits, dampening sounds, and allowing ghostly passage.
+- Spirit World: parallel realm of ancestors, nature spirits, and lost souls, mirroring the living world in eerie tones.
+- Shadow Realm: dim inverted echo of the material world, ruled by shades, secrets, and stealthy predators.
+- Ghost Layer: overlapping faint dimension where the dead linger, visible only through special sight and lingering emotions.
+### Elemental
+- Plane of Fire: realm of molten rivers, burning skies, and flame-bodied beings where heat damages constantly.
+- Plane of Water: boundless ocean realm with floating currents, drowning pressure, and fluid creatures with no solid ground.
+- Plane of Earth: dense world of tunnels, crystal caverns, and living stone inhabited by slow, mighty beings.
+- Plane of Air: endless storm-swept sky with floating shards, roaring winds, and fast whirling elemental beings.
+- Plane of Lightning: crackling realm of arcing bolts, static fields, and charged beings that surge with speed and damage.
+- Plane of Ice: frozen glittering expanse of glaciers, frost spires, and crystalline beings with numbing cold.
+- Plane of Light: radiant dazzling realm of pure brightness, blinding purity, and radiant beings that scour darkness.
+- Plane of Shadow: murky realm of living darkness and whispering silhouettes, draining light and rewarding stealth.
+### Void
+- The Void: absolute emptiness beyond reality, devoid of light, sound, and matter, unsettling and hungry.
+- Limbo Between Worlds: gray in-between space of drifting fragments, lost travelers, and unstable portals to everywhere and nowhere.
+- Abyssal Dark: bottomless lightless depth teeming with ancient horrors, crushing silence, and creeping madness.
+- Static Between Channels: buzzing glitchy noise-space of broken signals, flickering shapes, and half-heard voices.
+
+## Living & Creature-Based Terrain
+- Giant Skeleton Valley: vast ribs and vertebrae of a dead colossus forming arches, caves, and bone-white canyon walls.
+- Titan's Corpse Mountain: mountain range formed by a fallen giant, with veins of ore, rotting caves, and stirring remnants.
+- World Turtle Back: enormous shelled creature carrying a continent on its slow-moving carapace, with shifting coastlines and tides.
+- Beast-Back Continent: land riding on a gigantic wandering animal, with fur forests, parasite villages, and tremor-prone terrain.
+- Sleeping Giant Hills: hills shaped like a slumbering colossus, with hidden breath vents and risk of waking.
+- Dragon-Bone Wastes: barren plains strewn with huge skeletal remains, scavengers, treasure hunters, and lingering draconic magic.
+- Bone Forest: stands of upright bones like trees, rattling in wind and sheltering ghouls, scavengers, and grim shrines.
+- Living Forest: sentient woodland that shifts paths, whispers, and defends itself with grasping roots and watchful trees.
+- Flesh Cavern: pulsing organic tunnels of muscle and membrane, dripping fluids and guarded by immune-like monsters.
+- Hive Interior: waxy or resinous chambers of insectoid colonies, with swarming workers, royal chambers, and sticky traps.
+- Mycelium Network: sprawling underground fungal web linking life, carrying signals and spores, and hosting glowing mushroom growths.
+- Carnivorous Garden: lush blooms and snapping plants luring prey with scent and color, hiding digestive pits and vines.
+- Web-Filled Canopy: treetops draped in giant spider silk, with sticky walkways, wrapped victims, and lurking weavers.
+- Egg Chamber Nest: warm cavern of clustered eggs guarded by fierce parents, with nursery hazards and valuable loot.
+- Kraken-Back Island: deceptive island that is really a sleeping sea monster, erupting when travelers camp on it.
+- Tendril Wilds: dense jungle of grasping vines and writhing feelers that snare, drag, and strangle unwary explorers.
+- Symbiote Grove: cooperative woodland of linked creatures and plants, trading resources and bonding with visitors in strange ways.
+
+## Confinement
+- Dungeon: dark stone cells and torch-lit corridors beneath a castle, full of captives, traps, and sadistic guards.
+- Oubliette: narrow pit prison with a single hatch above, designed to make prisoners vanish and be forgotten.
+- Gulag Camp: remote frozen labor camp of barbed wire, watchtowers, and starvation, where inmates scheme to survive.
+- Island Prison: isolated fortress on a rocky sea island, guarded by waves, patrols, and no easy escape.
+- Asylum Ward: dim echoing hospital wing of padded rooms and restraints, haunted by restless patients and sinister experiments.
+- Panopticon: circular prison with a central watchtower seeing every cell, enforcing paranoia and demanding clever stealth.
+- Labyrinth: winding maze of dead ends and false paths, guarded by a lurking monster at its heart.
+- Vault: reinforced secure chamber of locks, lasers, and guards, protecting treasure and tempting thieves.
+- Cell Block: rows of barred cells along walkways, with rowdy inmates, shakedowns, riots, and tense guard rotations.
+- Penal Colony: remote settlement of convict laborers under harsh rule, with brutal overseers, smuggling, and desperate escape plots.
+- Quarry Chain Gang: dusty pit where shackled prisoners break stone under armed watch, with rockfalls and rebellion.
+- Prison Ship: rotting hulk of crowded holds and barred decks anchored offshore, plagued by disease and mutiny.
+- Quarantine Zone: sealed-off area of checkpoints and hazmat gear, holding the sick and infected under armed enforcement.
+
+## Knowledge & Institutions
+- Library Stacks: towering shelves and narrow aisles of dusty books, hiding lore, secret doors, and cranky guardians.
+- Forbidden Archive: locked restricted collection of dangerous tomes, protected by wards, curses, and watchful keepers.
+- Scriptorium: quiet hall of scribes copying manuscripts by candlelight, with inks, parchment, and illuminated secrets.
+- University Quad: green campus courtyard ringed by lecture halls, bustling with students, rivalries, and academic intrigue.
+- Wizard Academy: magical school of spire towers and enchanted classrooms, with apprentices, duels, and hazardous experiments.
+- Observatory: domed hilltop building with telescopes and star charts, for stargazing, omens, and cosmic discoveries.
+- Laboratory: benches of bubbling glassware, instruments, and dangerous specimens, with experiments gone wrong and secret research.
+- Courthouse: formal hall of judges, juries, and records, driving trials, bribery, and legal drama.
+- Parliament Hall: grand debating chamber of tiered benches and ornate speeches, where factions maneuver for power.
+- Museum Halls: quiet galleries of relics, exhibits, and glass cases, with guards, hidden vaults, and tempting artifacts.
+- Alchemist's Workshop: cluttered room of cauldrons, vials, and strange fumes, producing potions, poisons, and volatile experiments.
+- Research Station: isolated outpost of labs and sensors in a harsh environment, with scientists, secrets, and creeping dangers.
+- School Grounds: classrooms, playing fields, and hallways populated by students and teachers, with cliques, rules, and hidden mischief.
+- Hospital Ward: rows of beds, antiseptic corridors, and beeping machines, where healers work and patients hide secrets.
+
+## Entertainment & Recreation
+- Gladiator Arena: sand-floored fighting pit with roaring crowds, trapdoors, and beasts, built for combat spectacle.
+- Colosseum: monumental tiered stone stadium hosting grand battles, executions, and political theater before cheering throngs.
+- Amphitheater: open semicircular stage with tiered seating, perfect for performances, speeches, and acoustic tricks.
+- Circus Tent: striped big top with trapezes, animal acts, and clowns, hiding sinister secrets backstage.
+- Carnival Midway: bright lane of rigged games, food stalls, and rides, with barkers, pickpockets, and creepy attractions.
+- Fairground: open field of stalls, contests, livestock, and music during festivals, bustling with traders and rowdy crowds.
+- Theme Park: sprawling attraction of rides, mascots, and queue mazes, ripe for malfunctions and abandoned-park horror.
+- Casino Floor: glittering hall of tables, slot machines, and watchful security, where fortunes turn and cheaters scheme.
+- Theater Stage: curtained platform with props, trapdoors, and lighting rigs, offering backstage intrigue and performative tricks.
+- Opera House: ornate auditorium of velvet boxes and chandeliers, with dramatic performances, hidden passages, and phantom rumors.
+- Racetrack: looping course with spectators, bets, and fast competitors, mixing speed, sabotage, and betting-ring intrigue.
+- Sports Stadium: vast bowl of seating around a playing field, loud with fans, vendors, and rivalry.
+- Festival Grounds: colorful temporary village of tents, music, food, and games, packed with revelers and opportunists.
+- Tournament Lists: fenced jousting field with pavilions, heralds, and banners, hosting knightly duels and noble intrigue.
+- Hall of Mirrors: reflective maze of warped glass, disorienting illusions, and hidden doors that confuse and deceive.
+
+## Burial & Death
+- Catacombs: underground tunnels lined with niches of bones and tombs, dark, damp, and haunted by the restless dead.
+- Crypt: cold stone vault beneath a church or manor, holding coffins, sealed doors, and lingering undead.
+- Mausoleum: freestanding stone house of the dead with ornate sarcophagi, iron gates, and quiet, ghostly dread.
+- Pyramid Tomb: massive stepped monument with trapped corridors, burial chambers, and cursed treasures for the king.
+- Barrow Mound: grassy ancient burial hill with narrow stone passages, grave goods, and restless warrior spirits.
+- Cemetery: rows of headstones, mausoleums, and mourners under dim skies, with grave robbers, ghouls, and fog.
+- Ossuary: chamber decorated with stacked skulls and bones, serving as chilling shrine and storage for the dead.
+- Necropolis: sprawling city of the dead with streets of tombs, temples, and gravekeepers, silent and ominous.
+- Royal Tomb Valley: hidden gorge of carved cliff tombs for kings, packed with traps, hieroglyphs, and looters.
+- Funeral Pyre Ground: ritual site of burning platforms, ash, and mourners, thick with smoke and spirits departing.
+- Sky Burial Peak: high windswept summit where bodies are offered to vultures, with prayer flags and thin air.
+- Battlefield Graveyard: scarred plain of broken weapons, shallow graves, and wandering ghosts of fallen soldiers.
+- Bog Burial Moor: misty peat wetland preserving ancient sacrifices and corpses, with sucking mud and will-o-wisp lights.
+- Reliquary Vault: guarded chamber of sacred bones and holy objects, protected by wards, relic keepers, and curses.
+- Sarcophagus Chamber: inner tomb room holding a stone coffin, with final traps, inscriptions, and the awakening occupant.
+
+## Forest & Woodland (temperate and cold)
+### Temperate
+- Deciduous Forest: broadleaf woods that blaze in autumn and open in winter, rich with deer, foragers, and game.
+- Mixed Forest: blend of conifers and broadleaf trees offering varied cover, wildlife, and balanced lumber resources.
+- Beech Wood: smooth-barked tall trees casting deep shade over an open, leaf-carpeted floor, with quiet and good visibility.
+- Oak Woodland: broad mighty oaks with acorns, sprawling limbs, and boars, birds, and hidden druidic sites.
+- Old-Growth Forest: ancient giant trees, fallen logs, and thick moss in an untouched hush, rich with rare creatures.
+- Coppice: managed woodland of regrowing cut stems, supplying poles and charcoal, with open patches and woodcutters.
+- Hedgerow Country: patchwork farmland divided by dense hedges and lanes, offering ambush cover, berries, and small wildlife.
+- Maple Forest: sweet-sap trees with brilliant red autumn canopies, sugaring camps, and cool shady trails.
+- Temperate Rainforest: misty mossy giants draped in ferns and lichens, dripping with rain, rich in fungi and elusive life.
+- Redwood Grove: colossal towering trunks forming a cathedral-like canopy, with fog, soft ground, and hidden dwellers.
+- Bamboo Forest: dense swaying green stalks creating narrow corridors, rustling sounds, and hiding pandas, assassins, and monks.
+### Boreal
+- Taiga: vast snowy conifer forest with bogs and lakes, home to wolves, moose, trappers, and long winters.
+- Pine Forest: resinous needle-carpeted woods with straight trunks, sparse undergrowth, wildfire risk, and fresh scented air.
+- Spruce-Fir Forest: dark dense evergreens crowding out sunlight, hushed under snow, harboring lynx, owls, and hunters.
+- Larch Woods: needled conifers that turn gold and drop in autumn, producing airy light and soft trails.
+- Birch Forest: pale-barked slender trees with bright airy canopy, quick regrowth, and folklore full of sprites.
+### Dry & Mediterranean
+- Mediterranean Scrub: fragrant low thorny shrubs on sunbaked slopes, with herbs, goats, bandits, and wildfire danger.
+- Chaparral: dense evergreen brush on dry hills, tough to cross, flammable, and home to coyotes and rattlesnakes.
+- Cork Oak Dehesa: open pastureland dotted with cork oaks, grazed by pigs and cattle under hot dry skies.
+- Eucalyptus Forest: tall aromatic gum trees dropping bark and oily leaves, ideal for fire hazards, koalas, and ghost-like trunks.
+- Dry Woodland: sparse drought-tolerant trees over dusty ground, with scattered shade, thorny undergrowth, and scarce water.
+- Savanna Woodland: grassland dotted with broad trees, offering shade, grazing herds, predators, and long sightlines.
+- Miombo Woodland: wide African tree belt of leafy canopy and dry-season fires, hosting elephants, antelope, and honey gatherers.
+### Forest Features
+- Clearing: open patch within woodland, ideal for camps, ambushes, meetings, and rituals under filtered sunlight.
+- Glade: small sunny grassy opening ringed by trees, often peaceful, magical, or home to fae and deer.
+- Forest Edge: transition zone between woods and open land with scrub, tracks, and wary wildlife.
+- Forest Floor Undergrowth: tangled ferns, roots, and leaf litter slowing movement and concealing snakes, mushrooms, and hiding creatures.
+- Fallen Log Maze: jumble of toppled trunks forming obstacles, hideouts, and winding paths for small creatures and scouts.
+- Windfall: area where storms felled trees in tangles, blocking routes while opening sunlight and fresh growth.
+- Thicket: dense knot of brambles and shrubs that snags travelers and offers cover to ambushers.
+- Burned Forest: charred blackened trunks and ash-covered ground, eerie and open, with sprouting regrowth and displaced creatures.
+- Petrified Forest: stone-turned tree trunks standing or toppled across a dry landscape, brittle, ancient, and mysterious.
+- Clearcut: stumps and scarred earth where loggers stripped the woods, with erosion, slash piles, and angry spirits.
+- Sacred Grove: protected ring of venerable trees with altars, offerings, and guardian spirits tolerating no violence.
+- Mushroom Forest: towering fungi with glowing caps and spore clouds, damp and eerie, home to funguslike beings.
+- Foggy Hollow: low sheltered dip filled with drifting mist, damp air, and secrets, reducing visibility and favoring ambush.
+
+## Grassland & Plains
+- Prairie: wide rolling expanse of grasses and wildflowers under open sky, with herds, wind, and distant storms.
+- Tallgrass Prairie: towering waving blades concealing travelers, bison, and predators, with rich soil and sudden fires.
+- Shortgrass Steppe: dry low grass stretching to the horizon, ideal for grazing, riders, and long-distance sight.
+- Steppe: cold windy treeless grassland ruled by nomadic horse riders, with vast skies and harsh seasons.
+- Pampas: flat fertile South American grassland with cattle, gauchos, and strong winds sweeping across the plain.
+- Savanna: warm grassland with scattered trees, seasonal rains, and great herds hunted by lions and wild hounds.
+- Acacia Savanna: flat-topped thorn trees dotting dry golden grass, providing shade, giraffe browsing, and ambush cover.
+- Veld: open southern African grassland with kopjes and thorn scrub, home to antelope, farmers, and wary predators.
+- Llanos: seasonally flooded tropical plains of grass and wetlands, rich in cattle, capybara, caiman, and storms.
+- Cerrado: tropical savanna of twisted trees and tough grasses, fire-adapted, with rich wildlife and red soil.
+- Outback Scrub Plain: arid red flatland of spinifex, mulga, and heat, with hardy wildlife and scarce water.
+- Meadow: gentle grassy field full of flowers, bees, and butterflies, ideal for rest, herbs, and peaceful encounters.
+- Wildflower Field: colorful carpet of blooms attracting pollinators, perfect for herb gathering, picnics, and fairy folk.
+- Moor: windswept upland of heather, peat, and mist, with standing stones, sheep, and eerie wandering lights.
+- Heathland: open low shrubland of heather and gorse on poor soil, bleak, purple-blooming, and haunted by fog.
+- Downs: smooth chalky rolling hills with short turf, ancient chalk figures, barrows, and sweeping views.
+- Rolling Hills: gentle green swells of farmland and pasture, dotted with villages, flocks, and winding roads.
+- Plateau Grassland: elevated flat grassy tableland ringed by escarpments, windswept, with herds and strategic high ground.
+- Floodplain: low river-fed flatland rich with silt, lush crops, and seasonal inundations that reshape paths.
+- Dune Grassland: coastal or inland sand ridges stabilized by tough grasses, windy, shifting, and dotted with hollows.
+- Tussock Land: clumped tall grass over boggy or cold ground, awkward to walk and hiding small creatures.
+- Machair: low-lying coastal grassland of shell sand and wildflowers, wind-battered, with crofts, seabirds, and Atlantic spray.
+- Fynbos: South African shrubland of proteas and heath bursting with unique flora, fire-adapted, and endlessly diverse.
+- Kwongan: Australian sandplain heath of dense shrubs and wildflowers, with extraordinary plant diversity, fire cycles, and little shade.
+
+## Desert & Arid
+### Hot Desert
+- Sand Sea (Erg): endless rippling ocean of dunes, scorching by day, with sandstorms, lost caravans, and scarce oases.
+- Dune Field: rolling sandy ridges shifting with wind, hard to climb, offering sliding descents and hidden hollows.
+- Star Dunes: towering multi-armed sand pyramids radiating from a peak, difficult to traverse and visible from far away.
+- Rocky Desert (Hamada): barren bare-stone plateau scoured of sand, with sharp rubble, glaring heat, and little cover.
+- Gravel Plain (Reg): flat expanse of tightly packed pebbles, easy to cross, shadeless, and swept by wind.
+- Salt Flat: blinding white crust over dry lakebed, with mirages, hidden brine pits, and speed-racing opportunities.
+- Dry Lake (Playa): cracked clay basin that floods briefly after rain, flat and hard, with reflective mirages.
+- Mesa and Butte: flat-topped rock towers and cliffs rising from desert floor, offering high ground, ruins, and lookout points.
+- Canyonlands: maze of red rock gorges, arches, and layered cliffs, full of hidden springs, ruins, and ambush spots.
+- Slot Canyon: tight winding corridor carved by flash floods, with smooth walls, filtered light, and deadly water surges.
+- Wadi: dry streambed that suddenly floods, serving as a travel route, shade, and occasional waterhole.
+- Oasis: lush spring-fed island of palms and pools in barren sands, drawing caravans, bandits, and wildlife.
+- Desert Scrub: sparse hardy shrubs and thorny plants on sandy gravel, home to lizards, snakes, and wiry coyotes.
+- Cactus Forest: dense stands of spined giants and prickly pears, with sharp hazards, birdlife, and precious stored water.
+- Desert Pavement: smooth mosaic of tightly packed stones polished by wind, forming a hard flat surface for travel.
+- Yardang Field: wind-sculpted ridges of rock aligned like ship hulls, creating eerie corridors and cover in barren expanse.
+- Mirage Flats: shimmering heat-warped plains where illusions of water and cities lure travelers into thirst and confusion.
+### Cold & Coastal Desert
+- Cold Desert Basin: high dry bowl with freezing nights, sparse sagebrush, and bitter winds, ringed by distant mountains.
+- Gobi Steppe-Desert: windy stony expanse of sparse grass and sand, home to nomads, camels, and sudden cold.
+- Antarctic Dry Valleys: frozen windswept rock valleys free of snow, with ancient ice, eerie silence, and mummified remains.
+- Coastal Fog Desert: arid shore watered only by drifting sea fog, with specialized plants, dunes, and quiet beaches.
+- Skeleton Coast: fog-wrapped shore of shipwrecks, whale bones, shifting dunes, and relentless surf, deadly to the stranded.
+
+## Mountain & Alpine
+### Peaks & Ridges
+- Summit: highest point of a mountain, with thin air, sweeping views, fierce winds, and a triumphant reward or boss.
+- Ridge: narrow crest between slopes, exposed to wind and falls, offering sightlines and tricky balance-based travel.
+- Arete: sharp knife-edge rock spine requiring careful climbing, with dizzying drops on both sides.
+- Mountain Pass: high saddle route between valleys, strategic choke point for trade, armies, bandits, and weather.
+- Saddle: low dip between two peaks, offering easier crossing, wind funnel effects, and good campsites.
+- Cliff Face: sheer vertical rock wall demanding climbing, with ledges, nests, loose holds, and falling hazards.
+- Overhang: protruding rock ceiling forcing awkward climbs, sheltering caves or camps, and risking sudden collapse.
+- Spire: slender jagged pinnacle of rock, difficult to climb, lightning-prone, and ideal for lairs or hermitages.
+- Massif: huge compact mountain mass with multiple peaks and deep valleys, forming a rugged natural fortress.
+- Mountain Plateau: high flat tableland above surrounding slopes, windswept, cold, and ideal for hidden settlements and herds.
+### Slopes
+- Scree Slope: steep field of loose small stones that slide underfoot, noisy, tiring, and dangerous to descend.
+- Talus: apron of fallen rock fragments at a cliff base, offering rough footing and hiding small animals.
+- Boulder Field: expanse of large angular rocks requiring scrambling, with gaps, cover, and ankle-twisting hazards.
+- Avalanche Chute: steep gully scoured by sliding snow, dangerous to cross, with debris fans and sudden slides.
+- Rock Glacier: slow-creeping mass of rubble and ice, groaning and shifting, with unstable footing and hidden voids.
+- Moraine: ridge of glacier-deposited rubble and boulders, offering rough cover, defensive lines, and loose unstable ground.
+- Alpine Meadow: flower-filled high pasture above the trees, with grazing animals, clear streams, and brisk fresh air.
+- Krummholz Zone: stunted wind-twisted trees clinging near the treeline, dense, low, and difficult to move through.
+- Treeline: border where forest gives way to bare rock and tundra, marking changes in temperature, cover, and wildlife.
+- Subalpine Forest: sparse hardy conifers on high slopes, with cold winds, snow patches, and elk or mountain goats.
+- Montane Forest: cool misty mid-elevation woods of tall trees, rich in ferns, streams, and elusive mountain creatures.
+- Snowfield: broad white expanse of packed snow, bright and exposed, with hidden crevasses and hazards of snow blindness.
+- Cornice: overhanging lip of wind-packed snow along a ridge, which collapses under weight and hides drops.
+- Ice Wall: vertical frozen face needing picks and rope, glassy and cold, sometimes hiding trapped relics or creatures.
+### Valleys
+- U-Shaped Valley: broad glacier-carved trough with steep walls and flat floor, hosting lakes, waterfalls, and settlements.
+- Cirque: bowl-shaped glacial hollow ringed by cliffs, often holding a lake, snow, and secluded camps.
+- Tarn: small cold mountain lake in a high hollow, clear and still, often sacred or hiding sunken secrets.
+- Hanging Valley: side valley ending in a cliff high above the main one, producing dramatic waterfalls and hidden refuges.
+- Gorge: deep narrow river-cut chasm with steep walls, roaring water, and crossing points for bridges and ambushes.
+- Ravine: steep narrow cleft carved by water, offering cover, hidden trails, and risk of flash floods.
+### Mountain Types
+- Fold Mountains: great crumpled ranges with long parallel ridges and valleys, formed by colliding plates, rich in minerals.
+- Block Mountains: abrupt fault-lifted ranges with steep scarps on one side and gentler slopes on the other.
+- Karst Mountains: eroded limestone peaks riddled with caves, sinkholes, and vanishing streams, perfect for hidden dungeons.
+- Tower Karst: dramatic isolated limestone pillars rising steeply from flat plains, jungle-clad, with caves and cliffside hideouts.
+- Sky Island Mountain: isolated peak rising from different surrounding terrain, hosting distinct climate, unique creatures, and cut-off cultures.
+- Inselberg: solitary rocky hill rising abruptly from a flat plain, serving as landmark, refuge, or sacred site.
+- Tepui: flat-topped sheer-walled table mountain with waterfalls, mist, and isolated strange life, hard to reach.
+- Tors: rough granite outcrops crowning moorland hills, weathered into stacks, used as lookouts, shelters, and legend sites.
+- Foothills: low rolling ridges at a mountain base, with woods, streams, and pastures, a gateway to higher country.
+- Altiplano: high cold windy plateau between ranges, with thin air, salt lakes, llamas, and scattered villages.
+- Death Zone: extreme altitude with too little oxygen to survive for long, demanding supplies, speed, and fatal decisions.
+
+## Wetland & Swamp
+- Swamp: waterlogged forest of knotted roots and stagnant pools, thick with mosquitoes, snakes, and slow-moving predators.
+- Cypress Swamp: tall buttressed trees draped in moss standing in dark water, with knee roots, gators, and eerie fog.
+- Mangrove Swamp: tangled stilt-root thickets in brackish tidal water, hiding crabs, snakes, and smugglers' boats.
+- Bayou: slow, sluggish backwater channels winding through low forest, home to gators, fishermen, and rickety stilt shacks.
+- Bog: spongy acidic wetland of sphagnum moss that swallows footsteps, preserving old bodies, relics, and nasty surprises.
+- Peat Bog: dark, springy ground of decayed moss, harvested for fuel and riddled with hidden sinking pockets.
+- Pitcher Plant Bog: open acidic wetland dotted with giant carnivorous plants that trap insects and small creatures.
+- Fen: alkaline marshland of sedges and reeds fed by groundwater, rich in rare flowers, birds, and hidden paths.
+- Marsh: flat grassy wetland of shallow water and reeds, full of waterfowl, frogs, and easy ambush cover.
+- Salt Marsh: tidal grassland flooded by seawater twice daily, with winding creeks, mud flats, and wading birds.
+- Freshwater Marsh: reed-choked shallows of cattails and lilies teeming with fish, ducks, muskrats, and biting insects.
+- Reed Bed: dense walls of tall rustling stalks along water edges, ideal for hiding boats, nests, and ambushers.
+- Floodplain Forest: lowland woods that seasonally drown under river overflow, leaving rich silt, driftwood, and muddy trails.
+- Sawgrass Everglades: endless river of grass and shallow water broken by tree islands, gators, and razor-edged blades.
+- Vernal Pool: temporary seasonal pond that appears after rain, brimming with amphibian eggs and rare specialized life.
+- Wet Meadow: soggy grassland with standing puddles and wildflowers, good for grazing, frogs, and slowing heavy travelers.
+- Quagmire: treacherous soft mud and half-liquid soil that traps feet and wagons, rewarding careful scouts.
+- Quicksand Pit: deceptive patch of liquefied sand that pulls victims under, used as a hidden trap hazard.
+- Mire: deep clinging mud and foul water where movement crawls, fog lingers, and lost travelers vanish.
+- Delta Wetland: sprawling fan of braided channels, islets, and silt flats where a great river meets the sea.
+- Pocosin: elevated shrubby peat wetland of dense evergreen thickets, black water, bears, and few easy trails.
+- Muskeg: northern bog of floating moss mats and stunted spruce, hard to cross and swarming with biting flies.
+- Blackwater Swamp: tea-dark tannin-stained water under dense canopy, hiding sunken logs, silent hunters, and murky depths.
+
+## Tundra & Polar
+- Arctic Tundra: treeless frozen plain of lichen, low shrubs, and meltwater pools, roamed by caribou, wolves, and hardy nomads.
+- Alpine Tundra: windswept high-altitude zone above the tree line with cushion plants, bare rock, marmots, and thin air.
+- Antarctic Tundra: barren southern coast of moss and rock beaten by gales, home to penguins and seals.
+- Polar Ice Cap: vast permanent dome of ice at the world's pole, blindingly white with lethal cold.
+- Ice Sheet: continent-sized slab of ancient ice, miles thick, flat and featureless, with buried secrets and crevasses.
+- Glacier: slow river of blue ice grinding down valleys, cracked by crevasses and carrying boulders and frozen relics.
+- Ice Shelf: floating platform of glacier ice jutting over the sea, prone to sudden calving and cracking.
+- Ice Floe Field: scattered drifting slabs of sea ice requiring risky hops, with freezing water and hunting predators beneath.
+- Pack Ice: crushed jumble of grinding ice sheets that traps ships, groans constantly, and shifts without warning.
+- Iceberg: towering floating mass of glacial ice, mostly hidden below water, hazardous to ships and sometimes hollow.
+- Frozen Sea: ocean surface locked solid into a walkable plain of ice with pressure ridges and thin patches.
+- Permafrost Plain: ground frozen year-round beneath a thin thawing layer, producing mud, sinking bogs, and preserved remains.
+- Pingo Field: scattered ice-cored earth domes rising from tundra flats, useful as lookouts and natural landmarks.
+- Patterned Ground: strange polygon and stripe formations in frozen soil, creating eerie geometric landscapes and uneven footing.
+- Thermokarst: thawing frozen ground collapsing into sinkholes, ponds, and slumping hollows that release trapped gas and ancient remains.
+- Snow Plain: wide blanket of drifted snow with little shelter, prone to whiteouts, tracking, and exposure.
+- Frozen Lake: smooth sheet of ice over deep water, fast to cross but dangerous where thin or cracking.
+- Ice Cave: glittering blue chambers carved inside glaciers by meltwater, with slippery floors, falling icicles, and hibernating beasts.
+- Crevasse Field: maze of deep hidden cracks beneath snow bridges, demanding ropes, probing, and nerves.
+- Nunatak: lone rocky peak poking through an ice sheet, serving as camp, landmark, and refuge for hardy life.
+- Sastrugi Field: wind-carved ridges of hard snow forming a jagged washboard that slows sleds and twists ankles.
+- Icefield: broad upland expanse of connected glaciers and snow, ringed by peaks and dotted with hidden meltwater channels.
+
+## Freshwater
+### Rivers & Streams
+- Headwater Stream: small clear brook trickling from springs or snowmelt high in the hills, cold and easy to wade.
+- Brook: shallow babbling creek over pebbles, good for fishing, drinking water, and quietly following to settlements.
+- Mountain Torrent: fast, icy, boulder-strewn water crashing down slopes, with deadly currents and few safe crossings.
+- Meandering River: broad looping river with slow bends, sandbars, and rich banks, ideal for boats and settlements.
+- Braided River: wide gravel bed split into many shifting channels, tricky to ford and constantly changing course.
+- River Delta: fan of silty channels and islands at the river's mouth, fertile farmland with ports and marshes.
+- Rapids: churning whitewater over rocks that wrecks careless boats, demands portaging, and marks natural chokepoints.
+- Waterfall: thundering plunge over a cliff edge with mist, hidden caves behind the curtain, and a plunge pool.
+- Cataract: great stepped series of falls and rapids blocking river travel, often guarded by forts or toll keepers.
+- Whitewater Gorge: narrow rock canyon funneling violent river flow between sheer walls, thrilling for rafting and ambushes.
+- Oxbow Lake: crescent-shaped lake cut off from a river's old bend, calm, stagnant, and rich with fish.
+- Backwater: still side channel off a main river, sheltered for boats, thick with weeds, insects, and hidden camps.
+- Ford: shallow river crossing over gravel or stone, a strategic chokepoint for armies, caravans, and bandit tolls.
+- River Island: mid-stream patch of land shielded by moving water, suited to hideouts, small keeps, and fishing camps.
+### Lakes & Ponds
+- Alpine Lake: crystal cold mountain lake ringed by peaks, usually still and deep, with trout and snowmelt feeders.
+- Rift Lake: long, steep-sided deep lake in a tectonic trough, with dramatic cliffs and strange endemic fish.
+- Crater Lake: round lake filling an extinct volcano's bowl, intensely blue, with steep walls and sacred reputation.
+- Glacial Lake: milky meltwater pool dammed by ice or moraine, freezing, silty, and prone to sudden outburst floods.
+- Salt Lake: landlocked saline water with bright crusted shores and brine shrimp, useless to drink but valuable for salt.
+- Soda Lake: caustic alkaline lake with flamingos and eerie coloring, whose chemistry harms travelers yet supports odd life.
+- Reservoir: man-made lake held by a dam, supplying water and power, with drowned buildings and a vulnerable wall.
+- Pond: small still pool of lilies, frogs, and dragonflies, suitable for fishing, watering livestock, and quiet rest.
+- Mere: broad shallow lake bordered by reeds and low fen, often misty and haunted by local legend.
+- Subglacial Lake: hidden body of liquid water trapped beneath ice, isolated for ages and holding strange life.
+- Lake Island: small wooded or rocky isle in open water, natural site for hermits, shrines, and fortified retreats.
+### Springs
+- Spring: natural fount of clean water bubbling from rock, a vital oasis and often a sacred or contested site.
+- Artesian Well: pressurized groundwater rising unaided to the surface, forming a reliable oasis in otherwise dry lands.
+- Seep: slow trickle of water oozing from a hillside, creating a damp green patch and tiny life zone.
+
+## Ocean & Coastal
+### Shoreline
+- Sandy Beach: broad gentle strip of soft sand and shells, good for landings, camps, driftwood, and beachcombing.
+- Pebble Beach: steep shingle shore of rounded stones that crunch underfoot, making sneaking difficult and landings noisy.
+- Boulder Beach: shoreline strewn with huge rounded rocks, slow to cross, offering cover for crabs, seals, and ambushers.
+- Black Sand Beach: dark volcanic shoreline of fine basalt grains, stark against surf and often near active vents.
+- Rocky Shore: wave-battered ledges and crags with slippery weed, gull colonies, and tide pools, hazardous for ships.
+- Sea Cliffs: sheer wave-cut walls of rock with nesting seabirds, crashing surf below, and hard-to-reach ledges.
+- Sea Stack: isolated rock tower left standing offshore by erosion, favored by seabirds and hermits or lookouts.
+- Sea Arch: natural rock bridge carved by waves, framing the horizon and offering a risky passage for boats.
+- Sea Cave: wave-hollowed grotto that floods with the tide, hiding smugglers, treasure, and sudden drowning hazards.
+- Tidal Flat: wide expanse of mud and sand exposed at low tide, rich in shellfish, wading birds, and quicksand.
+- Tide Pool: rocky basin refilled by waves, teeming with starfish, anemones, small crabs, and slippery footing.
+- Lagoon: calm shallow bay cut off from open sea by a reef or sandbar, sheltered and teeming with life.
+- Barrier Island: long narrow sandy strip shielding the mainland from storms, with dunes, marsh, and shifting inlets.
+- Spit: slender finger of sand or gravel stretching into water, useful as a natural causeway or lighthouse site.
+- Sandbar: submerged or exposed ridge of sand near shore that grounds boats and appears and vanishes with tides.
+- Estuary: brackish meeting point of river and sea, rich in fish and birds, ideal for harbors and trade.
+- Fjord: deep steep-walled glacial inlet with still dark water, waterfalls, and isolated settlements under towering cliffs.
+- Bay: broad curving inlet sheltered from open sea, a natural harbor for ports, fishing fleets, and naval bases.
+- Cove: small sheltered inlet ringed by cliffs, perfect for smugglers, hidden landings, and secret anchorages.
+- Headland: rocky promontory jutting into the sea, ideal for lighthouses, watchtowers, and fortresses guarding approaches.
+- Skerries: scattering of tiny rocky islets and reefs that wreck unwary ships yet shelter seabirds and fishers.
+- Archipelago: cluster of many islands with winding channels, ideal for island hopping, pirate lairs, and scattered communities.
+- Atoll: ring-shaped coral island enclosing a calm lagoon, with palms, white sand, and a narrow pass.
+- Coral Island: low sandy isle built on a reef, ringed by shallow turquoise water and teeming marine life.
+- Dune Coast: shifting sandy ridges backing the beach, held by grasses, home to hidden hollows and wandering sands.
+### Open Sea
+- Open Sea: endless rolling water with no landmarks, demanding navigation, supplies, and weather sense, and visited by sea monsters.
+- Ocean Gyre: huge slow-spinning current system that traps drifting ships and collects floating debris and strange wildlife.
+- Whirlpool: swirling vortex of water that drags ships down, marking dangerous narrows and testing helmsmen.
+- Maelstrom: colossal violent whirlpool of legend, spiraling to unknown depths and devouring fleets without mercy.
+- Sargasso Sea: calm tangle of drifting seaweed that stalls sailing ships, sheltering crabs, eels, and ghost wrecks.
+- Ice Edge Sea: cold gray water choked with drifting floes and bergs, rich with whales but risky to ships.
+- Rogue Wave Zone: stretch of ocean where sudden towering waves rise from nowhere, smashing even sturdy vessels.
+- Phosphorescent Sea: water that glows in the dark with living light, revealing wakes and making stealth difficult.
+- Dead Calm: windless glassy ocean that strands sailing ships, draining supplies and morale under a merciless sun.
+- Storm Sea: lightning-lit waters of howling wind and towering swells where ships are tossed, broken, and lost.
+### Reefs & Shallow Life
+- Coral Reef: colorful living structure of branching and brain corals full of fish, sharks, and tight passages.
+- Barrier Reef: long offshore wall of coral shielding a lagoon, a navigational hazard with a few narrow gaps.
+- Fringing Reef: coral shelf hugging the shoreline, easy to wade and snorkel but sharp underfoot and rich in life.
+- Kelp Forest: towering swaying underwater groves of giant seaweed, sheltering otters, fish, and ambush predators in dim green light.
+- Seagrass Meadow: shallow underwater prairie grazed by turtles and manatees, serving as a nursery for fish.
+- Sponge Garden: seafloor patch of colorful tube and barrel sponges, offering dyes, medicines, and hiding places for small creatures.
+- Oyster Bed: dense shallow shell reef harvested for food and pearls, guarded by fishers and mired in silt.
+### Depths
+- Continental Shelf: shallow sunlit seabed extending from the coast, rich in fish, wrecks, and fishing grounds.
+- Continental Slope: steep underwater incline where the seabed plunges toward the deep, scoured by currents and landslides.
+- Sunlight Zone: bright upper ocean layer of plankton, schooling fish, and surface predators, easily seen from above.
+- Twilight Zone: dim mid-depth waters with faint blue light, home to lanternfish, squid, and shy hunters.
+- Midnight Zone: lightless freezing depths of crushing pressure, ruled by glowing lures, giant squid, and unknown horrors.
+- Abyssal Plain: vast dark flat seafloor of soft ooze, sparsely inhabited and littered with sinking remains.
+- Hadal Trench: the deepest, narrowest ocean gash, with extreme pressure, strange pale creatures, and ancient sunken secrets.
+- Seamount: underwater mountain rising from the deep, an oasis of coral, fish, and sharks for travelers.
+- Guyot: flat-topped drowned volcano covered in ancient reef and sediment, a plateau in the deep.
+- Mid-Ocean Ridge: undersea mountain chain where plates spread, with volcanic vents, fresh rock, and heat-loving life.
+- Hydrothermal Vent Field: black smoker chimneys spewing superheated mineral water, surrounded by tube worms, blind crabs, and metals.
+- Cold Seep: seafloor leak of methane and brine feeding mussel beds and bacterial mats in total darkness.
+- Whale Fall: giant carcass resting on the seabed, feeding a temporary ecosystem of scavengers, worms, and bone-eaters.
+- Submarine Canyon: deep steep-walled gorge cut into the seafloor, channeling sediment and currents and sheltering large predators.
+- Underwater Cave: flooded rock passages requiring air supply and light, hiding treasure, trapped creatures, and disorienting dead ends.
+- Blue Hole: deep circular sinkhole in shallow seabed, fringed by reef, with dark depths, strong currents, and sharks.
+- Brine Pool: dense underwater lake of salty toxic fluid on the seafloor, deadly to most animals.
+- Shipwreck Graveyard: seabed or reef strewn with broken hulls and cargo, haunted by salvagers, eels, and drowned ghosts.
+- Underwater Volcano: submarine peak venting heat and lava into the deep, building new islands and boiling nearby waters.
+
+## Underground & Cave
+- Limestone Cave: classic water-carved cavern of smooth passages and dripping formations, with bats, blind fish, and echoing chambers.
+- Crystal Cave: chamber lined with glittering mineral spikes that refract torchlight, valuable for mining and magical resonance.
+- Glowworm Cave: dark grotto ceiling dotted with luminous larvae like a starry sky, calm, damp, and eerily beautiful.
+- Bat Cave: roosting cavern coated in guano and swirling wings, with pungent air, insects, and harvestable fertilizer.
+- Salt Cave: chamber of white crystalline walls and brine pools, with dry air, mining potential, and dehydration hazards.
+- Gypsum Cave: cavern of delicate curled white crystal formations and satin spar, fragile, beautiful, and slippery underfoot.
+- Geode Cave: hollow rock chamber glittering with purple crystals, offering rich gem harvests and sharp, brittle terrain.
+- Flooded Cave: passages submerged in black water that force swimming or diving, hiding air pockets and drowned discoveries.
+- Underground River: hidden stream coursing through dark tunnels, offering raft travel, sudden rapids, falls, and blind fish.
+- Underground Lake: vast silent subterranean pool of still black water, with islands, hidden monsters, and echoing halls.
+- Cavern Hall: huge open underground chamber with towering ceilings, good for settlements, battles, and dramatic reveals.
+- Sinkhole: sudden collapse in the ground opening to a deep pit, exposing hidden caves and drowning the unwary.
+- Cenote: water-filled sinkhole with clear blue pools beneath a jungle opening, used for sacred rites and diving.
+- Karst Network: sprawling limestone landscape of caves, sinks, and vanishing streams, easy to get lost in.
+- Stalactite Hall: cavern with dripping stone spikes hanging overhead, forming natural columns and threatening falling points.
+- Stalagmite Forest: floor crowded with rising stone pillars that form mazes and cover for hiding and ambush.
+- Flowstone Cascade: frozen waterfall of smooth mineral layers draping cave walls, glossy, slippery, and often tinted orange or white.
+- Cave Pool: still clear water pocket in a cavern, a reliable drinking source with blind fish and mineral rims.
+- Pit and Shaft: vertical drops in the cave floor demanding ropes, dropping rocks, and echoing depths, great for traps.
+- Tunnel Network: tight winding passages linking chambers, perfect for mazes, ambushes, hidden routes, and claustrophobic exploration.
+- Burrow: animal-dug warren of narrow earthen tunnels and nests, cramped, smelly, and defended by its resident creatures.
+- Hollow Earth: legendary vast cavity within the planet with its own sky, ecosystems, and lost civilizations.
+- Deep Rock: dense, hot, lightless layer of stone far below, rich in metals and gems and guarded by ancient dangers.
+- Mushroom Cavern: damp cave of giant fungi and spores, providing food, dyes, poison, and eerie glowing light.
+- Underdark: sprawling lightless realm beneath the surface, home to subterranean cities, monstrous predators, and fungal forests.
+- Mineral Vein: seam of ore threading through rock, a prize for miners, claim jumpers, and tunnel diggers.
+- Cave-In Rubble: collapsed tunnel choked with fallen stone, blocking routes, burying relics, and threatening further collapse.
+- Sump: water-filled low point in a cave passage that blocks progress, requiring diving, pumping, or a risky squeeze.
+
+## Volcanic & Geothermal
+### Volcano Types
+- Stratovolcano: steep cone of layered ash and lava with a smoking summit, prone to explosive eruptions and deadly flows.
+- Shield Volcano: broad gently sloping mountain built of fluid lava, with long flows, lava tubes, and vent fields.
+- Cinder Cone: small steep hill of loose volcanic fragments, easy to climb but crumbling underfoot with a crater at top.
+- Caldera: vast bowl left when a volcano collapses, often holding lakes, hot springs, and fertile or barren floors.
+- Lava Dome: bulging mound of thick sticky lava over a vent, prone to sudden collapse and glowing heat.
+- Supervolcano: enormous hidden magma system able to blanket continents in ash, with geysers and a looming catastrophe.
+- Fissure Vent: long crack in the ground spewing lava curtains and gas, creating fiery lines across the land.
+- Maar: broad shallow crater formed by explosive steam blasts, usually holding a round lake or dry ash bowl.
+- Volcanic Island: smoking peak risen from the sea, ringed by black beaches, fresh rock, and sulfurous fumes.
+### Volcanic Features
+- Lava Field: wide expanse of hardened black rock with sharp ridges and glowing cracks, hot, harsh, and barren.
+- Lava Flow: glowing river of molten rock that burns everything in its path, creating moving barriers and fiery spectacle.
+- Lava Lake: roiling pool of molten stone in a crater, radiating intense heat, with crusts, spatter, and toxic fumes.
+- Lava Delta: platform of fresh hardened lava where flows meet the sea, steaming, unstable, and breaking off into surf.
+- Pahoehoe Plain: smooth ropy lava surface that is easy to walk, dotted with hidden tubes and skylights.
+- A'a Rubble Field: jagged clinker lava that shreds boots and slows travel to a painful crawl.
+- Obsidian Field: glassy black volcanic stone plains that sparkle in sunlight, valued for blades and dangerous underfoot.
+- Pumice Plain: light, pitted volcanic stone drifts that crunch and float, covering ground that old eruptions scoured bare.
+- Ash Plain: gray expanse of fine volcanic dust that chokes lungs, muffles sound, and hides pits.
+- Pyroclastic Flow Path: scorched corridor swept by superheated ash avalanches, lifeless and shaped by past deadly eruptions.
+- Basalt Columns: striking hexagonal stone pillars formed by cooled lava, forming natural stairs, cliffs, and dramatic ruin sites.
+- Black Sand Fields: dark volcanic grit plains stretching inland, hot underfoot, sparse of life, and swept by dust devils.
+- Tephra Slope: loose cinder and fragments on a volcano flank that slides underfoot, slowing climbers and starting rockslides.
+- Magma Chamber: cavern of molten rock beneath a volcano, searing hot, glowing, and home to fire creatures.
+### Geothermal
+- Fumarole Field: ground pierced by hissing steam and gas vents, staining rocks yellow and poisoning the air.
+- Geyser Field: basin of periodic boiling water jets, scenic and punctuated by scalding eruptions and thin crusts.
+- Hot Spring Terraces: stepped mineral pools of steaming colored water, ideal for healing, bathing, and slippery climbing.
+- Hot Spring Pools: calm, steaming natural baths in rock basins, offering healing, rest, and sometimes scalding or toxic surprises.
+- Mud Pot Field: bubbling gray and red mud pits that burp gas and splatter, with fragile, scalding ground.
+- Sulfur Flats: yellow crusted ground reeking of rotten eggs, with toxic fumes, acid pools, and valuable mineral deposits.
+- Steam Vents: cracks hissing superheated vapor that scald passersby, obscure vision, and warm otherwise frozen ground.
+- Hot Lake: boiling, steaming water body of vivid colors fed by geothermal heat, deadly to enter and fogged in mist.
+### Tectonic
+- Rift Valley: long sunken trough between parallel cliffs where continental plates pull apart, with lakes, volcanoes, and fertile floor.
+- Fault Line: visible crack where earth plates grind, marked by offset ridges, springs, and sudden quake risk.
+- Earthquake Zone: unstable ground of fresh fissures, shifted buildings, and landslides, where tremors strike without warning.
+
+## Jungle & Tropical
+- Tropical Rainforest: dense, steamy, multilayered woodland with constant rain, vivid wildlife, strangling vines, and little visible sky.
+- Floodforest: tropical woodland seasonally submerged by rivers, where canoes weave among treetops and fish feed on fallen fruit.
+- Cloud Forest: misty highland jungle dripping with moss and orchids, cool, quiet, and rich with rare, shy creatures.
+- Monsoon Forest: seasonal tropical woodland that swings between lush wet months and dry leaf-dropping months with sharp contrasts.
+- Dry Tropical Forest: thorny, drought-adapted woods that shed leaves in the dry season, giving open sightlines and brittle underbrush.
+- Jungle Canopy: sunlit roof of leaves and branches high above the ground, ideal for rope bridges, birds, and monkeys.
+- Emergent Layer: giant trees poking above the canopy into open sky, home to eagles, wind, and lookouts.
+- Understory: dim, humid mid-level of saplings and ferns beneath the canopy, full of snakes, frogs, and ambush spots.
+- Jungle Floor: dark, damp leaf-littered ground thick with fungi, insects, and predators, where visibility and sound are poor.
+- Vine Tangle: impenetrable curtain of hanging creepers that must be hacked through, slowing travel and hiding snares.
+- Jungle River: wide brown waterway winding through green walls, serving as the main road and home to crocodiles.
+- Jungle Waterfall: cascade plunging through hanging greenery into a misty pool, hiding caves, shrines, and swimming dangers.
+- Bamboo Thicket: dense creaking stands of fast-growing stalks, useful for building, rustling with pandas or snakes, and easy to ambush in.
+- Palm Grove: shaded cluster of tall fronded trees yielding coconuts, dates, and shelter, often around an oasis or beach.
+- Palm Beach: sunny shore fringed by leaning palms, with soft sand, coconut crabs, and easy fruit foraging.
+- Tropical Island: lush warm isle with beaches, jungle interior, and a volcanic peak, ideal for castaways and hidden coves.
+- Tropical Savanna: warm grassland dotted with broad trees, home to roaming herds, big predators, and seasonal fires.
+- Jungle Clearing: sunlit gap in dense foliage, used for villages, camps, ruins, and ambush showdowns.
+- Banyan Grove: sprawling fig trees with aerial roots forming living pillars and archways, a natural cathedral and hideout.
+- Orchid Grove: humid forest pocket crowded with spectacular blossoms on every trunk, prized by collectors and guarded by pollinating insects.
+- Epiphyte Wall: cliff or trunk face blanketed in ferns, bromeliads, and mosses holding tiny pools full of frogs.
+- Strangler Fig Forest: woods where parasitic figs wrap and hollow their hosts, leaving hollow trunks and climbable lattice trees.
+- Mossy Rainforest: green-draped woodland where every surface is cushioned in moss, muffling sound and hiding roots and burrows.
+- Peat Swamp Forest: waterlogged tropical woods on thick acidic peat, with tannin-dark pools, stilt roots, and rare fauna.
+
+## Man-made Ruins
+- Ruined City: broken streets and toppled towers of a fallen metropolis, rich in loot, scavengers, and lingering ghosts.
+- Ruined Castle: crumbling fortress with shattered walls, collapsed halls, and forgotten dungeons, ideal for bandits and haunted treasure.
+- Ruined Temple: fallen sacred hall with cracked idols and moss-grown altars, hiding traps, relics, and restless guardians.
+- Ruined Fort: broken defensive walls and gutted barracks overlooking a route, used as a bandit lair or waystation.
+- Sunken City: drowned streets and towers beneath still water, silent and slimy, with treasure vaults and aquatic dwellers.
+- Buried City: settlement entombed under sand, ash, or earth, accessed through shafts and tunnels full of fragile remnants.
+- Overgrown Ruins: ancient stonework swallowed by roots and vines, quietly beautiful and thick with wildlife and hidden entrances.
+- Collapsed Mine: ruined shafts choked with fallen timber and stone, haunted by trapped ore, bad air, and lingering dangers.
+- Abandoned Village: empty houses and untended fields slowly reclaimed by weeds, hinting at plague, war, or something stranger.
+- Ghost Town: dusty deserted streets of a boomtown gone bust, with creaking signs, empty saloons, and eerie quiet.
+- Crumbled Aqueduct: broken arched water bridge cutting across the landscape, offering high perches and lonely shelter.
+- Burnt Ruins: blackened skeleton of a razed settlement, with charred beams, ash drifts, and a lingering stench of fire.
+- Abandoned Factory: rusting machines and echoing halls with broken windows, ideal for scavenging, traps, and squatters.
+- Bombed-Out City: shattered blocks of gutted buildings and cratered streets, offering cover, rubble, snipers, and desperate survivors.
+- Broken Bridge: collapsed span over a gap or river, forcing detours, climbs, or risky crossings and creating natural chokepoints.
+- Rubble Field: wide stretch of broken masonry and debris from collapsed buildings, difficult to cross and rich in scavenged items.
+
+## Fantasy & Magical
+- Enchanted Forest: living woodland of whispering trees and shifting paths, full of glowing sprites, riddles, and bargains.
+- Fey Wilds: dreamlike parallel realm of capricious spirits, impossible colors, and treacherous bargains where time runs strangely.
+- Faerie Glade: sheltered clearing of soft light and flowers where small magical folk dance, trade, and trick visitors.
+- Fairy Ring: circle of mushrooms marking a doorway to the otherworld, tempting travelers into dancing forever.
+- Crystal Forest: woods of glass-like trees and gem leaves that chime in wind, beautiful but sharp and fragile.
+- Glowing Mushroom Grove: dim hollow lit by luminous fungi with spore clouds, offering food, potion ingredients, and quiet hazards.
+- Eternal Winter Land: frozen realm where it never thaws, ruled by frost spirits, ice palaces, and unrelenting cold.
+- Eternal Summer Land: lush endless warm realm of fruit, flowers, and golden light, hiding sleepy temptations and heat.
+- Rainbow Fields: bright meadows of shifting color under constant prismatic mist, enchanted, cheerful, and sometimes quietly disorienting.
+- Sweetland: whimsical realm of candy trees, chocolate rivers, and gingerbread houses, concealing sticky traps and sugary monsters.
+- Wandering Forest: sentient woodland that slowly migrates, rearranging paths, swallowing maps, and swaying with ancient intent.
+- Shifting Sands: restless dunes that rearrange paths, bury landmarks, and uncover lost secrets as the wind turns.
+- Mirror Lake: perfectly still water reflecting more than the sky, used for scrying, doubles, and portals.
+- Singing Caves: grottos where wind and crystals produce haunting music, luring listeners and hiding echoing secrets.
+- Wizard's Tower Grounds: strange gardens, wards, and constructs around a mage's spire, full of hazards, familiars, and oddities.
+- Arcane Wastes: barren land scarred by ancient spell disasters, with warped creatures, wild glyphs, and unstable energies.
+- Mana Well: pool or spring of raw magical energy that recharges casters, attracts monsters, and warps nearby life.
+- Ley Line Nexus: crossing point of earth energy currents, amplifying spells, glowing in lines, and drawing cults and creatures.
+- Wild Magic Zone: area where spells misfire unpredictably, spawning random effects, mutations, and chaotic surprises.
+- Dead Magic Zone: region where all enchantment fails, leaving magic items inert, casters powerless, and the silence unnerving.
+- Elemental Rift: tear in reality gushing raw fire, water, air, or earth, summoning native spirits and warping terrain.
+- Dragon's Lair: vast cavern of heaped gold and gnawed bones, guarded by a mighty wyrm and scorched approaches.
+- Dragon Peak: lofty mountaintop perch of a great wyrm, scorched, windswept, and littered with bones and hoarded loot.
+- Giant's Causeway: colossal stone steps and bridges made for giants, creating epic terrain, climbs, and towering landmarks.
+- Troll Bridge Gorge: deep ravine spanned by a single crossing, controlled by a toll-demanding brute lurking beneath.
+- Dwarven Halls: carved mountain strongholds of forges, vaults, and stone columns, rich in metal, ale, and ancient grudges.
+- Elven Treetop City: graceful settlement of woven platforms and bridges high in great trees, protected by archers and illusions.
+- Goblin Warrens: filthy cramped tunnels packed with traps, scavenged junk, and swarming raiders, led by cunning chieftains.
+- Orc Wastes: scorched, spiked, and smoky badlands of warcamps and forges, ruled by brutal clans.
+- Witch's Swamp: murky bog of hanging charms, cauldron smoke, and crooked huts, guarded by curses and watchful familiars.
+- Cursed Moor: windswept heath of fog, standing stones, and restless dead, where travelers lose their way and sanity.
+- Unicorn Meadow: sparkling sunlit grassland of pure streams and gentle magic, sheltering shy horned creatures and healing herbs.
+- Phoenix Nest Peak: smoldering mountaintop nest of embers and ash where a firebird is reborn, radiating heat and light.
+- Hidden Valley: secret sheltered vale cut off by cliffs or mist, preserving lost peoples, rare beasts, and ancient wonders.
+- World Tree: colossal cosmic tree whose roots and branches span realms, hosting ecosystems, gods, and mystical creatures.
+- Starfall Crater: impact site of a fallen star, glowing with strange metal, wild magic, and curious cults.
+- Moonlit Glade: silver-lit clearing where night creatures gather, rituals peak, and werewolves and spirits emerge.
+- Gem Mountain: peak veined with glittering crystals and ore, enticing miners, dragons, and thieves with dazzling wealth.
+- Golden Fields: endless sun-gilded grain plains shimmering with enchanted abundance, tended by farmers, scarecrows, and harvest spirits.
+- Wishing Well Grove: quiet wood around a magical well that grants wishes at a price and attracts hopeful pilgrims.
+- Stone Circle: ring of ancient standing stones humming with ritual power, serving as portal, calendar, and sacred meeting place.
+- Portal Grove: glade where shimmering gateways open to distant lands, tended by guardians and prone to unexpected arrivals.
+- Hedge Labyrinth: towering living maze of clipped greenery, full of dead ends, riddles, statues, and lurking minotaurs.
+- Witchwood: dark twisted forest of whispering boughs, hexed brambles, and hidden covens, where trees seem to watch.
+- Pale Birch Forest: ghostly woods of white trunks and drifting leaves, quiet and misty, concealing spirits and lost souls.
+- Ink Sea: black, viscous ocean that stains everything and hides slumbering horrors, navigated only by desperate or foolish sailors.
+- Storm Giant Isles: cloud-wrapped islands wracked by lightning, with colossal fortresses, thundering waves, and towering stormborn rulers.
+
+## Sci-Fi & Alien
+### Planet Types
+- Alien Jungle World: planet blanketed in strange towering flora and hostile fauna, with toxic spores and bizarre ecosystems.
+- Bioluminescent Planet: world glowing with living light from plants and creatures, beautiful at night and hiding glowing predators.
+- Crystal Planet: world of enormous gleaming mineral spires and reflective plains, rich in resources and treacherous with razor edges.
+- Ice World: frozen planet of endless glaciers and blizzards, with subsurface oceans, cryo-bases, and bitter cold.
+- Desert World: sun-baked planet of dunes and canyons, with scarce water, sandstorms, giant burrowing beasts, and scavenger tribes.
+- Ocean World: planet covered by deep global sea, with floating cities, sea monsters, and no solid ground.
+- Lava World: molten planet of glowing seas and cracked crust, habitable only in armored outposts or on cooler poles.
+- Toxic Atmosphere World: planet with poisonous air and acid clouds, requiring suits and sealed bases to survive.
+- Terraformed Land: engineered world with newly planted forests and seas, uneven ecosystems, and visible machinery seams.
+- Hive Planet: world dominated by a swarming insectoid or mechanical collective, with sprawling nests and relentless defenders.
+- Mega-City Planet: world covered entirely in towering urban sprawl, layered streets, endless crowds, and corporate power.
+### Constructed Worlds
+- Dyson Sphere Interior: inner surface of a star-enclosing shell, with endless horizon curving upward and artificial daylight.
+- Ringworld: gigantic rotating band habitat with continents on its inner face, bordered by towering containment walls.
+- Orbital Habitat: spinning space station with curved inner landscapes, artificial gravity, and sealed ecosystems.
+- Generation Ship Deck: long-voyage vessel levels holding farms, villages, and forgotten corridors, where descendants have lost their origins.
+- Space Station Corridors: tight metal passageways, airlocks, and humming machinery, ideal for tense chases and boarding actions.
+- Mothership Interior: cavernous vessel interior of hangars, command decks, and barracks, patrolled by crew or invaders.
+- Biodome: sealed glass-enclosed garden or ecosystem on hostile ground, fragile, lush, and vulnerable to breaches.
+- Mars Colony: pressurized red-dust outpost of domes, tunnels, and rovers, struggling against dust storms and shortages.
+- Lunar Base: gray cratered outpost of low gravity, regolith, and airlocks, lit by harsh sun and long night.
+- Asteroid Mining Colony: cramped tunnels and rigs drilled into a tumbling rock, rich in ore and prone to accidents.
+- Spaceport: busy landing field of ships, cargo cranes, customs, and shady dealers, the hub for travel and trade.
+### Digital & Tech
+- Cyberspace Grid: glowing abstract network of data streams and security programs, where hackers fight, trade, and chase information.
+- Virtual Reality World: simulated environment with rules set by its makers, allowing impossible physics, glitches, and hidden exits.
+- Holodeck: projected room that conjures any scene on command, used for training, play, and malfunctioning danger.
+- Server Farm: rows of humming racks in cold, blinking halls, protected by security and holding vital data.
+- Android Factory: assembly lines of mechanical bodies and sparks, producing synthetic workers, with rogue units and tight security.
+- Cloning Vat Hall: chamber of glowing tanks filled with growing bodies, guarded by scientists, ethics, and failed experiments.
+- Cryo-Facility: frosty vault of sleeping pods, mist, and failing power, holding passengers or soldiers and prone to malfunctions.
+- Nanite Swarm Zone: area consumed by self-replicating micro-machines that dissolve matter and rebuild it in strange new shapes.
+### Alien & Exotic
+- Alien Hive: organic tunnels and chitinous chambers pulsing with eggs and resin, guarded by swarms and a monstrous queen.
+- Alien Ruins: ancient structures of unfamiliar geometry and materials, with baffling machines, traps, and clues about vanished builders.
+- Crashed Starship Field: scattered wreckage of fallen vessels across a plain, rich in salvage, hazards, and survivors.
+- Tech Ruins: derelict remains of an advanced civilization with dead consoles and broken drones, ripe for salvage and discovery.
+- Warp Gate: massive ring or arch that opens routes between distant stars, guarded, contested, and prone to dangerous malfunctions.
+- Quantum Realm: bizarre subatomic space where probability bends, objects blink in and out, and physics behaves unpredictably.
+- Antimatter Zone: volatile region where contact with ordinary matter causes violent annihilation, demanding containment and extreme caution.
+- Singularity Edge: black hole's border where light bends, time slows, and gravity tears ships apart.
+
+## Hazard & Wasteland
+- Nuclear Wasteland: scorched barren land of ruined cities and glowing craters, with mutants, scavengers, and invisible radiation.
+- Radiation Zone: contaminated area where invisible exposure drains health over time, demanding suits, counters, and cleanup supplies.
+- Fallout Crater: blast pit of fused glass and blackened soil, ringed by dead land and heavy contamination.
+- Toxic Swamp: bubbling poisoned bog of green sludge and dead trees, spawning mutant plants and sickly creatures.
+- Chemical Spill Lake: brightly colored polluted water that burns skin, kills life, and releases fumes near rusted industrial sites.
+- Acid Rain Plains: open land scoured by corrosive downpours, with pitted metal, bare earth, and shelters crucial to survival.
+- Oil Slick Coast: sticky black-coated shoreline choked with ruined wildlife and flammable pools, slowing travel and sparking disasters.
+- Burning Oil Fields: roaring fires and black smoke over a ruined petroleum landscape, scorching air and obscuring sight.
+- Dust Bowl: parched, wind-stripped farmland of drifting dust clouds, dead crops, and abandoned homesteads.
+- Dead Sea Salt Desert: glaring white crust of dry lakebed, hot, lifeless, and hiding sinking mud under crunchy surface.
+- Strip-Mined Scar: devastated landscape of terraced pits and tailings, with poisoned pools, rusting machinery, and little cover.
+- Landfill Mountains: towering heaps of garbage, smelling of rot, home to scavengers, rats, methane fires, and salvage.
+- Scrapyard Plains: endless fields of wrecked vehicles and machinery, great for salvage, cover, makeshift forts, and territorial gangs.
+- Wreck Field: expanse strewn with crashed vehicles, ships, or aircraft, offering loot, cover, and lurking opportunists.
+- Plague Zone: quarantined area of sickness, abandoned homes, masked guards, and corpses, where contact brings infection.
+- Minefield: deceptively quiet ground seeded with hidden explosives, requiring careful probing, detection, and nerves to cross.
+- Sinkhole Zone: unstable ground riddled with collapses and open pits, where buildings tilt and roads vanish suddenly.
+- Landslide Debris: slope of tumbled earth and boulders blocking passes, unstable underfoot and sometimes hiding buried wreckage.
+- Flood Wreckage: drowned streets and fields strewn with mud, debris, and stranded vehicles, with disease and rising water.
+- Wildfire Burn: blackened woodland of smoking stumps and drifting ash, with flare-ups, hot spots, and little shelter.
+- Meteor Impact Zone: shattered terrain around a huge crater, glassy ejecta, mineral deposits, and lingering heat and dust.
+- Glassed Plain: flat expanse fused to smooth glass by intense heat, brittle, reflective, and eerily lifeless.
+- Famine Fields: barren, cracked farmland with starving villagers and withered crops, driving desperate bandits and migrants.
+- Cracked Earth Plain: parched ground split into deep fissures by drought, harsh, shadeless, and treacherous for wheels and feet.
+
+## Historical Eras
+### Prehistoric
+- Ice Age Mammoth Steppe: cold windswept grassland roamed by woolly mammoths, saber-toothed cats, and spear-wielding hunters in furs.
+- Stone Age Cave Camp: smoky shelter with painted walls, hearths, and bone tools, home to early hunter-gatherer tribes.
+- Neolithic Village: early farming settlement of mud-brick huts, grain stores, and pens, ringed by small fields and fences.
+- Megalith Plain: open land dotted with massive standing stones and burial mounds, used for rituals and astronomical alignment.
+- Lake Dwelling Village: stilt houses over calm water linked by walkways, safe from beasts yet vulnerable to fire.
+- Jurassic Fern Forest: lush warm woodland of ferns and cycads where giant long-necked herbivores and raptors roam.
+- Cretaceous Swamp: humid river wetland of horsetails and early flowers, haunted by armored dinosaurs and giant crocodilians.
+- Carboniferous Coal Forest: steaming wetland of giant ferns and tree-sized horsetails, buzzing with huge insects and oxygen-rich air.
+- Triassic Desert: hot, dry supercontinent interior of red rock and scattered oases, home to early dinosaurs and reptiles.
+- Primordial Sea: warm ancient ocean of primitive life, stromatolites, and strange early creatures beneath a hazy sky.
+- Cambrian Seafloor: shallow ancient sea bottom crawling with armored trilobites, spiny worms, and bizarre early predators.
+- Tar Pit: sticky black pools disguised by water or leaves that trap large animals, drawing scavengers and preserving bones.
+### Ancient
+- Bronze Age Citadel: walled hilltop stronghold with palace, granary, and chariot yard, ruled by warlords and priest-kings.
+- Ancient River Kingdom: irrigated farmland and temple cities along a great river, ruled by god-kings with monumental tombs.
+- Hanging Gardens: terraced palace of lush plants and cascading water, a legendary wonder of luxury and engineering.
+- Greek Polis: city-state of marble temples, agora, theatres, and hoplite militias, known for philosophy and fierce independence.
+- Roman Forum: bustling civic square of temples, speeches, markets, and politicians, at the center of imperial power.
+- Roman Road: straight paved highway lined with milestones, inns, and patrols, linking cities and moving legions quickly.
+- Roman Villa Countryside: rolling estates of vineyards, olive groves, and mosaic-floored farmhouses worked by slaves and tenants.
+- Persian Palace: grand columned complex with gardens, reliefs, and treasuries, serving a king of kings and layers of satraps.
+- Ziggurat City: Mesopotamian metropolis dominated by a stepped temple tower, surrounded by canals, mud-brick houses, and scribes.
+### Medieval
+- Feudal Manor: lord's fortified house with surrounding fields, mill, and peasant huts, run by obligations and seasonal labor.
+- Motte-and-Bailey: early timber castle on a mound beside a fenced courtyard, quick to build and easy to burn.
+- Village Green: central common of a rural hamlet with well, church, tavern, and gossip, ideal for quiet quests.
+- Crusader Fort: stout stone stronghold in a distant land, garrisoned by knights and mercenaries amid hostile territory.
+- Monastery Grounds: cloistered stone complex of chapel, scriptorium, gardens, and cellars, home to monks, manuscripts, and secrets.
+- Walled Town: busy medieval settlement behind defensive ramparts with guilds, markets, gates, and cramped alleys.
+- Plague Village: sickly hamlet of shuttered doors, plague carts, and desperate prayers, avoided by travelers and rife with fear.
+### Early Modern
+- Renaissance City: elegant city of palaces, art workshops, banks, and intrigue, ruled by wealthy families and ambitious patrons.
+- Colonial Port: bustling trade harbor of warehouses, forts, and mixed peoples, blending commerce, corruption, and distant empire.
+- Plantation: sprawling estate of cash crops, a grand house, and forced labor, rife with cruelty and tension.
+- Pirate Haven: lawless harbor town of taverns, hidden coves, and plundered goods, run by captains and rogues.
+- Frontier Fort: lonely wooden stockade on contested wilderness, held by soldiers and traders amid raids and rough weather.
+- Age of Sail Harbor: crowded dock of tall ships, rope, cannon, and merchants, bustling with sailors, press gangs, and cargo.
+- Baroque Palace Gardens: formal geometric gardens of fountains, hedges, and statues in front of an ornate royal residence.
+### Industrial
+- Victorian Slum: soot-stained, crowded tenements and foggy alleys filled with street urchins, factory workers, thieves, and disease.
+- Coal Town: grimy mining settlement of rows of cottages, pit heads, and slag heaps, bound by dangerous labor.
+- Mill Town: factory district of smoking chimneys, looms, canals, and worker housing, ruled by owners and clanging shifts.
+- Railway Junction: busy rail hub of steam engines, signal boxes, freight yards, and travelers, ideal for chases and heists.
+- Gaslit Streets: foggy cobbled lanes lit by flickering lamps, home to cabs, pickpockets, constables, and shadowy killers.
+- Workhouse: grim institution of forced labor, thin gruel, and strict rules, housing the destitute under harsh supervisors.
+- Canal District: industrial waterway lined with warehouses, barges, locks, and mills, used for hauling goods and smuggling.
+### Modern
+- WWI Trench Lines: muddy zigzag trenches, barbed wire, and shell craters across no-man's-land, ruled by artillery and gas.
+- WWII Bunker Coast: fortified shoreline of concrete bunkers, barbed beaches, and searchlights, contested by invading forces.
+- Cold War Bunker: sealed underground shelter of blast doors, supplies, and radios, built for survival of nuclear catastrophe.
+- Suburbia: orderly neighborhoods of identical houses, lawns, cul-de-sacs, and minivans, hiding quiet secrets and small-town mysteries.
+- 1950s Diner Strip: neon-lit roadside of chrome diners, jukeboxes, and big cars, bustling with teens and traveling salesmen.
+- Interstate Highway: wide multi-lane asphalt corridor with overpasses, rest stops, and trucks, ideal for chases and roadside encounters.
+- Skyscraper Canyon: dense downtown of glass towers, wind tunnels, and crowded streets, offering vertical combat and rooftop routes.
+- Airport Tarmac: open expanse of runways, hangars, and idling planes, with fuel trucks, security, and loud engines.
+- Rural Backroads: lonely two-lane country roads past farms, gas stations, and woods, ideal for road trips and horror.
+
+## Cultural & Civilizational Regions
+### Africa & Middle East
+- Nile Valley: narrow fertile floodplain between desert cliffs, dotted with reed boats, irrigation canals, crocodiles, and ancient farming towns.
+- Pyramid Plateau: windswept desert tableland crowned with monumental stone tombs, buried chambers, trapdoor traps, and restless mummified guardians.
+- Temple Complex: colossal columned halls and sphinx-lined avenues carved with hieroglyphs, home to priests, hidden vaults, and curses.
+- Delta Marshes: sprawling papyrus wetlands where the great river splits into channels, hiding hippos, fowlers, and skiff-borne reed fishers.
+- Tigris-Euphrates Plain: flat irrigated farmland between two rivers, studded with mud-brick ziggurats, canal networks, and rival city-states.
+- Caravanserai: fortified desert roadside inn with a central courtyard, stables, and wells, serving traders, spies, and bandit informants.
+- Bazaar City: dense maze of covered market lanes, spice stalls, and haggling merchants, ideal for shopping, pickpockets, and chases.
+- Desert Citadel: sandstone fortress rising from dunes around a guarded oasis, with sun-baked ramparts, hidden cisterns, and sandstorm defenses.
+- Minaret City: skyline of slender towers and domes above whitewashed streets, with scholars, markets, courtyards, and calls echoing at dawn.
+- Savanna Kingdom: grassland realm of thatched royal compounds and cattle herds, patrolled by lions, elephants, and proud mounted warriors.
+- Sahel: semi-arid belt of thorn scrub and cracked earth between desert and savanna, crossed by caravans and drought-hardened herders.
+- Great Zimbabwe Stone City: mortarless granite walls and conical towers on a hilltop capital, rich with gold trade and ritual enclosures.
+- Rainforest Village: clearing of thatched huts under towering canopy, with river canoes, medicinal plants, drumming, and lurking leopards.
+- Mud-Brick City: sun-dried clay towers and flat-roofed houses with protruding timber beams, narrow alleys, and desert merchant guilds.
+- Swahili Coast: palm-fringed trading ports with coral-stone houses, dhow fleets, monsoon spice routes, and a blend of cultures.
+### Europe
+- Aegean Isles: sun-bleached island chain of white villages, olive terraces, rocky coves, and sailing fleets with sea raiders lurking.
+- Acropolis: fortified marble hilltop crowned with columned temples, steep approach stairs, panoramic views, and sacred precincts watched by priests.
+- Roman Province: orderly frontier land of straight stone roads, aqueducts, forts, bathhouses, and marching legions watching restless tribes.
+- Fjord Longhouse: steep-walled sea inlet sheltering timber halls, drying fish racks, and longship moorings among pine-covered cliffs.
+- Viking Longship Coast: rugged shoreline with beached dragon-prowed vessels, raider camps, burning monasteries, and cold surf crashing on shingle.
+- Celtic Hillfort: ringed earthwork ramparts topping a hill, enclosing roundhouses, smiths, and chieftains ready to repel invaders.
+- Druid Grove: ancient oak glade with mossy altars, mistletoe, and standing stones, tended by robed seers and haunted by woodland spirits.
+- Highland Glen: misty valley of heather, loch shores, and stone ruins, with clan skirmishes, wild deer, and sudden fog.
+- Black Forest Village: timbered hamlet beneath dense dark pines, known for woodcutters, clockmakers, folklore wolves, and witches in hidden hollows.
+- Alpine Village: wooden chalets clustered below snowy peaks, with cowbells, cheese cellars, avalanche risks, and winter mountain passes.
+- Tuscan Hills: sunlit rolling terrain of vineyards, cypress lines, and stone villas, perfect for peaceful travel and noble intrigue.
+- Castilian Plateau: high dry tableland of wheat fields and windmills, crowned by fortified towns and knights' castles.
+- Highland Croft: remote stone cottage and sheep pasture on windy moors, offering simple shelter, peat fires, and hardy folk tales.
+- Cotswold Village: honey-stone cottages, wool markets, and hedged lanes in gentle green hills, suited to cozy quests and rural mysteries.
+### Steppe & Slavic
+- Yurt Steppe: endless grass sea dotted with felt tents, horse herds, and mounted archers, with wind, wolves, and raiding clans.
+- Cossack Plains: open frontier grassland patrolled by hard-riding horsemen, with fortified camps, river fords, and skirmishes against raiders.
+- Taiga Village: log cabins in frozen coniferous forest, smoking chimneys, trapper trails, bears, and long deadly winters.
+- Onion-Dome City: snowy walled capital of colorful bulbous cupolas, wooden palisades, fur traders, and bell towers ringing over icy streets.
+### Asia
+- Himalayan Monastery Valley: remote high-altitude vale of prayer-flag strung gompas, yak trails, thin air, and meditating monks beneath icy peaks.
+- Ganges Ghats: stepped riverbank stairways thick with pilgrims, floating lamps, funeral pyres, boatmen, and sacred rituals at sunrise.
+- Mughal Gardens: symmetrical walled paradise of reflecting pools, fountains, and marble pavilions, ideal for courtly intrigue and ambush.
+- Rajput Fortress: sandstone hill fort with heavy gates, elephant ramps, and ornate palaces, defended by proud warrior clans.
+- Pagoda Mountain: misty cliffs strung with tiered temple towers, stone stairways, hermit shrines, and clouds drifting through bamboo.
+- Imperial City: vast walled capital of red gates, courtyards, and golden-roofed halls, ruled by ceremony, eunuchs, and guarded secrets.
+- Bamboo Valley: swaying green stalks that hide winding paths, wandering pandas, swordsmen duels, and creaking rope bridges.
+- Samurai Castle: tiered white keep on stone ramparts with moats, maze-like gates, trap-laced corridors, and loyal retainers.
+- Zen Garden: raked gravel, mossy stones, and pruned pines framing quiet tea houses, perfect for puzzles, meditation, and sudden duels.
+- Great Wall Ridge: long crenellated barrier snaking across mountain crests, with signal towers, patrol walkways, and nomad raiders probing weak spots.
+- Karst Pinnacle River: jade river winding between tall limestone spires wrapped in mist, with cormorant fishers, caves, and bamboo rafts.
+- Floating Village: houses and shops built on rafts and stilts over a lake, linked by boats, nets, and gangplanks.
+- Khmer Temple Jungle: strangler-fig roots crushing carved sandstone towers, hidden faces in stone, snakes, treasure hunters, and forgotten moats.
+- Stilt Village: bamboo homes raised above tidal flats or floods, joined by walkways, canoes, and fishing nets, vulnerable to storms.
+- Spice Islands: humid volcanic isles of clove and nutmeg groves, rich trade ports, rival sultans, and pirate-infested lagoons.
+### Oceania
+- Polynesian Atoll: low coral ring of palms and white sand around a shallow lagoon, with outrigger canoes, shell tools, and storm surges.
+- Outrigger Lagoon: calm turquoise shallows ringed by reef, crowded with fishing canoes, sharks, coral gardens, and drifting tide pools.
+- Dreamtime Outback: red desert plains with rock formations and songlines, strange spirit encounters, scarce water, and ancestral stories carved in stone.
+- Maori Hill Fortress: carved timber palisades atop a terraced hill, with war canoes below, tattooed warriors, and geothermal steam nearby.
+### Americas
+- Mayan Step Pyramid Jungle: stepped limestone temples poking through thick canopy, with ball courts, sinkholes, jaguars, and sacrificial altars hidden in vines.
+- Aztec Lake City: island capital on a shallow lake, connected by causeways and canals, with floating gardens, markets, and blood-soaked temple summits.
+- Inca Mountain Citadel: precisely fitted stone terraces and rope bridges perched on a cloud-wrapped Andean ridge, guarded by llama herders.
+- Nazca Plain: arid highland desert etched with giant ground drawings, buried aqueducts, mummies, and sudden dust storms.
+- Terraced Andes: steep green steps carved into mountainsides growing potatoes and maize, linked by stone stairs, llama trails, and thin air.
+- Plains Tipi Camp: circle of hide tents on open prairie, with horse herds, buffalo hunts, drying racks, and sweeping horizon scouts.
+- Pueblo Cliff Dwelling: adobe rooms stacked in canyon alcoves, reached by ladders, with kivas, sun-baked mesas, and hidden granaries.
+- Woodland Longhouse: bark-covered communal homes in a forest clearing, with cornfields, birchbark canoes, ambush trails, and strong council fires.
+- Totem Pole Coast: misty temperate shore of cedar plank houses and carved poles, with salmon runs, sea canoes, and orca spirits.
+- Arctic Ice Camp: windswept sea ice with snow shelters, sled dogs, seal holes, aurora skies, and deadly polar bears and blizzards.
+
+## Religious & Sacred Sites
+- Stone Temple: solid masonry sanctuary with carved altars and echoing halls, offering healing shrines, hidden crypts, and ritual guardians.
+- Pagoda: multi-tiered tower with upturned eaves and bells, climbable for vistas, housing relics, monks, and ascending challenge floors.
+- Step Pyramid Temple: terraced stone mountain with a summit shrine, steep stairways, sacrificial platforms, and chambers sealed deep within.
+- Cathedral: soaring vaulted nave with stained glass, flying buttresses, crypts below, and bell towers, hosting clergy, sanctuary, and secrets.
+- Basilica: long columned hall ending in an apse and altar, with mosaics, side chapels, relic vaults, and processions.
+- Mosque: domed prayer hall with minarets, ablution courtyards, geometric tilework, and quiet libraries, serving as community refuge and gathering place.
+- Synagogue: modest prayer house with an ark, lamps, study benches, and scrolls, anchoring community life and scholarly discussion.
+- Shinto Shrine: wooden sanctuary among sacred trees, with purification basins, rope charms, fox statues, and quiet festival grounds.
+- Torii Gate Path: lane of vermilion gates winding up a wooded slope, marking passage into spirit realms and watched by foxes.
+- Stupa: rounded relic mound topped with a spire, circled clockwise by pilgrims, ringed with prayer wheels, lamps, and offerings.
+- Gurdwara: open-doored Sikh temple with a golden-domed hall, pool, and communal kitchen, offering free meals, sanctuary, and music.
+- Hindu Temple Complex: towering carved gateways and shrine halls ringed by tanks and courtyards, bright with flowers, incense, bells, and priests.
+- Buddhist Monastery: quiet walled compound of prayer halls, dormitories, gardens, and bells, home to monks, trainees, and martial secrets.
+- Cave Temple: hollowed cavern shrine lit by lamps and carved with statues and murals, hiding relics, bats, and secret passages.
+- Rock-Cut Temple: shrine chiseled directly into a cliff face with pillars and statues, remote, ancient, and full of echoing dark halls.
+- Sun Temple: sunlit shrine aligned to the solstice, gilded and carved, where light puzzles, golden relics, and fire priests await.
+- Moon Shrine: silver-lit sanctuary of pale stone and still water, active at night, with moon rituals, spirits, and dream omens.
+- Druid Circle: ring of tall oaks or megaliths used for seasonal rites, charged with nature magic, mist, and watching robed figures.
+- Oracle Cave: vapor-filled grotto where a seer delivers cryptic prophecies, offering quest hints, strange visions, and dangerous bargains.
+- Pilgrim Route: long devotional road with waystations, shrines, beggars, and weary travelers, ideal for caravan escorts and roadside encounters.
+- Holy Mountain: revered peak with steep trails, hermit huts, summit shrines, and thin air, where trials and visions reward climbers.
+- Sacred River Bank: shoreline of ritual bathing, floating offerings, and prayer fires, with ferrymen, pilgrims, and purifying waters.
+- Holy Spring: bubbling healing pool ringed with votive offerings, restoring health to visitors while attracting guardians, pilgrims, and covetous seekers.
+- Standing Stone Ring: prehistoric circle of weathered monoliths aligned to the stars, humming with old magic, portals, and eerie moonlit rituals.
+- Sacrifice Altar: blood-stained stone platform in a ritual precinct, surrounded by cultists, ominous drums, and offerings that attract dark powers.
+- Hermit Cave: lonely hillside shelter holding a wise recluse, meager supplies, cryptic advice, and perhaps something sinister behind the stillness.
+- Desert Monastery: isolated walled retreat among dunes with deep cisterns, ascetic monks, scriptoriums, and travelers seeking refuge from heat.
+- Cliffside Monastery: precarious complex clinging to a sheer rock face, reached by ladders, lifts, or hidden stairs, remote and defensible.
+- Cloister Garden: peaceful arcaded courtyard of herbs, fountain, and silent walkways, offering healing plants, secret meetings, and contemplative rest.
+- Wayside Shrine: small roadside altar with candles, charms, and offerings, granting minor blessings, travel hints, or ambush opportunities.
+- Prayer Flag Pass: windy mountain saddle strung with fluttering colored flags, cairns, and thin air, marking a sacred and perilous crossing.
+- Sacred Island: isolated holy islet reached by boat or tidal causeway, hosting shrines, hermits, ritual forbidden zones, and storm-lashed shores.
+- Burning Ghat: riverside cremation steps with smoking pyres, mourning families, and ash-laden air, solemn and spiritually charged with haunted undertones.
+- Tabernacle Tent: portable sacred pavilion of woven cloth and gilded poles, central to wandering tribes, guarded by priests and relics.
+- Pilgrim Plain: wide open ground where devotees camp in great numbers, with tents, processions, hawkers, and festival crowds.
+- Ritual Circle: chalked or stone-marked ground for ceremonies, summonings, and oaths, glowing with symbols, candles, and tense chanting participants.
+- Dark Cult Altar: hidden shrine of black stone and candle smoke, tended by masked cultists, surrounded by traps, sacrifices, and eldritch whispers.
+
+## Mythological Realms
+### Greek
+- Olympus: cloud-wreathed mountain palace of marble halls and golden thrones, where capricious gods feast, scheme, and hurl thunderbolts at mortals.
+- Elysian Fields: sunlit meadows of eternal peace for heroes, with gentle breezes, singing, games, and feasting, free of pain.
+- Tartarus: bottomless pit of bronze gates and chained Titans, tormenting the damned with endless punishments and monstrous jailers.
+- Asphodel Meadows: gray, pale-flowered plains where unremarkable souls drift aimlessly, wispy and forgetful, under dim twilight.
+- River Styx Shore: murky underworld bank where ferrymen demand coins, ghosts crowd the fog, and oaths bind even gods.
+- Halls of Hades: shadowy palace of black stone, guarded by a three-headed hound, where the dead are judged by the pale king.
+- Atlantis: drowned island metropolis of concentric canals, crystal towers, and lost technology, ruled by hubris and haunted by sea creatures.
+- Garden of the Hesperides: golden-apple orchard at the world's edge, tended by singing nymphs and guarded by a sleepless serpent.
+### Norse
+- Asgard: gleaming fortress realm of the war gods, with golden halls, rainbow-guarded gates, and mighty walls built by giants.
+- Valhalla: vast hall of shields and spears where fallen warriors feast and battle daily, awaiting the final war.
+- Midgard: the mortal world of villages, forests, and seas, ringed by a monstrous serpent and threatened by giants.
+- Niflheim: frozen misty realm of primordial ice and fog, with poisonous rivers, wandering shades, and gnawing dragons.
+- Muspelheim: scorched land of flame and lava ruled by fire giants, glowing with embers, searing winds, and burning swords.
+- Jotunheim: harsh mountainous realm of frost and stone giants, with enormous halls, treacherous fjords, and brutal tests of strength.
+- Helheim: gloomy underworld of those who died of age or illness, with high walls, a hollow-eyed queen, and cold feasts.
+- Alfheim: radiant forest realm of light elves, with luminous glades, shimmering streams, and graceful, proud, magic-rich inhabitants.
+- Yggdrasil Roots: gnarled cosmic tree roots spanning realms, with wells of wisdom, gnawing serpents, hidden passages, and unseen watchers.
+- Bifrost: shimmering rainbow bridge between realms, guarded by a vigilant sentinel, burning at the touch of enemies.
+### Egyptian & Mesopotamian
+- Duat: perilous underworld river passage of gates, serpents, and lakes of fire, which the dead must navigate nightly.
+- Field of Reeds: lush, golden afterlife marsh resembling an idealized homeland, with bountiful harvests, rivers, and peaceful, eternal labor for the worthy.
+- Hall of Judgment: grand chamber where hearts are weighed against a feather, watched by jackal-headed judges and a devouring beast.
+- Kur: dusty, dark underworld of clay and silence, from which none return, ruled by a stern queen of the dead.
+- Dilmun: pure, radiant paradise island of fresh water and abundant life, free of sickness, hunger, and death.
+### Abrahamic
+- Eden: lush primordial garden of fruit trees, rivers, and gentle beasts, guarded by flaming sentinels after the fall.
+- Heaven: radiant celestial realm of golden light, pearly gates, choirs, and winged hosts, serving as peaceful reward and divine court.
+- Hell: fiery infernal pit of torment, demons, brimstone, and endless suffering, ruled by a fallen adversary and his legions.
+- Purgatory: mountainous place of purification where souls climb terraces, bearing burdens and cleansing sins before ascending to paradise.
+- Limbo: gray borderland of quiet, unfulfilled souls, neither punished nor rewarded, filled with melancholy, mist, and idle longing.
+- Gehenna: smoldering valley of fire and refuse, symbolizing judgment and destruction, with burning pits, wailing shades, and charred ground.
+- Paradise Gardens: terraced celestial orchards of flowing rivers, shade, fruit, and fountains, offering rest, abundance, and serenity for the blessed.
+- Circles of the Inferno: nine descending rings of escalating torment, each with themed punishments, monstrous wardens, and gloomy landscapes.
+### Hindu & Buddhist
+- Mount Meru: golden world-axis mountain, tiered with heavens and palaces, circled by sun and moon, home to deities.
+- Naraka: layered hellish realms of purification, with torture pits, boiling oceans, flame trees, and judging servants of the death lord.
+- Svarga: luminous heavenly paradise of celestial gardens, music, and nectar, ruled by thunder-wielding king and graced by dancers.
+- Pure Land: serene lotus-filled paradise of jeweled trees and golden ponds, where seekers gain enlightenment free of suffering.
+- Hungry Ghost Realm: barren, shadowy wasteland of gaunt spirits with swollen bellies and needle throats, cursed with insatiable craving.
+- Vaikuntha: radiant celestial abode of the preserver deity, with jeweled palaces, endless milk ocean, and perfected, blissful servants.
+### East Asian
+- Celestial Court: bureaucratic heavenly palace of jade, clouds, and golden roofs, ruled by emperor gods, ministers, and scheming immortals.
+- Peach Garden of Immortals: sacred orchard whose fruit grants eternal life, jealously guarded by a queen mother and heavenly soldiers.
+- Diyu: multi-tiered underworld of judgment halls and torture chambers, administered by ox-headed and horse-faced guards under hellish magistrates.
+- Mount Penglai: mist-shrouded island of immortals, rumored to hold elixirs of life, invisible to those who search unworthily.
+- Mount Kunlun: sacred western peak of jade palaces, divine springs, and mythical beasts, abode of the queen mother and immortals.
+- Yomi: dark underworld of decay and shadow, entered through a hidden cave, where the dead mutate and hunt the living.
+- Takamagahara: high plain of heaven where sun and storm gods reside, with sacred halls, mirrors, rice fields, and shining rivers.
+- Ryugu Palace: coral-and-pearl underwater castle of the dragon king, with tide jewels, shifting time, fishy courtiers, and sea magic.
+### Celtic & Slavic
+- Tir na nOg: eternal-youth island across the western sea, golden-lit and timeless, where visitors forget age but risk lost years.
+- Avalon: misty apple-orchard isle shrouded in enchantment, where wounded kings heal under priestesses' care and legendary blades are forged.
+- Annwn: shadowy otherworld of hunts, cauldrons, and shifting castles, ruled by a dark lord, where bargains carry heavy costs.
+- Fairy Mound: grassy hill concealing a glittering court of fae, with feasts, dance, trickery, and time passing strangely inside.
+- Nav: Slavic realm of the dead, a misty twilight beyond the world tree, where ancestors wander and spirits roam.
+- Baba Yaga's Hut Grounds: bone-fenced forest clearing around a chicken-legged cottage, haunted by riddles, mortars, hungry crones, and strange guardians.
+### Mesoamerican & Other
+- Mictlan: nine-layered underworld of rivers, mountains, and obsidian winds, through which souls journey, aided by faithful dog companions.
+- Xibalba: dark Maya underworld of trial houses, bat caves, and lord demons, testing heroes with riddles, blades, and lethal games.
+- Tlalocan: lush rain paradise of rain god, with endless green gardens, water-lilies, and abundance for those taken by water.
+- Happy Hunting Ground: peaceful afterlife of rolling prairies and teeming game, where ancestors ride and hunt without hunger or hardship.
+- Shamballa: hidden Himalayan kingdom of enlightened rulers, guarded by snow peaks, mystic lotus walls, and secret doors for the pure.
+- Hyperborea: sunlit northern utopia beyond the cold wind, where long-lived sages sing and feast in endless daylight and warmth.
+- Lemuria: sunken Pacific continent of lost civilization, with overgrown ruins, mystic crystals, and ancient psychic knowledge.
+- El Dorado: legendary city of gold hidden in jungle highlands, luring explorers with riches, deadly traps, and treacherous guides.
+- Shangri-La: secluded mountain valley paradise of calm, longevity, and learning, hidden by blizzards and reached only by lucky wanderers.
+
+## Military & Battlefield
+- Castle: stone stronghold with curtain walls, towers, gatehouse, and keep, providing lordly residence, defensive chokepoints, and siege objectives.
+- Keep: massive fortified central tower, last refuge of a castle, with thick walls, narrow windows, dungeons, and armories.
+- Citadel: heavily fortified inner stronghold dominating a city, with layered walls, garrison barracks, and commanding views over approaches.
+- Fortress: bastioned, sprawling defensive installation with ramparts, moats, and cannons, designed to hold borders against long sieges.
+- Siege Camp: sprawling encampment of tents, catapults, and campfires ringing an enemy stronghold, vulnerable to sorties, disease, and raiders.
+- Siege Tower Field: churned ground below walls with rolling towers, rams, ladders, and burning pitch, bloody and chaotic during assaults.
+- Trench Line: muddy zig-zag earthworks reinforced with sandbags and barbed wire, under shellfire, with rats, dugouts, and terrified soldiers.
+- No-Man's-Land: cratered, barbed-wire wasteland between enemy lines, swept by machine guns and shells, with corpses and craters offering cover.
+- Bunker Complex: reinforced concrete shelter network with corridors, armories, and command rooms, damp, dim, and hard to assault.
+- Watchtower: tall lookout post with signal fire or lamp, offering vision over surrounding land, archer positions, and early warning against raiders.
+- Border Wall: long fortified barrier with patrols, checkpoints, and watchtowers, controlling crossings and testing smugglers, spies, and infiltrators.
+- Barricade Street: urban lane blocked with carts, furniture, and rubble, defended by rebels, with rooftop snipers and tight street fighting.
+- Naval Fleet Harbor: crowded military port of warships, docks, cranes, and barracks, with cannons, patrol boats, and tight security.
+- Battlefield Meadow: open grassy field of clashing armies, scattered banners, fallen soldiers, and trampled flowers, ideal for large-scale engagements.
+- Ambush Pass: narrow canyon or forest road with high ground on both sides, perfect for traps, rockfalls, archers, and bloody surprises.
+- Fortified Bridge: stone crossing with gatehouse towers, portcullis, and defenders, controlling river passage and creating a deadly chokepoint for armies.
+- Missile Silo: underground launch complex with a hardened hatch, long shafts, blast doors, and control rooms, grim, sterile, and dangerous.
+- Training Ground: dusty drill yard with obstacle courses, dummies, archery butts, and sparring rings, where recruits learn skills and instructors test them.
+- Barracks Yard: open yard before soldier dormitories, with drills, inspections, gambling, and gossip, bustling at dawn and tense before deployment.
+- War Camp: rough tent city of an army on campaign, with cookfires, banners, supply wagons, war councils, and nervous sentries.
+- Palisade Fort: log-walled frontier stockade with watchtowers and a single gate, defended by settlers or soldiers against raids.
+- Armory: weapon storehouse of racks, forges, and crates, guarded by quartermasters, offering gear upgrades and tempting thieves.
+- Dry Dock: drained basin holding a ship under repair, with scaffolding, cranes, hammers, and tar, tense during sabotage or siege.
+- Command Bunker: fortified war room with maps, radios, and officers, buried below ground, central to strategy and prime target for infiltrators.
+- Airbase: flat strip of runways, hangars, fuel dumps, and control towers, with parked aircraft, patrols, and vulnerable ground crews.
+- Scorched Earth Front: ravaged land of burned fields, ruined villages, and smoking wells, stripped of resources and littered with abandoned equipment.
+- Refugee Camp: crowded tent settlement of displaced families, with scarce food, disease, aid workers, and desperate traders under constant threat.
+- Field Hospital: makeshift medical tents near the front, full of wounded, surgeons, and bloody cots, offering healing but constant danger.
+- Sea Fort: stone or iron fortress on a rock or artificial island, with cannon batteries guarding harbors and difficult approach by boat.
+- Tank Graveyard: field of rusting wrecked armor and twisted metal, offering salvage, cover, scavengers, and unexploded ordnance among the hulks.
+
+## Settlements & Dwellings
+### Wilderness Dwellings
+- Nomad Camp: portable tents and campfires pitched near water, with herds, wagons, and wary scouts, ready to move at a moment's notice.
+- Hunter-Gatherer Camp: small band's temporary shelters near game trails and berry patches, with drying racks, stone tools, and wary watchers.
+- Tent Camp: temporary canvas shelters clustered around a fire pit, used by travelers, soldiers, or explorers, vulnerable to weather and raiders.
+- Hermit Hut: tiny remote cabin hidden in woods or hills, home to a reclusive sage, healer, or outlaw with secrets.
+- Treehouse Village: platforms, huts, and rope bridges high in the canopy, safe from ground predators, home to forest folk and archers.
+- Cave Dwelling: natural rock shelter used as a home, with smoky hearths, hanging furs, and cool interior, easily defended but damp.
+- Cliff Dwelling: houses built into canyon walls and reached by ladders or ropes, secure from attackers and hidden from casual view.
+- Igloo Village: cluster of snow-block domes on the ice, with tunnels, seal oil lamps, sled dogs, and brutal wind outside.
+- Houseboat Harbor: sheltered anchorage of moored homes on water, linked by planks and dinghies, with lively markets and smugglers.
+- Lighthouse Rock: solitary tower on wave-battered crag, with beacon, keeper's quarters, shipwreck salvage, storms, and ghostly signals.
+### Rural
+- Hamlet: tiny cluster of cottages and a well, with a few farmers, a shrine, and no real defenses.
+- Village: modest farming community with a green, inn, chapel, and mill, offering supplies, rumors, and simple quests.
+- Farmstead: isolated homestead of farmhouse, barn, and fields, supplying food, shelter, and work while vulnerable to raiders and wolves.
+- Manor House: fortified country residence of a local lord with gardens, stables, servants, and politics, a hub for rural intrigue.
+- Fishing Village: seaside huts with drying nets, boats, and smokehouses, stinking of brine, with gossip, smugglers, and sea monsters offshore.
+- Mountain Village: stone houses clustered on steep slopes with terraced plots, goats, and narrow paths, isolated by snow and avalanches.
+- Mining Camp: rough settlement of tents, shacks, and tunnels beside a dig, bustling with prospectors, claim disputes, cave-ins, and gold fever.
+- Logging Camp: forest clearing of bunkhouses, sawpits, and felled timber, noisy with axes and rivers jammed with floating logs.
+- Trading Post: remote outpost of storehouse, hitching posts, and traders, swapping furs, tools, and news with travelers and locals.
+- Frontier Town: dusty boomtown of saloons, stables, and false-front shops on the edge of settlement, with lawmen, outlaws, and gunfights.
+- Ranch: sprawling livestock property of corrals, bunkhouse, and open range, run by cowhands, threatened by rustlers, drought, and predators.
+### Urban
+- Town: bustling market settlement of houses, shops, taverns, and a guard post, offering services, jobs, rumors, and mild danger.
+- Walled City: dense settlement enclosed by stout ramparts and gates, with tight streets, guards, and curfew bells, safe from outside threats.
+- City: large urban center of crowded districts, markets, temples, and guilds, offering endless shopping, crime, politics, and adventure hooks.
+- Capital: seat of government with palaces, courts, grand avenues, and embassies, brimming with nobles, spies, bureaucrats, and grand ceremonies.
+- Port City: harbor metropolis of docks, warehouses, taverns, and shipyards, mixing foreign sailors, merchants, pirates, press gangs, and smuggling.
+- Metropolis: sprawling modern city of towers, traffic, and neon, thick with crowds, corporations, crime, and layered districts.
+- Megacity: gigantic overbuilt urban mass of stacked districts, endless suburbs, megastructures, and gangs, almost its own world.
+- Slum: crowded shantytown of shacks and open sewers, rich in street life, crime, disease, informants, and desperate resilience.
+- Suburb: orderly residential ring of houses, lawns, and quiet streets, hiding secrets, local rivalries, and strange neighbors.
+- Alleyway Maze: tangled network of narrow passages and dead ends, ideal for chases, ambushes, shady deals, and hidden shops.
+- Rooftop Network: skyline of connected roofs, ledges, and ladders above the streets, favored by thieves, parkour runners, and snipers.
+- Sewer System: dank tunnels beneath the city, with filthy water, rats, smugglers, hidden lairs, and bypasses around guarded locations.
+- Subway Tunnels: dark underground rail corridors and abandoned stations, with sparking cables, echoing trains, scavengers, and lurking horrors.
+- Underground City: subterranean settlement of carved halls, lit tunnels, and fungus farms, sealed from sun and sheltered from surface threats.
+- Skyscraper District: forest of glass towers, plazas, and sky bridges, packed with offices, security, elevators, and heist opportunities.
+- Tower Block: tall residential slab of cramped apartments, graffiti corridors, broken lifts, and tight-knit, rough communities.
+- Gated Estate: wealthy walled enclave of mansions and manicured lawns, with guards, cameras, and secrets, tempting burglars and investigators.
+- Palace: opulent royal residence of gilded halls, gardens, guards, and intrigue, packed with courtiers, treasure, assassins, and ceremony.
+- Mansion Grounds: sprawling estate of gardens, hedge maze, outbuildings, and a big house, favored for parties, mysteries, and heists.
+- Castle Town: bustling settlement clustered around a lord's fortress, offering craftsmen, soldiers, markets, and refuge during sieges.
+- Garden District: leafy upscale quarter of villas, parks, fountains, and quiet cafes, tranquil but hiding gossip and discreet crime.
+- Canal City: waterway-laced town of bridges, gondolas, and quays, where boats replace carts and intrigue floods narrow lanes.
+- Floating City: sprawling settlement on rafts, pontoons, or sky platforms, drifting or anchored, with docks, markets, and precarious foundations.
+### Interiors
+- Tavern: smoky drinking hall with fires, music, and brawls, the classic spot for rumors, hirelings, quest givers, and trouble.
+- Inn: roadside lodging with beds, stable, and common room, offering rest, meals, gossip, and secret visitors in the night.
+- Great Hall: grand feasting chamber of a lord, with long tables, banners, hearth, and minstrels, host to court, council, and betrayal.
+- Throne Room: ceremonial chamber with raised seat, guards, and tapestries, where rulers judge, petitioners plead, and plots unfold.
+- Kitchen: busy cooking space of ovens, pots, and pantries, with cooks, scullions, knives, and stolen scraps, crossing servants' paths.
+- Cellar: cool underground storeroom of barrels, crates, and cobwebs, hiding vermin, wine, secret doors, and forgotten horrors.
+- Attic: dusty top-floor storage under the rafters, full of trunks, relics, cobwebs, and ghostly keepsakes, ideal for discoveries.
+- Bedchamber: private sleeping quarters with canopy bed, wardrobe, and hearth, offering rest, secrets, hidden compartments, and nighttime intruders.
+- Courtyard: open inner yard of a castle or manor, with a well, stables, and gathering crowds, central to movement and ambush.
+- Ballroom: sweeping dance hall with chandeliers, polished floors, and musicians, ideal for masked intrigue, romance, assassinations, and grand entrances.
+- Guild Hall: headquarters of a trade or adventuring guild, with meeting rooms, archives, banners, and job boards, a hub for quests.
+- Smithy: hot workshop of anvil, forge, and bellows, where smiths craft and repair weapons and tools amid sparks and hammering.
+- Chapel: small consecrated room of pews, candles, and altar, offering healing, sanctuary, confession, and quiet places for secret meetings.
+
+## Trade & Transport
+### Roads & Crossings
+- Dirt Road: rutted dusty track between villages, muddy in rain, traveled by carts and peddlers, and prone to bandits.
+- Cobblestone Street: paved city lane of rounded stones, noisy with hooves, lined with shops, and treacherous with wet slippery patches.
+- Highway: broad modern road of lanes, signs, and rest stops, built for speed, with traffic, checkpoints, and roadside diners.
+- Mountain Pass Road: narrow winding route over a high saddle, prone to rockfall, snow, bandits, and dizzying drops.
+- Switchback Trail: zigzag path up a steep slope, slow and exposed, with ambush points at each turn and fine overlooks.
+- Silk Road Route: ancient caravan trail linking distant empires, thick with merchants, camels, oases, bandits, and exotic goods.
+- Royal Road: well-maintained imperial highway with waystations, relay riders, patrols, and tolls, enabling fast official travel across vast territory.
+- Game Trail: faint animal path through wilds, used by hunters and trackers, leading to water, prey, and unexpected predators.
+- Rope Bridge: swaying span of planks and cord across a chasm, creaking underfoot, easily cut, and perfect for tense crossings.
+- Stone Bridge: sturdy arched crossing over a river, durable and wide, offering a chokepoint for toll collectors, battles, and ambushing trolls.
+- Drawbridge: raised or lowered span before a castle gate, controlling access across a moat, vulnerable to sabotage and timing puzzles.
+- Toll Gate: barrier on a road or bridge where guards collect fees, inspect goods, and tempt bribery, smuggling, and disputes.
+- Mountain Tunnel: dark bored passage through rock, echoing and damp, used by trains or caravans, prone to collapses and lurking creatures.
+### Water Transport
+- Harbor: sheltered coastal anchorage ringed by quays, warehouses, and breakwaters, busy with ships, sailors, customs, and rumors of distant lands.
+- Dock: wooden or stone landing for loading cargo, stacked with crates and ropes, crowded with stevedores, thieves, and rats.
+- Pier: long platform jutting over water for fishing, mooring, or amusements, creaking planks, gulls, and the occasional lurking smuggler.
+- Canal: man-made waterway for barges and boats, lined with towpaths and bridges, slow, calm, and perfect for chases.
+- Canal Lock: gated chamber raising or lowering boats between water levels, with winches, keepers, and puzzle timing opportunities.
+- Ferry Crossing: raft or boat service across a river, run by a ferryman, offering a slow break, tolls, and sneaky encounters.
+- River Port: inland dock town on a navigable river, trading barges, timber, and grain, with mills, markets, and river pirates.
+- Boat Landing: simple riverbank or lakeside mooring of planks and posts, serving fishermen and travelers, quiet, muddy, and mildly exposed.
+- Lighthouse: tall coastal tower with beacon, spiral stair, and keeper, warning ships off rocks and offering views, storms, and wreckers.
+- Ship Lane: marked sea route crossing open water, busy with traders and warships, prone to storms, pirates, and sea monsters.
+### Rail & Air
+- Railway Station: busy hub of platforms, ticket halls, clocks, and steam or electric trains, crowded with passengers, porters, pickpockets, and spies.
+- Rail Yard: sprawling field of tracks, sidings, locomotives, and freight cars, ideal for stealth, sabotage, chases, and hidden cargo.
+- Train Tunnel: dark rail bore through hills or beneath cities, noisy and cramped, with narrow walkways, oncoming trains, and sudden danger.
+- Elevated Rail: raised track on viaducts or pylons above streets, providing fast transit, rooftop views, and thrilling fights atop moving carriages.
+- Airport: large complex of terminals, runways, hangars, and control tower, thick with security, crowds, cargo, and tense chases.
+- Airfield: small rough landing strip with a hangar and fuel drum, used by bush pilots, smugglers, and early aviators.
+- Cable Car Line: suspended gondolas hauled along cables across valleys or between peaks, offering scenic travel, swaying fights, and sabotage risks.
+- Zipline Route: pulley-slung rope descending between platforms, offering rapid traversal, daring escapes, and thrilling jungle or canopy shortcuts.
+### Markets
+- Bazaar: sprawling labyrinth of stalls, awnings, and shouting vendors selling spices, cloth, and curiosities, rife with haggling and thieves.
+- Market Square: open town plaza filled with stalls, fountains, and a central cross, hosting trade, executions, festivals, and public announcements.
+- Auction Hall: grand room with raised block, rows of bidders, and discreet guards, selling treasures, slaves, or relics to high bidders.
+- Night Market: lantern-lit stalls open after dark, selling street food, trinkets, and illicit goods amid crowds, steam, and neon.
+- Floating Market: boats laden with produce and goods jostling on a river or canal, bartering from deck to deck.
+- Merchant Quarter: affluent district of trading houses, warehouses, and counting rooms, home to wealthy traders, guild politics, and guarded vaults.
+- Smuggler's Cove: hidden sea inlet with caves, rowboats, and lookouts, where contraband changes hands away from customs and law.
+- Black Market Alley: shadowy backstreet of whispered deals, locked doors, and covert vendors selling stolen, banned, and dangerous wares.
+- Warehouse District: grid of large storage buildings, cranes, and loading docks, quiet at night, ideal for heists, fights, and shady meetings.
+- Customs House: official building at port or border where cargo is taxed and inspected, ripe with bribery, forgery, and bureaucratic tangles.
+- Mall: enclosed shopping center of stores, food courts, escalators, and parking, offering supplies, crowds, security cameras, and surprising battle arenas.
+
+## Agriculture & Pastoral
+### Crop Land
+- Wheat Field: golden rippling expanse of grain under open sky, offering cover for ambushes, scarecrows, harvest festivals, and fire risks.
+- Rice Paddy: flooded terraced field of green shoots, tended by farmers wading in mud, with water buffalo, frogs, and snakes.
+- Terraced Rice: stair-stepped paddies carved into hillsides and fed by channels, glittering with reflected sky, steep, slippery, and labor-intensive.
+- Vineyard: neat rows of grapevines on sunny slopes, with press houses, cellars, pickers, and tipsy intrigue during harvest season.
+- Orchard: ordered rows of fruit trees giving shade, seasonal blossoms, ladders, and bees, good for picnics, hiding, and foraging.
+- Olive Grove: gnarled silver-leaved trees on dry hillsides, with stone presses, harvest nets, pressing season, and ancient wisdom.
+- Hop Yard: tall trellises of climbing bines for brewing, with drying kilns, pickers, and sweet bitter scent in late summer.
+- Cotton Field: white-tufted plants stretching across warm flat land, with pickers, wagons, gins, and a hard history of labor.
+- Sugarcane Field: tall dense stalks swaying in tropical heat, with cane knives, mills, and cover for ambushes and fires.
+- Tea Plantation: tidy green bushes on misty hillsides, tended by pickers, with drying sheds, terraces, and cool, fragrant air.
+- Coffee Hillside: shady slopes of glossy bushes with red cherries, pickers, drying patios, and mills, rich with aroma and smuggled beans.
+- Pumpkin Patch: autumn field of sprawling vines and orange gourds, with scarecrows, harvest games, hay rides, and spooky seasonal events.
+- Sunflower Field: tall golden blooms turning toward the sun, offering cheerful vistas, hiding places, bees, and summer festival backdrops.
+- Lavender Field: purple rows of fragrant blooms humming with bees, ideal for calm scenes, perfume distillers, and peaceful rural settings.
+- Tulip Field: vivid stripes of spring flowers in neat bulb rows, drawing tourists, traders, and windmill-dotted lowland scenery.
+- Vegetable Gardens: tidy plots of cabbage, beans, and roots, with scarecrows, compost heaps, rabbits, and busy family gardeners.
+- Cranberry Bog: shallow flooded beds of floating red berries, harvested by wading workers, with mud, cold water, and autumn mist.
+- Fallow Fields: resting farmland of weeds, grass, and bare soil, offering open ground, wildlife, wandering livestock, and quiet travel.
+- Terraced Hills: steep slopes cut into stepped growing platforms with retaining walls, stairs, and irrigation, supporting dense mountain farming communities.
+### Controlled Growing
+- Greenhouse Complex: glass or plastic houses of humid air, hanging plants, and irrigation, producing exotic crops, medicinal herbs, and cramped hiding spots.
+- Hydroponic Farm: stacked trays of soilless crops under artificial light and pumps, humming, sterile, and vital to futuristic food supply.
+- Kitchen Garden: small household plot of herbs, vegetables, and berries beside a cottage, supplying meals, remedies, and local gossip.
+- Herb Garden: fragrant beds of culinary and medicinal plants with labels, bees, and stone paths, tended by healers and alchemists.
+- Allotments: patchwork of small rented plots with sheds, compost, and scarecrows, bustling with hobbyist growers, rivalries, and neighborly gossip.
+### Livestock & Pastoral
+- Paddock: fenced enclosure for horses or cattle with a trough and shelter, used for training, breeding, and quiet dealings.
+- Pasture: open grassy range grazed by livestock, with fences, streams, and herders, peaceful but exposed to predators and weather.
+- Cattle Ranch: vast grazing lands, corrals, and branding pens run by cowhands, vulnerable to rustlers, stampedes, drought, and range wars.
+- Sheep Down: rolling chalk or grass hills grazed by flocks, with shepherds, dogs, wind, low stone walls, and hungry wolves.
+- Alpine Pasture: high summer meadow of wildflowers, cowbells, and herder huts beneath peaks, with sudden storms and cheese-making.
+- Goat Terraces: rocky stepped slopes where agile herds graze, with climbing paths, thorny brush, and precarious shepherds.
+- Pig Farm: muddy pens, sties, and feed troughs, noisy and smelly, with slaughter days, truffle-hunting hogs, and hungry beasts.
+- Chicken Yard: fenced barnyard of coops, nesting boxes, and scratching hens, offering eggs, noisy alarms, and fox raids.
+- Beehive Meadow: flowering field dotted with hives and buzzing foragers, producing honey and wax, with stings, beekeepers, and magical hive queens.
+- Dairy Barn: warm stall-filled building of cows, milking pails, and churns, with hay lofts, cheese rooms, and early-morning chores.
+- Haystack Field: cut meadow stacked with golden bales and stooks, offering hiding spots, fire hazards, harvest work, and playful pranks.
+### Aquaculture
+- Fish Pond: still freshwater pool stocked with carp or trout, ringed by reeds and nets, tended by farmers and herons.
+- Aquaculture Pens: netted offshore or lake enclosures raising fish and shellfish, with feeding platforms, workers, and risk of storms and predators.
+- Duck Marsh: reedy shallows alive with ducks and geese, managed by decoy hunters and egg gatherers, noisy, muddy, and hidden.
+
+## Industry & Resource
+### Mining
+- Open Pit: vast terraced excavation spiraling downward, with haul roads, dump trucks, blasting zones, and unstable benches.
+- Quarry: sheer-walled stone pit with cutting platforms, cranes, and rubble piles, offering cover, climbing routes, and falling-rock hazards.
+- Salt Mine: glittering white tunnels and chambers of crystalline rock salt, dry and echoing, with brine pools and cart rails.
+- Coal Mine: cramped black shafts with timber supports, minecarts, and lamp light, threatened by gas pockets and cave-ins.
+- Gold Mine: lantern-lit tunnels and sluice works chasing glittering veins, popular with prospectors, claim jumpers, and collapsing timbers.
+- Diamond Mine: deep shafts and floodlit pits guarded by fences and checkpoints, where gem hauls attract thieves and heist plots.
+- Slag Heap: smoldering mounds of dark industrial waste, crunchy underfoot, venting fumes and heat, and sheltering scavengers.
+- Ore Processing Yard: noisy crushers, conveyors, and ore stockpiles ringed by trucks and tanks, good for chases and sabotage.
+- Underground Mine: sprawling network of shafts, lifts, and rail tunnels with tight lighting, ventilation problems, and lurking cave dwellers.
+- Placer Gold Stream: shallow gravel creek dotted with sluice boxes and panning prospectors, offering small gold flecks and rough frontier camps.
+- Clay Pit: wet red or gray excavation with slick slopes, standing puddles, and brickworks nearby, slowing movement and hiding footprints.
+### Manufacturing & Energy
+- Foundry: roaring furnaces and glowing molten metal channels in a soot-blackened hall, with scalding splashes and heavy crucibles.
+- Forge: compact smithy with anvil, bellows, and coal fire, where weapons and tools are crafted, repaired, or upgraded.
+- Steelworks: colossal mill of blast furnaces, rolling lines, and gantries spraying sparks, intensely hot and deafening with crushing machinery.
+- Smelter: heat-blasted plant that melts ore into metal, with slag flows, toxic fumes, and cramped catwalks.
+- Refinery: maze of pipes, tanks, and flare stacks processing fuel, prone to explosions, leaks, and fiery set-piece battles.
+- Oil Field: flat scorched land of pumpjacks and storage tanks, slick with crude, flammable, and fiercely contested by rival crews.
+- Drilling Rig: tall steel derrick on a muddy pad, with pipe racks, noise, and blowout risk, often remote and fortified.
+- Offshore Rig: steel platform towering over open sea, linked by cranes and helipads, battered by storms and vulnerable to boarding.
+- Chemical Plant: rows of reactors and tanks laced with warning signs, leaking colored vapors, toxic spills, and volatile reactions.
+- Power Plant: humming turbine halls, boilers, and pylons behind fences, a strategic target where shutting down generators kills lights.
+- Nuclear Plant: containment domes and cooling pools behind heavy security, radiating glowing hazard zones, meltdown timers, and fierce lockdowns.
+- Hydroelectric Dam: massive concrete wall holding back a reservoir, with spillways, turbine galleries, and climbable faces above deadly drops.
+- Wind Farm: open ridge dotted with giant turbines turning slowly, offering sightlines, climbable towers, and steady gusts.
+- Solar Farm: acres of glinting panel rows with service lanes, bright reflections, and narrow cover for sneaking or skirmishes.
+- Factory Floor: loud assembly lines, robotic arms, and conveyor belts, where moving machinery makes both obstacles and weapons.
+- Warehouse: towering shelves, forklifts, and shipping crates in dim halls, ideal for hide-and-seek, ambushes, and loot hunting.
+- Shipyard: dry docks, cranes, and half-built hulls beside the water, full of scaffolding, welding sparks, and rigging.
+- Textile Mill: long halls of looms and spinning machines clattering amid lint and belts, dangerous to workers and fire-prone.
+- Brewery: warm copper kettles, oak barrels, and malty fog in vaulted cellars, offering supplies, buffs, and drunken brawls.
+- Tannery: foul-smelling yard of lime pits, drying racks, and hides, nauseating to enter and rich in leather goods.
+- Sawmill: riverside timber works with whirring blades, log ponds, and sawdust drifts, hazardous to limb and well stocked with planks.
+- Windmill: tall sail-turned tower grinding grain on a breezy hill, with creaking gears, climbable vanes, and a lookout loft.
+- Watermill: wheel-driven mill beside a stream, damp and mossy, with millstones, sluice gates, and flour sacks to hide behind.
+- Lumber Camp: forest clearing of bunkhouses, stumps, and log stacks, filled with axes, sleds, and hardy woodsmen.
+- Gas Works: old industrial plant of big gasometers and pipes, hissing with leaks, ready to burst in chain explosions.
+- Cooling Towers: giant hourglass concrete shells venting steam, echoing within and eerie to climb, suited to hideouts and set-pieces.
+- Pylon Line: corridor of high-voltage towers marching across open land, humming and sparking, offering climbs, shock hazards, and long sightlines.
+- Sewage Works: tanks, channels, and settling pools reeking of filth, treacherous underfoot, and home to vermin and disease.
+- Water Tower: elevated tank on stilts above a town or rail stop, with ladders, catwalks, and a commanding view.
+
+## Horror & Gothic
+- Haunted House: creaking rooms with flickering lights, slamming doors, and cold spots, where poltergeists and apparitions escalate toward a final reveal.
+- Haunted Forest: gnarled trees, drifting mist, and whispering paths that loop back, stalked by lost spirits and unseen watchers.
+- Haunted Mansion: sprawling decayed estate of grand halls, portraits that watch, hidden passages, and restless ghosts tied to old tragedies.
+- Haunted Asylum: peeling corridors, rusted wheelchairs, and padded cells echoing with moans, packed with jump scares and disturbing records.
+- Cursed Village: silent huts under a gloomy sky, with failing crops, marked doors, and villagers who hide dark secrets.
+- Fog-Bound Moor: sodden heath under thick gray fog, with sucking bogs, distant howls, and landmarks that appear too late.
+- Vampire Castle: looming fortress of crypts, drafty towers, and candlelit banquet halls, ruled by an aristocratic bloodsucker and servants.
+- Werewolf Woods: moonlit forest of claw-marked trunks and bone-strewn dens, safe by day and savagely hunted at night.
+- Witch's Cottage: crooked hut ringed with herbs, charms, and a bubbling cauldron, offering brews, bargains, and treacherous hospitality.
+- Graveyard at Midnight: leaning headstones, crooked iron gates, and mist-wrapped mausoleums, where the dead rise and lanterns barely help.
+- Abandoned Hospital: dark wards, flickering lamps, overturned gurneys, and chilling records, with jump scares and vanishing patients.
+- Creepy Carnival: faded tents, broken rides, and warped calliope music, haunted by leering clowns and rigged games.
+- Cornfield Nightmare: tall rustling rows that hide pursuers and block sight, with scarecrows that move and trails that vanish.
+- Lovecraftian Sunken Temple: slime-slick cyclopean halls of impossible carvings, partly flooded, whispering to the sanity of intruders.
+- Eldritch Reef: pulsing coral of unnatural color and glowing eyes beneath dark water, home to tentacled horrors and warped currents.
+- Non-Euclidean City: streets bending in impossible angles with shifting skylines, where geometry misleads navigation and dread builds.
+- Madness Mountains: icy peaks and howling winds hiding ancient ruins, draining sanity and revealing forbidden things beneath the ice.
+- Blighted Farmland: dead fields, rotten grain, and sickly livestock under a grey sky, marking a curse or spreading infection.
+- Black Lake: still ink-dark water without reflection, concealing drowned things, sudden drop-offs, and shapes that glide below.
+- Plague Marsh: fetid wetland thick with flies and reeking mists, where disease saps health and pyres burn along the banks.
+- Bone Chapel: sanctuary decorated with skulls and stacked remains, quiet and solemn, guarded by restless dead and cursed relics.
+- Scarecrow Field: lonely patch of stakes and ragged effigies that turn their heads when unobserved, closing in with crows overhead.
+- Flesh Garden: wet, pulsing growths of tissue and veins sprouting like plants, slippery and warm, tended by grotesque caretakers.
+- Endless Hallway: repeating corridor with identical doors and flickering lights, disorienting travelers and slowly bending reality.
+- Backrooms: humming fluorescent maze of damp carpet and yellow walls, empty and unnerving, with stalking entities and no clear exit.
+- Liminal Mall: deserted shopping center lit by dying lights and muted music, eerie and silent, hiding lurking shapes in dark stores.
+- Pool Rooms: tiled chambers of still turquoise water and echoing drips, calm yet unsettling, with drowning risks and flooded passages.
+- Abandoned Subway: dark tunnels, dead trains, and flickering signals under the city, prowled by feral creatures and speeding phantoms.
+- Rotting Castle: crumbling keep of sagging floors, broken ramparts, and fungus-slick walls, haunted by decayed knights and collapse hazards.
+- Spider Forest: dense woodland draped in sticky webs and cocooned prey, with giant arachnids dropping from the canopy.
+- Silent Town: empty streets and shuttered windows with no birds or wind, where footsteps echo and something watches from rooftops.
+- Cabin in the Woods: isolated timber shelter with creaking floors and a hidden cellar, offering a brief refuge before secrets surface.
+- Rural Gothic Church: weathered stone chapel on a lonely hill with shattered stained glass, grave-lined yard, and a tolling bell.
+
+## Genre Settings
+### Wild West
+- Frontier Saloon Street: dusty main street of swinging doors, hitching posts, and false-front shops, ripe for gunfights, poker, and bar brawls.
+- Desert Canyon Trail: narrow red-rock path through dry gulches, ideal for ambushes, rockslides, and bandit hideouts under blazing sun.
+- Rail Outpost: lonely station and water tank beside the tracks, with freight cars, telegraph lines, and train robberies.
+- Gold Rush Camp: muddy tent town of prospectors, claim stakes, and sluices, thick with greed, swindlers, and sudden violence.
+- Cattle Drive Plains: open grassland crossed by huge herds and chuck wagons, threatened by stampedes, rustlers, storms, and river crossings.
+- Fort Garrison: timber-walled army post with parade ground, watchtowers, and stables, serving as a base, siege target, or supply stop.
+### Pirate
+- Pirate Haven: lawless harbor town of taverns, black markets, and crooked captains, rich in rumors, recruits, and double-crosses.
+- Treasure Island: palm-fringed jungle isle with buried chests, cryptic maps, hidden coves, and rival crews digging in the sand.
+- Ghost Ship Graveyard: fog-shrouded waters of wrecked hulls and tattered sails, hosting spectral crews, shifting wrecks, and cursed gold.
+- Pirate Cove: secluded sheltered bay with hidden docks, caves, and lookout bluffs, where ships hide, trade, and repair.
+- Ship Deck: creaking timber planks, rigging, cannons, and swaying masts for boarding battles, with the sea always at the edge.
+- Kraken Waters: dark stormy ocean with whirlpools and giant tentacles rising beside ships, testing crews with sea monsters.
+### Noir
+- Rain-Soaked City: slick streets, flickering streetlamps, and trench coats beneath constant drizzle, bursting with secrets, informants, and shadowy crimes.
+- Neon Alley: narrow backstreet glowing with buzzing signs and steam vents, where deals, chases, and muggings unfold.
+- Docklands Fog: foggy waterfront of cranes, crates, and mooring ropes, ideal for smuggling, stakeouts, and sudden betrayals.
+- Detective Office: cramped room of venetian blinds, whiskey, and filing cabinets, where clues, clients, and trouble walk through the door.
+- Jazz Club Street: smoky nightlife strip of saxophone music and velvet booths, hiding gangsters, singers, and whispered informant meetings.
+### Steampunk
+- Clockwork City: brass-and-iron metropolis driven by giant gears and steam pipes, with ticking towers, automatons, and soot-stained skies.
+- Airship Dockyard: towering mooring masts and cargo cranes where dirigibles load, repair, and depart through clouds of steam.
+- Boiler Quarter: sweltering district of pressure tanks and pipe networks, venting scalding steam and populated by stokers and engineers.
+- Gear Tower: vertical machine of whirling cogs, pendulums, and narrow ledges, a perilous climb where timing platforms matter.
+- Brass Foundry: copper-glowing workshop casting gears, pistons, and gadgets, packed with inventors, prototype machines, and hot metal hazards.
+- Steam Canal: waterway of paddle boats, pipe bridges, and hissing vents, threaded through factories with slick walkways.
+### Cyberpunk
+- Neon Megacity: dense vertical sprawl of holographic ads, rain, and flying traffic, ruled by corporations, gangs, and augmented street life.
+- Corporate Tower: gleaming glass skyscraper full of security checkpoints, drones, and executive suites, a prime infiltration or heist target.
+- Undercity Slums: crowded lower levels of cables, noodle stalls, and makeshift housing, lacking sunlight and ruled by gangs and clinics.
+- Hacker Den: cramped lair of glowing monitors, tangled wires, and stolen hardware, used for data runs and underground jobs.
+- Data Haven: secure vault of servers and private networks, hidden from authorities and guarded by ice, rogue programs, and mercenaries.
+- Chrome Market: crowded bazaar selling cybernetic limbs, implants, and weapons, lit by neon signs and thick with shady dealers.
+### Post-Apocalyptic
+- Overgrown City: collapsed skyscrapers and cracked highways swallowed by vines and trees, hiding scavengers, mutated beasts, and salvage.
+- Wasteland Highway: broken road across a barren expanse, wrecked cars, raiders, and dust storms making travel dangerous and fuel precious.
+- Survivor Camp: fortified patchwork of tents, barrels, and scrap walls, offering trade, rest, quests, and constant fear of raiders.
+- Bunker Vault: sealed underground shelter of steel doors and dim corridors, holding old supplies, strange residents, and radiation or system failures.
+- Raider Fortress: spiked scrap-metal stronghold with towers and arena pits, home to brutal gangs and stockpiled loot.
+- Flooded Metropolis: submerged skyline with rooftops as islands, boats threading drowned streets, and hidden hazards beneath murky water.
+### Wuxia & Samurai
+- Bamboo Duel Glade: swaying green grove where masters trade swift sword strokes, with leaping fights, falling leaves, and wind-borne tension.
+- Mountain Sect: cliffside temple compound of training yards and misty stairs, home to martial masters, rivalries, and secret manuals.
+- Teahouse Town: lively village of paper lanterns, tea stalls, and wandering swordsmen, where rumors, duels, and fateful meetings begin.
+- Riverside Inn: wooden lodging by a quiet stream, offering rest and gossip until rival fighters or assassins arrive.
+### Space Opera
+- Cantina Port: dim alien bar at a spaceport crowded with smugglers, pilots, and bounty hunters, buzzing with rumors and brawls.
+- Trade Station: orbital hub of docking rings, cargo bays, and bustling markets, welcoming merchants, pirates, and diplomats from many worlds.
+- Imperial Throne World: gleaming capital planet of grand palaces and fleets, ruled by an emperor's court of intrigue and iron rule.
+- Smuggler Moon: rugged lawless satellite of hidden hangars and cantinas, outside authority and favored by outlaws and fugitives.
+### Other Genres
+- Dieselpunk City: grimy art-deco metropolis of smokestacks, armored trucks, and propaganda posters, driven by oil, war machines, and gritty ambition.
+- Solarpunk Eco-City: bright green city of rooftop gardens, wind towers, and shared canals, balancing technology and nature in hopeful design.
+- Atompunk Retro-Future: chrome-finned, atomic-age town of diners, rocket cars, and neon signs, mixing optimistic design with cold war paranoia.
+- Gaslamp Fantasy Town: cobbled lanes lit by gas lamps, with fog, magic shops, and inventors rubbing shoulders with witches and thieves.
+- Dark Fantasy Wastes: bleak land of ash skies, broken fortresses, and cursed battlefields, where grim heroes face monstrous remnants of a lost war.
+- Sword-and-Sorcery Ruin: crumbling temple or tomb of dark idols, treasure, and sorcerers' traps, tempting hardy adventurers with peril and plunder.
+- Arthurian Realm: misty green kingdom of castles, round-table knights, enchanted lakes, and quests, blending chivalry with ancient magic.
+
+## Generic Landforms
+- Basin: broad bowl-shaped lowland ringed by higher ground, collecting water, sediment, and settlements, with a single-entry defensive feel.
+- Depression: sunken stretch of land below its surroundings, prone to flooding or salt flats, with limited exits and shelter.
+- Escarpment: long steep cliff face dividing high and low terrain, forming barriers, lookouts, and dramatic waterfalls.
+- Peninsula: tongue of land surrounded by water on three sides, offering harbors, chokepoints, and defensible narrow necks.
+- Isthmus: slim land bridge between two larger masses and two seas, a prime trade route and strategic bottleneck.
+- Cape: rocky headland jutting into the sea, battered by waves and wind, ideal for lighthouses and wreck-prone navigation.
+- Strait: narrow channel linking two bodies of water, with strong currents, busy shipping, and prime ambush points.
+- Island: land mass cut off by water, offering isolation, unique wildlife, hidden coves, and secrets reachable only by boat.
+- Hoodoo: tall eroded rock spire with a capped top, clustered in strange badlands, offering cover, sightlines, and awkward navigation.
+- Drumlin: smooth elongated hill shaped by glaciers, scattered in groups across plains, offering gentle overlooks and farmland.
+- Esker: winding gravel ridge left by glacial rivers, forming natural raised roads through marsh or forest.
+- Kettle Lake: round pond in a glacial hollow with steep banks, often clear, cold, and secluded.
+- Alluvial Fan: fan-shaped spread of gravel and silt at a mountain's base, fertile yet cut by shifting streams and flash floods.
+- River Terrace: stepped bench of old floodplain above a valley river, good for settlements, roads, and defensive tiers.
+- Natural Arch: wind-carved stone bridge over open air, serving as a landmark, passage, and daring crossing point.
+- Natural Pillar: freestanding column of stone rising from level ground, used as a landmark, perch, or climbing challenge.
+- Valley Floor: flat fertile bottom between two slopes, with streams, farms, roads, and exposure to ambush from above.
+- Gap: narrow pass cut through a ridge or range, a natural chokepoint for travel, trade, and battle.
+- Plain: wide flat open ground with long sightlines, little cover, easy movement, and room for farms, herds, and armies.
+- Hillock: small rounded rise offering a modest vantage, light cover, and a convenient spot for camps or barrows.
+
+## Surface Materials & Ground Types
+- Sand: loose shifting grains that slow movement, hold footprints, and drift into dunes, hot in sun and tiring to cross.
+- Gravel: crunchy small stones that give firm footing but make noise, shifting under heavy loads and tires.
+- Clay: dense sticky soil that turns slick when wet and rock-hard when dry, useful for pottery and brickmaking.
+- Mud: soft wet earth that drags feet and wheels, hides tracks and traps, and slows vehicles to a crawl.
+- Loam Soil: rich dark crumbly earth ideal for farming, holding moisture and supporting lush plants with easy digging.
+- Peat: spongy brown organic ground of old plant matter, springy underfoot, burnable as fuel, and prone to hidden sinkholes.
+- Bare Rock Slab: smooth flat stone surface giving solid footing, little cover, and good visibility, sometimes slick with rain.
+- Cobblestone: uneven rounded paving stones found in old towns, jolting wheels, noisy to sneak across, and long lasting.
+- Snow Powder: deep loose flakes that swallow boots, slow movement, and muffle sound, hiding crevasses beneath.
+- Crusted Snow: hard frozen top layer that sometimes bears weight and sometimes breaks through, crackling loudly underfoot.
+- Sheet Ice: smooth slippery frozen surface where friction vanishes, sending characters and vehicles sliding uncontrollably.
+- Volcanic Ash: fine gray grit that clouds the air, coats gear, and clings to lungs, softening footing and hiding hot patches.
+- Glass Sand: fused sparkling grains from lightning or blasts, sharp and brittle, glinting in sun and cutting unprotected feet.
+- Salt Crust: bright white hardened layer on dry lakebeds that cracks underfoot, blinding in sunlight and parching to travelers.
+- Moss Carpet: soft, springy green cover over stone and root, damp and quiet to walk, hiding slick rocks beneath.
+- Leaf Litter: thick forest floor of crisp or soggy leaves that rustle underfoot, hide roots and traps, and betray stealth.
+- Cracked Mud: dry baked earth split into plates and fissures, brittle underfoot, found on drought-struck flats and dried riverbeds.
+- Frozen Mud: ridged hardened ground locked by frost, bumpy and jarring but firm, softening into mire when thawed.
+- Tar: sticky black pitch that grips boots and wheels, flammable and slow, trapping unwary creatures in bubbling pools.
+- Wet Rock: dark glistening stone made treacherous by water or spray, offering poor grip and risky climbs and jumps.
+- Packed Earth: firm trodden dirt of paths, yards, and camps, giving reliable traction in dry weather and mud in rain.
+- Wooden Planks: creaking boards of decks, bridges, and floors that echo footsteps, burn easily, and rot or give way.
+- Metal Grating: open steel lattice floor ringing under boots, letting light and liquids fall through to levels below.
+- Tile Floor: smooth hard flooring of ceramic squares in halls and bathrooms, echoing steps and slippery when wet.
+- Marble Floor: polished veined stone in palaces and temples, cold, glossy, and echoing, reflecting torchlight and slippery with water.
+
+## Transitional Zones (Ecotones)
+- Woodland-Grass Edge: sunlit border where trees thin into open meadow, rich in game, edge-loving shrubs, and ambush cover for hunters.
+- Tundra-Taiga Border: sparse stunted conifers fading into frozen moss plains, with hardy herds, biting wind, and thin shelter.
+- Desert Fringe: sandy rim where scrub and grass struggle against dunes, offering scarce water, nomads, and shifting boundaries.
+- Savanna-Forest Mosaic: patchwork of tree stands and open grass, giving mixed cover for grazers, predators, and travelers.
+- Thorn Scrub: dry tangle of spiny shrubs and acacia thickets, snagging gear and skin while sheltering small game.
+- Scrub Transition: gradual shift from low brush into grassland or woods, with patchy cover and mixed wildlife.
+- Riverbank: muddy, reed-lined margin where land meets flowing water, with drinking animals, fishing spots, and crossing points.
+- Marsh Edge: squelching margin of reeds and shallows between dry ground and bog, rich in birds, insects, and hidden footing.
+- Tideline: strip of wrack, shells, and wet sand marking the water's reach, scoured twice daily and rich in salvage.
+- Snowline: high boundary where forest or meadow gives way to permanent snow, with thin air, avalanches, and cold exposure.
+- Cliff Edge: crumbling rim above a sheer drop, windy and exposed, with vertigo, fall risks, and dramatic viewpoints.
+- Foothill Belt: rolling lower slopes beneath mountains, mixing woodland, streams, and grazing land with gentle climbs and hidden valleys.
+- Delta Fringe: braided channels and silt flats where a river meets the sea, fertile and fish-rich yet flood-prone.
+- Mangrove Fringe: edge of tangled salt-tolerant roots between sea and land, sheltering fish, crabs, and ambushers.
+- Oasis Edge: green belt of palms and grass ringing a desert water source, bustling with caravans and tense territorial claims.
+- Dune-Marsh Edge: sandy ridges sinking into brackish wetlands, with shifting footing, sedge, and birds, hiding sunken tracks.
+
+## Animal Habitats & Nests
+### Nests & Burrows
+- Bird Nest: woven cup of twigs and moss in a tree fork, holding eggs or chicks and guarded by fierce parents.
+- Eagle Aerie: huge stick platform on a high crag, offering sweeping views and fiercely defended by talons and beaks.
+- Hornet Nest: grey papery globe hanging from a branch, buzzing with aggressive stinging swarms that punish any disturbance.
+- Beehive: waxy comb colony in a hollow tree or box, yielding honey and wax at the risk of stings.
+- Wasp Paper Nest: layered chewed-wood combs under eaves or in trees, guarded by wasps that pursue intruders relentlessly.
+- Anthill: soil mound swarming with workers, riddled with tunnels, and defended by biting soldiers that overwhelm trespassers.
+- Termite Mound: tall earthen tower with cooled galleries inside, home to a vast insect society and a favorite of anteaters.
+- Beaver Lodge: stick-and-mud dome surrounded by water, with underwater entrances, housing a family safe from most land predators.
+- Beaver Dam: woven log barrier creating a pond and wetland, changing water flow and offering crossings and fishing grounds.
+- Prairie Dog Town: sprawling grassland warren of mounds and tunnel holes, with sentries barking warnings and snakes lurking below.
+- Rabbit Warren: dense maze of burrows beneath a hillside, riddled with entrances and ankle-twisting holes, dense with skittish prey.
+- Badger Sett: deep, long-lived tunnel system with spoil heaps outside, home to a fierce digger that shares with other critters.
+- Fox Den: tucked burrow beneath roots or banks with feathers and bones near the entrance, sheltering a cunning hunter and kits.
+- Wolf Den: sheltered hollow or cave holding a pack's pups, guarded by watchful adults and marked with scent trails.
+- Bear Den: dark cave or hollow log where a bear hibernates, safe when dormant and extremely dangerous when disturbed.
+- Snake Pit: writhing hollow of venomous coils in a rocky crevice or sunken cellar, risky to approach.
+- Spider Web Thicket: dense cluster of silk strands strung between branches, trapping insects and unwary travelers with lurking hunters.
+- Bat Roost: dark cave ceiling or attic crowded with hanging sleepers, deafening at dusk with swarming exits and guano underfoot.
+- Rookery: noisy treetop colony of crowded stick nests, loud with cawing, constant bird traffic, and swooping defenders.
+- Heronry: stilt-legged wading birds nesting high in shoreline trees, with guano-stained branches, croaking chicks, and nearby fish ponds.
+- Penguin Colony: crowded icy rookery of huddled birds and chicks, noisy and smelly, ringed by hunting seals and skuas.
+- Seal Rookery: rocky beach packed with basking, barking seals, dangerous in breeding season and drawing sharks and orcas.
+- Coral Nursery: sheltered shallow reef where young fish and corals grow, colorful and fragile, guarded by territorial swarms.
+- Turtle Nesting Beach: moonlit sand where sea turtles bury eggs, drawing hatchling runs, predators, and conservation efforts.
+- Salmon Spawning Run: shallow river thick with leaping fish heading upstream, attracting bears and eagles and providing abundant food.
+- Dragon Hoard Nest: mountain cavern of molten gold, bones, and smoldering gems curled around a fearsome wyrm that burns all intruders.
+- Roc Nest: colossal platform of tree trunks atop an impossible peak, holding giant eggs and a bird that can lift elephants.
+- Phoenix Nest: smoldering bed of embers and spices on a sunlit peak, where a fire bird burns and rises again.
+- Gryphon Eyrie: high mountain ledge of bones and feathers, home to a proud lion-eagle hybrid and prized for taming quests.
+- Spider Queen Brood Chamber: web-choked cavern of egg sacs and cocoons guarded by a monstrous matriarch and her swarming spawn.
+### Migration & Gathering Grounds
+- Migration Flyway: aerial route used by huge seasonal flocks passing over wetlands and ridges, drawing hunters, predators, and watchers.
+- Wildebeest Crossing: river ford where enormous herds plunge across, tempting crocodiles, and thundering with dust and hoof beats.
+- Watering Hole: shared pond in dry country where rival animals gather in tense truce, drawing hunters and vulnerable travelers.
+- Salt Lick: exposed mineral deposit visited by deer and cattle, a reliable hunting spot and trap site.
+- Mud Wallow: churned pool where heavy beasts cool off and coat themselves, slippery, smelly, and flanked by trampled paths.
+- Elephant Graveyard: hushed valley of enormous bones where aged giants go to die, eerie, sacred, and full of ivory.
+- Whale Breeding Lagoon: warm, sheltered bay where whales calve, offering awe-inspiring sights and strict protection from boats and hunters.
+- Butterfly Overwintering Grove: fir stand blanketed in orange wings clinging to branches, fragile, silent, and stunning.
+- Locust Swarm Plain: open land stripped bare by roiling clouds of insects, buzzing like thunder and leaving famine behind.
+
+## Monster & Creature Lairs
+- Ogre Cave: reeking cavern strewn with bones and half-eaten livestock, home to a lumbering brute with a crude club.
+- Troll Bridge: stone span over a ravine or river, claimed by a hulking toll-taker who guards the crossing and demands payment.
+- Troll Warren: damp earthen tunnels and rock burrows full of crude loot, where trolls regenerate and rule in packs.
+- Goblin Warren: warren of cramped tunnels, scrap barricades, and sneaky ambushes, thick with traps, loot, and wicked chatter.
+- Orc Stronghold: spiked wooden fortress with drums, war banners, and smithies, rallying fierce raiders for conquest.
+- Giant's Castle: enormous keep with oversized furniture, high shelves, and thundering footsteps, perilous for small intruders.
+- Cyclops Cave: vast, smoky one-eyed grotto with a boulder door, herds of livestock, and a brutal herdsman.
+- Hydra Marsh: dank wetland of bubbling pools and snaking channels where a many-headed beast regrows wounds.
+- Kraken Trench: abyssal chasm of crushing darkness where a monstrous tentacled leviathan drags ships to doom.
+- Leviathan Deep: bottomless ocean abyss ruled by a colossal sea serpent, with thundering currents, wreck fields, and sudden whirlpools.
+- Sphinx Gate: weathered desert portal guarded by a winged riddler who devours those who answer wrongly.
+- Minotaur Labyrinth: twisting stone maze of dead ends and echoing roars, ruled by a horned brute at its heart.
+- Medusa's Temple: ruined shrine filled with lifelike stone statues of failed heroes and snake-haired guardian, where gazes can petrify.
+- Basilisk Nest: cold crypt or cellar littered with petrified victims and shed scales, lurking with a deadly gaze and venom.
+- Vampire Crypt: cold underground tomb of coffins, cobwebs, and candlelit altars, where undead nobles rest by day and hunt by night.
+- Werewolf Den: cave or hollow filled with gnawed bones and torn clothes, hiding a cursed beast that prowls beneath the moon.
+- Witch's Hut: crooked swamp-side shack of jars, bones, and bubbling brews, guarded by familiars and hexes.
+- Witch's Coven Clearing: moonlit forest circle of standing stones and ritual fires where hags gather to chant and curse.
+- Lich's Phylactery Vault: sealed crypt of runes, arcane wards, and bound soul vessels, defended by undead guardians and traps.
+- Necromancer's Tower: black spire of bones and sigils, where skeletal servants rise from the cellar and a dark mage plots.
+- Banshee Moor: wind-swept heath echoing with mournful wails, where spectral women herald death and chill travelers.
+- Wraith Hollow: shadowed gully of pale mist and drifting cold, haunted by draining specters that linger around ancient graves.
+- Ghoul Warren: tunnel nest beneath graveyards and ruins, rank with rot and gnawed remains, swarming with pale flesh-eaters.
+- Mimic Treasure Room: tempting vault of gold and chests where some boxes bite, punishing greedy adventurers with ambush.
+- Slime Pit: bubbling hollow of corrosive ooze that engulfs and dissolves unwary prey, with glistening walls and little light.
+- Gelatinous Cavern: dripping cave of translucent, nearly invisible blobs that slide through corridors dissolving gear and creatures.
+- Beholder Lair: lightless cavern ruled by a floating many-eyed tyrant, studded with antimagic zones, paranoid traps, and eerie sculptures.
+- Mind Flayer Colony: deep underground enclave of psychic tentacled overlords with thrall servants, brain-cooking horrors, and eerie purple light.
+- Yeti Cave: icy mountain hollow with massive footprints and frozen leftovers, guarded by a shaggy snow beast.
+- Bigfoot Woods: dense wilderness of huge tracks, tree knocks, and distant howls, hiding a shy but powerful ape-like giant.
+- Chupacabra Scrubland: dry brush country marked by drained livestock and glowing eyes, stalked by a nocturnal blood-sucking beast.
+- Wendigo Forest: frozen, starving wilderness of antlered silhouettes and unnatural whispers, haunted by a cannibal spirit of endless hunger.
+- Jabberwock Wood: twisted, whimsical forest of nonsense signs and snapping branches, ruled by a fanged dragon-like terror.
+- Pixie Glen: glittering sunlit hollow of tiny lights, mushrooms, and pranksters who bless or bewilder travelers.
+- Nymph Grotto: secluded spring or pool in a mossy cave, guarded by enchanting spirits who heal friends and charm foes.
+- Siren Rock: jagged reef where seductive singers lure sailors to wreck, strewn with timbers and bones.
+- Kelpie Pool: still dark mere with a water horse that lures riders onto its back, then drags them under.
+- Harpy Cliffs: wind-swept crags crowded with screeching bird-women and feather-strewn nests, preying on travelers on narrow ledges.
+- Wyvern Crag: bare rocky peak with bone-littered ledges, patrolled by a venom-tailed flying reptile and its hatchlings.
+- Hag's Swamp: fog-choked bog of crooked trees, will-o'-wisps, and hidden huts, where a cackling crone traps travelers.
+- Giant Spider Forest: tangled woods blanketed in silk and cocooned victims, stalked by huge venomous arachnids in the dark.
+- Xenomorph Nest: dark resin-slick hive of secreted walls, eggs, and cocooned hosts, patrolled by acid-blooded insectoid hunters.
+- Zombie Nest: shambling mass of the undead packed in a ruined building or cellar, groaning, hungry, and awakening at any noise.
+- Demon Gate: scorched portal of black stone and sulfurous smoke, where hellish invaders pour through in flame and fury.
+- Imp Foundry: infernal workshop of bubbling lava and chains, where mischievous fiends forge cursed trinkets and torment captives.
+
+## Dungeon & Trap Rooms
+### Dungeon Rooms
+- Entry Hall: grand or battered first chamber with heavy doors, statues, and warning signs, setting tone and introducing early threats.
+- Guard Room: stone chamber of weapon racks, tables, and watchful sentries blocking the way, with alarms and keys.
+- Barracks: rows of bunks, footlockers, and rations where soldiers sleep, offering minor loot and a loud, deadly alarm.
+- Prison Cell Block: row of barred cells with rusted locks, bones, and moaning captives, holding allies, informants, or restless prisoners.
+- Torture Chamber: grim stone room of racks, irons, and bloodstains, shocking in atmosphere and often guarded by cruel jailers.
+- Treasure Vault: heavy-doored room of coin piles, jewels, and relics, usually trapped and protected by guardians or curses.
+- Trophy Hall: gallery of mounted beasts, banners, and weapons honoring past conquests, hiding secret switches and watchful statues.
+- Library Chamber: shelves of dusty tomes, scrolls, and reading desks that offer lore, spells, and puzzles, plus animated guardians.
+- Alchemy Lab: cluttered workshop of bubbling flasks, herbs, and furnaces, yielding potions and explosive accidents.
+- Summoning Circle Chamber: floor etched with glowing sigils and candle rings, ready to call forth fiends, elementals, or allies.
+- Ritual Altar Room: blood-stained altar beneath dark symbols and flickering braziers, used by cultists for sacrifices and dark magic.
+- Crypt Chamber: cold vaulted tomb with stacked burial niches and cobwebs, housing restless skeletons and ancient grave goods.
+- Sarcophagus Room: central stone coffin among carved reliefs and hieroglyphs, hiding a mummy, curse, or hidden stair.
+- Boss Arena: spacious circular chamber of pillars and hazards built for a climactic fight, with sealed doors and dramatic lighting.
+- Secret Passage: concealed corridor behind a bookcase, wall, or statue, revealed by switches and skill and used for shortcuts.
+- Hidden Room: chamber behind illusion or sealed stone, concealing treasure, lore, or a nasty surprise for diligent explorers.
+- Collapsed Tunnel: rubble-choked passage blocking the route, requiring clearing, digging, or detours around unstable ceilings and trapped creatures.
+- Flooded Chamber: waterlogged room with murky depths, forcing swimming, holding breath, and lurking aquatic dangers.
+- Mirror Hall: corridor of polished glass that multiplies reflections and hides doors, confusing sight and enabling doppelganger tricks.
+- Echo Chamber: resonant stone space where every step and shout bounces back, testing stealth and sometimes revealing hidden sounds.
+- Dark Room: lightless chamber where torches fail, forcing travelers to feel their way while unseen things stir.
+- Puzzle Room: chamber of levers, tiles, and symbols that must be solved to unlock doors or reveal treasure.
+- Riddle Chamber: stone room with a talking statue or inscription posing questions, rewarding wit and punishing wrong answers.
+- Pressure Plate Corridor: hallway of subtly marked tiles where careless steps trigger darts, flames, or collapsing floors.
+- Gauntlet Corridor: long passage lined with traps and ambush spots, testing timing, reflexes, and group coordination.
+- Wandering Hall: shifting maze-like corridor whose layout subtly changes, leading explorers in circles unless they find the trick.
+- Rotating Room: chamber that spins on a hidden axis, swapping exits and tossing balance as doors realign.
+- Teleporter Room: runed platform that whisks visitors to distant places, sometimes at random, linking separate dungeon sections.
+- Safe Room: sturdy sealed chamber offering rest, storage, and saving, typically free from roaming monsters and traps.
+- Rest Shrine: quiet alcove with a candle-lit altar and soft glow, healing weary adventurers and restoring resources.
+- Dungeon Kitchen: grimy cookhouse of hanging meat, cauldrons, and stoves, offering rations, poison, and rowdy kitchen guards.
+- Dungeon Well: deep stone shaft in the floor, dripping water far below, serving as a shortcut, water source, or monster den.
+- Dungeon Stairwell: narrow winding steps connecting levels, with echoing footfalls, choke points, and occasional ambushes.
+- Spiral Descent: corkscrew ramp or stair plunging deeper underground, building tension as the air chills and light fades.
+### Traps & Hazard Rooms
+- Spike Pit: concealed hole lined with sharp stakes beneath a false floor, punishing careless steps with damage and delay.
+- Pit Trap: hidden drop in the floor that opens underfoot, dropping victims to a lower level, spikes, or monsters.
+- Poison Dart Wall: carved wall with tiny holes that fire venom-tipped darts when a hidden trigger is tripped.
+- Swinging Blade Hall: corridor of pendulum axes sweeping across the path, demanding careful timing to cross unharmed.
+- Rolling Boulder Corridor: sloped passage releasing a massive stone that chases runners, forcing a dash for side alcoves.
+- Crushing Ceiling: descending slab that slowly flattens the chamber, forcing quick puzzle solving or desperate escape.
+- Closing Walls: chamber whose sides slide inward with grinding force, set off by a trigger and ending in doom.
+- Fire Jet Corridor: hallway of vents that spit timed flame bursts, requiring dashes between pulses or water to extinguish.
+- Flooding Room: sealed chamber filling with water through hidden valves, forcing swimming, breath management, and a race to find the exit.
+- Sand-Filling Room: sealed chamber pouring in sand from the ceiling, burying victims unless a hidden lever or exit is found.
+- Gas Chamber: stuffy room that fills with toxic or sleeping vapor, requiring ventilation, masks, or a quick escape.
+- Acid Pool: bubbling green basin that dissolves gear and flesh, crossed by stepping stones, ropes, or narrow bridges.
+- Lava Bridge: narrow causeway above a glowing molten pit, with heat shimmer, crumbling ledges, and fiery eruptions.
+- Collapsing Floor: crumbling platform that gives way underfoot, dropping adventurers into chasms or a lower area if they dawdle.
+- Arrow Slit Hallway: corridor with hidden wall slots firing volleys at passersby, requiring shields, cover, or disabling the mechanism.
+- Cursed Treasure Room: glittering hoard that curses anyone who takes it, tempting greed with bonuses and nasty penalties.
+- False Vault: lavish but empty treasure room built as a decoy, rigged with traps and sealed doors to catch thieves.
+- Illusion Corridor: hallway of phantom walls, false doors, and shifting images, requiring disbelief or sensing to find the true path.
+- Paralysis Trap Hall: ancient corridor of runes or gas that freezes movement, leaving victims helpless for nearby guardians.
+- Portcullis Ambush: iron gate that slams shut behind intruders as foes emerge from hidden alcoves, cutting off retreat.
+- Trapdoor Maze: grid of identical tiles where hidden hatches drop the unwary, demanding careful probing, memory, and patience.
+
+## Game Level Archetypes
+### Level Types
+- Tutorial Level: gentle opening stage with safe space, prompts, and simple obstacles that teach controls and core mechanics step by step.
+- Hub World: central safe area linking multiple stages, with shops, characters, and unlockable doors showing progress.
+- Overworld Map: top-level travel screen of paths and nodes connecting levels, with branching routes, events, and secrets.
+- Boss Level: stage built around a major enemy encounter, with a pre-fight approach, arena, and distinct phases.
+- Final Level: climactic last stage combining every learned mechanic, escalating threats, and a grand showdown before the credits.
+- Bonus Level: optional short stage offering rewards, coins, or lives, with relaxed rules or novel mechanics as a break.
+- Secret Level: hidden stage unlocked by exploration, codes, or puzzles, packed with rare loot and surprises for dedicated players.
+- Warp Zone: shortcut area that skips stages or worlds, using pipes, portals, or hidden exits and rewarding exploration.
+- Challenge Level: hard optional stage that tests mastery with tight platforming, strict timers, or unusual rules for prestige rewards.
+- Survival Arena: confined battlefield where players outlast mounting threats, scavenging supplies and holding position until time or waves end.
+- Horde Wave Arena: enclosed zone where successive enemy waves grow in number and strength, with upgrade breaks between rounds.
+- Escort Route: path where players guard a vulnerable character or convoy, balancing protection, pacing, and threats from ahead and behind.
+- Stealth Level: shadowy stage of patrols, sightlines, and hiding spots, rewarding patience, gadgets, and quiet takedowns over open combat.
+- Puzzle Level: stage of switches, blocks, and logic challenges demanding observation and planning, with light threats and generous checkpoints.
+- Platforming Gauntlet: demanding run of precise jumps, moving hazards, and tight timing, designed to push movement skill.
+- Auto-Runner Course: stage that scrolls forward constantly, challenging players to jump, slide, and dodge obstacles while collecting items.
+- Vertical Climb Level: tall ascent through ledges, ladders, and rising dangers, testing upward navigation and rewarding careful route choices.
+- Chase Sequence Level: scripted pursuit with a looming threat behind, funneling players through hazards, shortcuts, and dramatic set-pieces.
+- Boss Rush Gauntlet: consecutive boss fights with minimal breaks, testing mastery, resource management, and endurance for big rewards.
+- Infinite Procedural Level: endlessly generated terrain that grows harder with distance, offering variety, high-score chasing, and emergent surprises.
+- Roguelike Floor: randomly generated dungeon level of rooms, loot, and enemies, escalating in danger with permanent consequences for failure.
+- Safe Town Level: peaceful settlement with no combat, offering shops, quests, rest, and story, giving players breathing room.
+- Shop Level: calm stage where players trade, upgrade, and prepare, featuring merchants, stock displays, and perhaps a few secrets.
+- Cutscene Stage: scripted scene with limited control, delivering story through camera work, dialogue, and staged action.
+### Themed Level Worlds
+- Grass World: bright rolling meadows with gentle hills and simple foes, designed as a friendly introduction to platforming.
+- Water World: flowing rivers, pools, and underwater passages with currents, swimming physics, and aquatic enemies.
+- Fire World: lava rivers, volcanic caves, and scorched platforms with rising flames, fire-breathing foes, and heat hazards.
+- Sky World: floating islands, clouds, and wind currents high above ground, with narrow platforms, falling risks, and flying enemies.
+- Forest World: dense trees, tangled roots, and hollow logs, with hidden paths, vine swings, and woodland critters.
+- Candy World: sweet landscape of lollipops, icing rivers, and gumdrop hills, with sticky traps and cheerful treats.
+- Toy World: oversized blocks, wind-up creatures, and playroom scenery in bright colors, with whimsical machines and childlike hazards.
+- Pipe World: underground labyrinth of tubes, valves, and sludge, with steam, drips, and tricky routing between sections.
+- Haunted World: spooky mansions, ghosts, and creaking corridors with candlelit puzzles and mischievous apparitions.
+- Space World: low-gravity stages among stars, asteroids, and stations, with floating physics, alien foes, and airless hazards.
+- Cyber World: neon grid environment of data streams, circuits, and glitching enemies, with digital platforms and rule-bending puzzles.
+- Factory World: conveyor belts, presses, and robot enemies in noisy industrial levels, requiring timing and moving platforms.
+- Jungle World: thick vines, swampy rivers, and hidden temples, with swinging ropes, snapping plants, and wild animals.
+- Cave World: dim tunnels, crystals, and underground lakes, with falling stalactites, glowing fungi, and tricky lighting.
+- Ruins World: crumbling temples and ancient mechanisms with hidden switches, collapsing floors, and treasure guardians.
+- Pirate World: ships, docks, and sandy islands full of cannons, rope swings, and swashbuckling enemies amid treasure hunts.
+- Wild West World: dusty towns, canyons, and train tops with gunfights, tumbleweeds, and runaway cart sequences.
+- Retro Arcade World: pixelated cabinets, blinking lights, and chunky sprites, using classic mechanics, bonus rounds, and high-score challenges.
+- Dream World: surreal floating scenery that bends logic, with shifting gravity, odd creatures, and symbolic obstacles.
+- Nightmare World: distorted dark landscapes of towering shadows and twisting stairs, where fear, chase, and unnatural enemies dominate.
+- Paper World: folded and cut-out scenery where pages flip and flatten, with origami foes and crinkling environmental puzzles.
+- Pixel World: blocky retro-styled stages that play with resolution, hidden tiles, and sprite-based jokes as a nostalgic tribute.
+- Music World: rhythmic stages with pulsing platforms, instrument enemies, and beat-timed hazards, syncing action to the soundtrack.
+- Kitchen World: giant countertops, utensils, and appliances with boiling pots, sliding knives, and food-themed enemies.
+- Garden World: sunlit flower beds, hoses, and trellises seen from bug scale, with watering cans, snails, and thorny hazards.
+### Racing & Track Terrain
+- Race Circuit: paved closed loop with curbs, pit lane, and hairpins, rewarding racing lines, braking points, and slipstreaming.
+- Dirt Track: loose oval or twisting course where cars slide, kick dust, and fight for traction through ruts and berms.
+- Rally Stage: point-to-point road through forest, gravel, or snow, with blind crests and punishing surface changes.
+- Rainbow Road: colorful floating ribbon course with no guardrails, steep turns, and falls into space for the careless.
+- Drift Canyon: winding mountain pass with tight hairpins and sheer drop-offs, designed for sliding turns and rewarding stylish control.
+- Moto Stunt Park: arena of ramps, rails, and half-pipes for bike tricks, jumps, and combos, with points for style.
+- Kart Track: compact cartoonish circuit with item boxes, shortcuts, and boost pads, balancing chaos with skillful driving.
+- Hovertrack: futuristic course for antigravity craft with loops, magnetic strips, and wall rides, demanding precise steering and speed control.
+- Wave Racing Course: marked buoy path through open water or rapids where choppy waves toss jet craft and demand constant correction.
+- Snowboard Slope: sweeping powder run with jumps, rails, and trees, mixing speed and tricks while dodging rocks and moguls.
+- Ski Slalom Course: downhill route of gates and flags set on firm snow, rewarding tight turns and clean lines.
+- Boat Race Course: buoy-marked lake or river circuit with wakes, shoals, and tight turns, testing throttle control and positioning.
+- Air Race Course: aerial route through hoops, pylons, and canyons, rewarding precise banking, speed, and clean passes.
+- Soapbox Hill: downhill run for gravity-powered carts with hay bales, ramps, and wobbly steering, ending in a crash or glory.
+- Obstacle Course: timed gauntlet of walls, ropes, nets, and balance beams, testing agility, stamina, and quick decisions.
+- Parkour Rooftop Route: flowing path of ledges, gaps, and pipes across city skylines, built for vaulting, wall runs, and daring leaps.
+### Board & Abstract Worlds
+- Board Game Path: winding track of spaces with events, bonuses, and penalties, advanced by dice rolls and shaped by lucky and unlucky squares.
+- Chessboard Realm: checkered battlefield where pieces move by strict rules, with towering pawns, scheming kings, and tactical puzzles.
+- Card Realm: whimsical land of playing-card soldiers, suit-themed zones, and royal courts, mixing luck, bluffing, and absurd rules.
+- Tile Grid World: map of discrete squares with terrain types and movement costs, built for tactics, strategy, and clear positioning.
+- Pinball Table: bumpers, flippers, ramps, and lights in a compact arena where players become the ball, chasing scores and multipliers.
+- Pachinko Board: vertical field of pins that sends steel balls tumbling through chance, with jackpot pockets and flashing lights.
+- Slot Machine World: neon casino reels and lever hazards where symbols decide fortunes, with jackpot rooms and gaudy rewards.
+- Puzzle Grid: compact board of colored pieces or blocks to rearrange, match, or clear, rewarding planning and chain reactions.
+- Maze Grid: top-down labyrinth of corridors and dead ends, challenging memory and navigation with keys, pursuers, and secret shortcuts.
+- Tower Defense Lane: winding enemy path flanked by build spots for turrets, rewarding smart placement, upgrades, and timing against waves.
+- Tabletop Diorama: miniature scenery with painted figures, terrain pieces, and visible edges, evoking wargames and model-making charm.
+- Sandbox World: open creative space with few rules, letting players dig, build, and experiment with simple tools and materials.
+- Voxel World: blocky cubic landscape that can be mined, stacked, and reshaped, supporting survival, building, and procedural exploration.
+- Flat Void Arena: featureless plane in empty space, used for duels, tests, or abstract trials with minimal distractions.
+- Training Room Simulation: bright virtual practice space with targets, dummies, and adjustable settings for learning moves and testing builds.
+
+## Sports Venues
+- Football Stadium: roaring bowl of tiered seats around a striped gridiron, with tunnels, locker rooms, and rowdy rival crowds.
+- Soccer Pitch: wide grass field with goals, chalk lines, and floodlights, ideal for fast-paced matches and set-piece minigames.
+- Baseball Diamond: dirt infield and outfield grass ringed by bleachers, dugouts, and a scoreboard, perfect for batting challenges.
+- Basketball Court: polished hardwood with hoops at each end, squeaking sneakers, and a packed arena or neighborhood blacktop feel.
+- Hockey Rink: slick ice surface walled by plexiglass boards, with benches, penalty boxes, and hard-hitting skaters.
+- Tennis Court: fenced rectangle of clay, grass, or hard surface divided by a net, with umpire chair and lines.
+- Golf Course: rolling fairways, bunkers, water hazards, and manicured greens stretching across a quiet landscaped property.
+- Mini Golf Course: whimsical putting lanes full of windmills, ramps, and tunnels, great for silly physics puzzles and kid-friendly fun.
+- Bowling Alley: neon-lit lanes, ball returns, and pin machines humming beside a snack counter and arcade corner.
+- Boxing Ring: roped square canvas under harsh spotlights, with corner stools, a bell, and a shouting crowd.
+- Wrestling Mat: padded circular mat in a school gym or arena, where grappling matches test strength and technique.
+- MMA Cage: chain-link octagon with padded floor and sweaty fighters, used for brutal tournament brawls and underground bouts.
+- Swimming Pool: tiled basin with lane ropes, starting blocks, and echoing splashes, usable for races, rescues, or hidden underwater stashes.
+- Diving Platform: tall concrete towers and springboards above a deep pool, offering vertigo, daring stunts, and judges' scores.
+- Gymnasium: wide indoor hall with bleachers, painted court lines, and equipment closets, serving as school events and training grounds.
+- Track and Field Oval: rubberized running track circling a grass infield with sand pits, hurdles, and throwing cages.
+- Cricket Ground: broad oval of mown turf with a central pitch, pavilion, and boundary rope for leisurely long matches.
+- Rugby Pitch: muddy grass field with tall H-shaped goalposts, where bruised players scrum and tackle through rain.
+- Volleyball Beach Court: sandy rectangle with a net, sun-bleached spectators, and nearby surf shacks for relaxed seaside competition.
+- Skate Park: concrete bowls, rails, and ramps covered in graffiti, buzzing with tricks, wipeouts, and rebellious youth culture.
+- Climbing Gym: indoor walls studded with colorful holds, crash mats, and ropes, perfect for vertical platforming and timed ascents.
+- Ski Resort: snowy mountain slopes with chairlifts, lodges, moguls, and groomed runs, plus avalanche risk and off-piste danger.
+- Sumo Dohyo: raised clay ring with a straw boundary and ceremonial salt, hosting ritual-heavy wrestling bouts between giant fighters.
+- Dojo: quiet wooden-floored training hall with mats, weapon racks, and a strict master teaching martial discipline.
+- Fencing Hall: long metal strips in a polished hall where masked duelists parry, lunge, and score by electric buzz.
+- Archery Range: open lane of straw targets and quivers, where steady aim, wind, and distance decide every shot.
+- Shooting Range: noisy booths with paper targets, ear protection, and ammo crates, suited to marksmanship tests and tense encounters.
+- Horse Racetrack: oval dirt or turf course with starting gates, grandstands, betting windows, and thundering hooves.
+- Dog Racing Track: sandy oval where sleek hounds chase a mechanical lure, surrounded by gamblers and shady bookies.
+- Olympic Village: sprawling athlete housing complex of dorms, dining halls, and training fields buzzing with international teams and rivalries.
+- Esports Arena: dark stage of glowing screens, gaming rigs, and cheering fans, with casters, sponsor banners, and tournament brackets.
+- Pool Hall: smoky room of green-felt tables, hanging lamps, and cue racks, a classic haunt for hustlers and wagers.
+- Billiard Room: elegant wood-paneled parlor with a heavy table, leather chairs, and brandy, favored by gentlemen and schemers.
+- Curling Sheet: long strip of pebbled ice where polished stones glide toward a target as sweepers frantically scrub.
+- Polo Field: huge manicured lawn where mounted players swing mallets at a ball, tied to wealth and thundering horses.
+- Surf Break: rolling ocean waves peeling over reef or sandbar, offering thrilling rides, rip currents, sharks, and sunburnt locals.
+- Marathon Course: long winding road route through city streets with water stations and cheering crowds, testing endurance and pacing.
+- Cycling Velodrome: steeply banked wooden oval track for high-speed bicycle sprints, with tight packs, drafting, and dramatic crashes.
+- Gladiator Pit: sand-floored arena with blood-stained walls and caged beasts, where armed fighters battle for a roaring crowd.
+
+## Civic & Service Locations
+- Town Hall: stately administrative building with clock tower, meeting rooms, and bulletin boards, hub of local quests and politics.
+- Police Station: busy precinct of desks, holding cells, and radios, offering bounties, case files, and corrupt or heroic officers.
+- Fire Station: garage of red engines, bunk rooms, and a sliding pole, always ready for emergencies and rescue missions.
+- Hospital: sterile corridors, wards, and operating rooms staffed by doctors, offering healing, triage chaos, and hidden medical secrets.
+- Clinic: small neighborhood medical office with exam rooms and a waiting area, offering basic treatment and quiet side missions.
+- Pharmacy: shelves of medicine bottles behind a counter run by a pharmacist, tempting thieves and supplying healing items.
+- Post Office: sorting room of parcels, mailboxes, and stamps, useful for deliveries, lost letters, and courier quests.
+- Bank: marble lobby with teller windows, ledgers, and guards, where players deposit funds, take loans, or plan robberies.
+- Bank Vault: reinforced steel chamber with huge round door, lockboxes, and laser alarms, guarding gold and secrets.
+- Library: quiet stacks of tall shelves, reading desks, and dusty archives holding lore, research clues, and hushed librarians.
+- Museum: hushed galleries of exhibits, fossils, and relics behind glass, perfect for tours, thefts, and awakening displays.
+- School: corridors of lockers and classrooms filled with students, teachers, and bells, a setting for coming-of-age stories and mysteries.
+- Classroom: rows of desks facing a chalkboard, with posters and supply cabinets, a stage for lessons, pranks, and exams.
+- University Campus: leafy grounds of lecture buildings, dorms, and quads, home to scholars, secret societies, and research labs.
+- Lecture Hall: tiered auditorium with a podium and projector, where professors teach and students scribble notes or sleep.
+- Daycare: colorful room of toys, cribs, and tiny chairs run by caretakers, chaotic with children and nap-time schedules.
+- Orphanage: worn dormitory home for parentless children, often strict and underfunded, with hidden histories and sympathetic heroes.
+- Nursing Home: quiet halls of elderly residents, wheelchairs, and memory-filled rooms, offering gentle stories and unexpected secrets.
+- Embassy: guarded diplomatic compound with flags, offices, and secure rooms, tied to spies, asylum seekers, and international incidents.
+- Border Checkpoint: barricaded crossing of booths, gates, and inspectors, where papers, smuggling, and tense standoffs decide who passes.
+- Prison: fortress of cell blocks, yards, and guard towers holding convicts, rival gangs, and constant escape schemes.
+- Jail: small local lockup of bars, benches, and drunk tanks, used for brief detentions and bail-out missions.
+- Morgue: cold tiled room of steel drawers and autopsy tables, ideal for forensic clues, undead twists, and chills.
+- Funeral Home: somber parlor of caskets, flowers, and hushed mourners, run by undertakers with grim professional secrets.
+- City Hall: grand seat of municipal government with marble halls, offices, and a council chamber full of intrigue.
+- Parliament Chamber: grand debating hall of curved benches and a speaker's chair, where lawmakers argue, vote, and betray.
+- Council Chamber: round meeting room with a long table and banners, where elders or officials decide local fate.
+- Tax Office: dreary bureaucratic space of forms, queues, and stamps, hosting tedious errands and dreaded audits.
+- Records Hall: vast archive of filing cabinets and ledgers, storing deeds, birth certificates, and secrets for the clever investigator.
+- Mayor's Office: polished corner office with flags, portraits, and a heavy desk, where deals and scandals are quietly arranged.
+- Barracks Town Gate: fortified entrance flanked by guards and portcullis, controlling traffic, tolls, and who enters the walled settlement.
+- Public Bath: steaming pools and marble benches where townsfolk gossip, relax, and sometimes trade secrets or heal.
+- Public Fountain: central plaza basin with sculpted water jets, a meeting spot for lovers, beggars, and street performers.
+- Public Well: stone-ringed shaft with bucket and rope, a village water source that gathers gossip and sometimes hides monsters.
+- Park Bench Plaza: small green square of benches, pigeons, and paths, ideal for quiet conversations, dead drops, and chance meetings.
+- Bus Terminal: noisy hub of idling coaches, ticket counters, and waiting travelers, with pickpockets and departure-board deadlines.
+- Subway Station: underground platforms of tiled walls, turnstiles, and rattling trains, filled with commuters, buskers, and lurking dangers.
+- Train Station: grand hall of platforms, clocks, and ticket windows, where journeys begin, chases unfold, and strangers cross paths.
+- Airport Terminal: sprawling concourse of gates, security lines, and duty-free shops, thick with travelers, delays, and international intrigue.
+
+## Shops & Workshops
+### Shops
+- General Store: cluttered shop stocking basic tools, food, and supplies, run by a chatty keeper who knows local rumors.
+- Grocery Store: aisles of fresh produce, canned goods, and refrigerated items, handy for restocking supplies and mundane errands.
+- Bakery: warm, flour-dusted shop with fresh bread, pastries, and ovens glowing before dawn, filled with comforting aromas.
+- Butcher Shop: tiled counter of hanging meats, cleavers, and sawdust floors, run by a burly merchant with a blood-stained apron.
+- Fish Market Stall: wet wooden counter piled with ice and the day's catch, loud with hagglers, gulls, and briny smells.
+- Greengrocer: neat stand of fruit and vegetables in baskets, offering cheap healing food and seasonal bargains.
+- Apothecary: shelves of jars, herbs, and tinctures behind a mortar-wielding druggist, selling potions, poisons, and cures.
+- Herbalist Shop: fragrant hut of drying bundles and root jars, tended by a wise folk healer selling remedies and charms.
+- Potion Shop: bubbling flasks and colorful elixirs lining crooked shelves, sold by an eccentric brewer with risky experimental stock.
+- Magic Shop: dimly lit emporium of wands, scrolls, and enchanted trinkets, guarded by a mysterious proprietor and cursed merchandise.
+- Curiosity Shop: crammed den of oddities, taxidermy, and strange artifacts, where rare finds hide among the dusty junk.
+- Pawn Shop: barred counter of used goods, jewelry, and weapons, trading cash for items with shady, desperate customers.
+- Antique Shop: dusty cabinets of old furniture, clocks, and relics, where valuable treasures and haunted heirlooms wait to be found.
+- Bookshop: cozy rows of well-thumbed volumes, rare editions, and a resident cat, perfect for hunting lore and quest clues.
+- Map Shop: walls of charts, globes, and rolled parchment, selling routes, treasure maps, and guidance to lost places.
+- Tailor Shop: fabric bolts, mannequins, and measuring tapes where a seamstress crafts clothing, disguises, and uniforms to order.
+- Cobbler: tiny workshop smelling of leather and glue, with lasts and hammers, repairing boots and selling sturdy footwear.
+- Hat Shop: shelves of top hats, caps, and feathered bonnets, offering fashionable disguises and eccentric headgear.
+- Jeweler: glittering glass cases of rings, gems, and watches under bright lamps, guarded closely against thieves and swindlers.
+- Toy Shop: cheerful shelves of dolls, wooden soldiers, and puzzle boxes, bursting with color and whimsical, occasionally eerie, playthings.
+- Candy Shop: jars of sweets, chocolate fountains, and sugary smells, loved by children and rife with sticky mischief.
+- Pet Shop: cages, tanks, and perches of animals for sale, chirping and squeaking, offering companions and exotic oddities.
+- Flower Shop: buckets of fresh blooms and ribbons filling the air with perfume, supplying bouquets, herbs, and romantic gestures.
+- Barber Shop: leather chairs, mirrors, and razors where gossip flows freely, offering haircuts, shaves, and occasional minor surgery.
+- Tattoo Parlor: buzzing needles, flash art walls, and ink bottles, a gritty haven for marked outcasts and mystic symbols.
+- Tea House: quiet room of low tables and steaming kettles, perfect for calm meetings, negotiations, and gossip among sipping patrons.
+- Coffee Shop: aromatic counter with espresso machines and cozy tables, a social hub for writers, workers, and informants.
+- Diner: chrome-trimmed counter and vinyl booths serving greasy comfort food at all hours, a classic hangout for travelers and cops.
+- Food Cart: small wheeled stall sizzling with street snacks, quickly serving hungry crowds and cheap healing meals.
+- Night Market Stall: lantern-lit booth among crowded alleys selling exotic wares, street food, and odd bargains after dark.
+- Arms Dealer: reinforced shop of racked weapons and crates of ammo, run by a wary merchant with strict customer vetting.
+- Black Market Den: hidden basement of contraband, stolen goods, and forbidden artifacts, guarded by thugs and open to the right password.
+- Pharmacy Counter: modern drug dispensary behind a glass window, offering healing items, prescriptions, and tempting stashes for burglars.
+- Convenience Store: brightly lit corner shop of snacks, drinks, and lottery tickets, often open late and ripe for robberies.
+- Gas Station: roadside pumps with a lonely attendant and snack shop, offering fuel, directions, and a classic stage for tense encounters.
+- Vending Alley: narrow passage of humming machines selling drinks, snacks, and odd items, flickering under neon in a quiet corner.
+- Shopping Mall: multi-level complex of storefronts, food courts, and escalators, great for crowds, chases, and massive loot hunts.
+- Department Store: grand multi-floor emporium of clothing, housewares, and displays, with mannequins, elevators, and endless aisles for exploration.
+- Supermarket: vast chain grocery of long aisles, carts, and freezers, ideal for supply runs, scavenging, and hiding from foes.
+### Workshops
+- Blacksmith Forge: roaring furnace, anvil, and tongs in a smoky shed, where armor and weapons are hammered into shape.
+- Armorer Workshop: racks of plate, mail, and helmets awaiting fitting, tended by a craftsman who repairs and customizes protective gear.
+- Fletcher Workshop: bench of feathers, shafts, and arrowheads, where precise hands craft arrows and bolts for hunters and soldiers.
+- Carpenter Shop: sawdust-covered floor of planks, chisels, and half-built furniture, producing tables, doors, and sturdy wooden structures.
+- Cooper Shop: stacked staves and iron hoops where barrels and casks are shaped, essential for storing ale, grain, and gunpowder.
+- Wheelwright Yard: open yard of spokes, rims, and wagon frames, where cart wheels are built and travelers' vehicles repaired.
+- Weaver's Loom Hall: clacking looms and spools of colored thread producing cloth, tapestries, and carpets, tended by skilled textile workers.
+- Dyer's Yard: vats of bright, stinking pigment and drying fabrics hung overhead, staining everything and producing vivid clothing and banners.
+- Potter's Kiln: spinning wheels, clay-splattered shelves, and a roaring kiln firing bowls, urns, and tiles from raw earth.
+- Glassblower Studio: furnace-lit room where molten glass is shaped into bottles and ornaments, hot, fragile, and glittering with color.
+- Bowyer Shop: workshop of curved staves, string, and clamps, where craftsmen carve and tune bows for hunters and archers.
+- Clockmaker Workshop: ticking room of gears, springs, and tiny tools, where delicate mechanisms are built and eerie automata sometimes stir.
+- Inventor's Lab: cluttered bench of blueprints, sparking coils, and half-built contraptions, home to eccentric tinkerers and explosive prototypes.
+- Alchemist Laboratory: bubbling alembics, shelves of reagents, and smoking cauldrons where transmutations and potions are attempted, often dangerously.
+- Enchanter's Workshop: glowing runes, spell circles, and focus crystals in a quiet chamber where mundane items gain magical properties.
+- Mechanic Garage: oil-stained bay of lifts, tools, and car parts, offering vehicle repairs, upgrades, and gearhead conversation.
+- Radio Repair Shop: crowded bench of vacuum tubes, soldering irons, and crackling sets, fixing electronics and picking up strange signals.
+- Print Shop: inky presses, type cases, and drying sheets producing newspapers, posters, and pamphlets, sometimes spreading dangerous rebel messages.
+- Bookbinder Workshop: quiet table of leather, thread, and presses where books are stitched, repaired, and sometimes hiding secrets in covers.
+- Mint: heavily guarded facility of furnaces and stamping presses producing coins, ripe for counterfeiting plots and daring heists.
+- Distillery: copper stills, oak barrels, and sweet boozy fumes producing spirits, with moonshiners, smugglers, and flammable accidents.
+- Winery: sunny rows of vines leading to cellars of casks and presses, producing wine amid harvest festivals and aging secrets.
+- Cheese Cave: cool damp cellar of aging wheels on wooden racks, pungent and still, perfect for quiet cellar-dwellers.
+- Smokehouse: dark hut of hanging meats and smoldering wood, preserving food with pungent haze and drawing hungry scavengers.
+- Candle Maker: warm shop of dripping wax, wicks, and molds producing light sources, scented tapers, and ritual candles.
+- Soap Works: steamy vats of lye, fat, and fragrances producing cleaning bars, with slippery floors and caustic hazards.
+- Scribe's Scriptorium: quiet hall of slanted desks, quills, and inkwells where copyists produce manuscripts, contracts, and illuminated texts.
+- Sculptor Studio: dusty room of marble blocks, chisels, and half-finished statues, where artists carve figures that may someday come alive.
+- Painter Studio: sunlit loft of easels, pigments, and canvases, home to eccentric artists, portraits, and perhaps haunted paintings.
+- Luthier Workshop: quiet bench of wood shavings, strings, and unfinished violins or lutes, crafting instruments for bards and musicians.
+
+## Vehicle Interiors
+- Car Interior: cramped cabin of seats, dashboard, and rearview mirror, ideal for conversation scenes, chases, and roadside ambushes.
+- Bus Interior: rows of seats, handrails, and a driver's cab, filled with commuters, chatter, and swaying stops.
+- Taxi Cab: worn back seat with a meter and chatty driver, useful for quick travel, overheard tips, and shady rides.
+- Truck Cab: roomy driver compartment with sleeper bunk, CB radio, and dashboard clutter, suited to long-haul journeys and hijack scenarios.
+- Train Compartment: small private cabin with facing benches, luggage racks, and a window, setting for mysteries and tense conversations.
+- Dining Car: narrow railcar of tables, white linen, and a swaying kitchen, perfect for elegant meals and murder plots.
+- Sleeper Car: corridor of bunks and curtained berths rattling through the night, offering cramped rest and stealthy intrigue.
+- Caboose: small rear railcar with a stove, bunks, and a cupola, retro refuge for brakemen and stowaways.
+- Subway Car: fluorescent-lit metal carriage with poles, bench seats, and graffiti, rattling through dark tunnels with commuters and menace.
+- Tram Interior: wooden or steel streetcar with bells, benches, and overhead straps, clanking along city streets with chatty passengers.
+- Airplane Cabin: tight rows of seats, overhead bins, and narrow aisles at altitude, perfect for tense hijacks and turbulence.
+- Cockpit: control-filled flight deck of dials, yokes, and windshield views, where pilots wrestle with emergencies and navigation.
+- Cargo Hold: cavernous space of crates, straps, and shadows beneath decks or fuselage, ideal for smuggling, stowaways, and ambushes.
+- Helicopter Cabin: loud vibrating compartment with bench seats and open doors, used for rescue drops, air assaults, and aerial views.
+- Airship Gondola: suspended cabin of brass instruments and windows below a giant gasbag, swaying gently amid clouds and pirate attacks.
+- Hot Air Balloon Basket: tiny wicker platform beneath a burner and billowing envelope, offering serene scenic views and precarious drifting danger.
+- Ship Cabin: snug wooden room with a bunk, porthole, and rolling floor, serving as private quarters for crew and passengers.
+- Ship Galley: steamy ship kitchen of cauldrons, hanging pots, and salted provisions, tended by a gruff cook feeding hungry sailors.
+- Ship Hold: dark lower deck of barrels, cargo, and rats sloshing with bilge water, hiding stowaways and secret treasure.
+- Ship Brig: cramped iron-barred cell below deck for prisoners and mutineers, damp, dim, and guarded by wary sailors.
+- Captain's Quarters: roomy stern cabin of charts, a large desk, and personal treasures, holding logbooks, secrets, and the ship's command.
+- Crow's Nest: tiny lookout barrel atop the mast with sweeping views, windswept and dizzying, spotting land, storms, and enemies.
+- Gun Deck: low-ceilinged row of cannons, powder kegs, and sweating crew, deafening and smoky during naval battles.
+- Engine Room: hot, noisy chamber of pistons, boilers, and pipes, tended by greasy engineers and prone to explosions.
+- Submarine Interior: claustrophobic steel tube of pipes, gauges, and bunks, creaking under pressure with leaks, sonar pings, and tense silence.
+- Lifeboat: small open vessel with oars, rations, and desperate survivors adrift, facing thirst, weather, and sharks.
+- Ferry Deck: wide open platform of parked cars and passengers crossing water, with railings, snack bars, and sea breeze.
+- Tank Interior: cramped armored cabin of shells, periscopes, and radios, deafening and hot, with gunner and driver shouting orders.
+- Mech Cockpit: tight pilot seat surrounded by holographic displays and control sticks, controlling a towering war machine with heat warnings.
+- Spacecraft Bridge: central command deck of consoles, viewscreens, and captain's chair, directing ship operations amid alarms and alien encounters.
+- Escape Pod: tiny sealed capsule with minimal supplies and emergency controls, launched in crisis toward uncertain landings.
+- Space Station Module: sleek pressurized compartment of hatches, handrails, and equipment racks, humming with life support and zero-gravity hazards.
+- Airlock: small sealed chamber between pressurized and hostile environments, with cycling doors, suit lockers, and decompression risks.
+- Wagon Interior: cramped canvas-covered space of crates, bedrolls, and bumping wheels, used by traveling merchants and frontier families.
+- Caravan Wagon: colorful ornate rolling home of rugs, trinkets, and lamps, belonging to wandering performers, traders, or fortune tellers.
+- Stagecoach: rattling wooden passenger carriage pulled by horses, a classic setting for bandit holdups and cramped traveler drama.
+- Covered Wagon: sturdy canvas-topped pioneer cart stocked with supplies, crossing dangerous frontier trails full of storms and raiders.
+- Sleigh: open or enclosed snow carriage with bells and furs, gliding through winter forests with wolves and cold gusts.
+- Rickshaw: lightweight two-wheeled passenger cart pulled by a runner, weaving through crowded city streets and narrow lanes.
+- Gondola: slim canal boat with cushioned seat and a singing gondolier, gliding quietly under bridges in romantic or secretive scenes.
+- Cable Car Cabin: small hanging gondola swaying above mountain valleys, offering scenic views, sudden stalls, and perilous cable snaps.
+- Elevator Shaft: dark vertical tunnel of cables, ladders, and counterweights, perfect for daring climbs, falls, and tense ambushes.
+- Elevator Car: small mirrored box with floor buttons and a soft ding, ideal for awkward encounters and sudden breakdowns.
+- Escalator Hall: long moving staircases in a mall or station, creating choke points, chases, and tense surveillance angles.
+- Ambulance: cramped medical vehicle of stretchers, monitors, and emergency supplies, racing with sirens through traffic to save patients.
+- Hearse: somber black funeral coach carrying a coffin, often used for grim travel, smuggling, or haunting encounters.
+- Rocket Capsule: tight pressurized cone of couches, switches, and tiny windows strapped atop a rocket, shaking violently during launch.
+
+## Cult & Secret Society Sites
+- Cult Compound: fenced rural complex of dormitories, a central shrine, and watchful guards, home to a charismatic leader and brainwashed followers.
+- Cult Temple: dim ritual hall of symbols, candles, and an altar, where hooded devotees chant and summon dark forces.
+- Hidden Sanctum: concealed inner chamber reached by secret doors, holding sacred relics, forbidden texts, and guarded by initiated keepers.
+- Sacrificial Chamber: stone room with a bloodstained altar, chains, and ritual daggers, where offerings are made to hungry deities.
+- Lodge Hall: private meeting hall of banners, chairs, and ceremonial regalia, where members swap secrets and perform quiet rituals.
+- Masonic Hall: ornate fraternal temple of columns, checkered floors, and symbolic tools, hosting hidden handshakes and speculation about conspiracies.
+- Secret Society Library: hidden archive of forbidden books, maps, and sealed records, protected by traps and silent, watchful archivists.
+- Assassin's Guild Hideout: shadowy den of blades, poison cabinets, and contract boards, where killers train, plan, and share grim code.
+- Thieves' Guild Hall: hidden tavern or cellar of lockpicks, loot ledgers, and rooftop access, home to pickpockets, fences, and cutthroats.
+- Mage's Guild Hall: grand tower of libraries, spell labs, and arcane portals, where wizards study, trade secrets, and compete.
+- Warrior Guild Hall: rowdy training hall of weapon racks, sparring rings, and trophies, where fighters accept contracts and prove their might.
+- Merchant Guild Hall: opulent trading house of ledgers, vaults, and negotiation rooms, controlling prices, caravans, and local politics.
+- Spy Safehouse: ordinary-looking apartment hiding coded notes, weapons, and escape routes, used by agents to lie low and plan.
+- Resistance Hideout: cramped underground base of maps, radios, and stolen supplies, sheltering rebels plotting against an oppressive regime.
+- Smuggler's Tunnel: narrow concealed passage beneath streets or cliffs, damp and torchlit, moving contraband past guards and tax collectors.
+- Underground Meeting Cellar: hidden basement lit by candles where conspirators whisper plans, trade passwords, and watch for informers.
+- Catacomb Church: ancient subterranean chapel of bone-lined walls and crumbling altars, used by persecuted worshippers and sinister cults.
+- Shadow Council Chamber: secret round table room where hooded rulers manipulate events from behind the scenes, steeped in intrigue.
+- Order Monastery: remote stone cloister of disciplined monks, libraries, and gardens, guarding sacred knowledge and ancient martial traditions.
+- Knights' Chapter House: austere meeting hall of banners, swords, and long tables, where sworn knights plan crusades and hold tribunals.
+- Doomsday Bunker: reinforced underground shelter of stockpiled food, generators, and paranoid survivors, sealed against catastrophe and outside threats.
+- Cultist Commune: isolated village of shared huts and fire pits, where devotees live under a prophet and hide dark rites.
+- Hermit Cabin: lonely woodland hut of herbs, books, and a crackling hearth, home to a reclusive sage with hidden wisdom.
+- Secret Laboratory: concealed research facility of sealed doors, cages, and bubbling equipment, where forbidden experiments risk escaping control.
+- Black Site: unmarked government prison or facility of cold cells and interrogation rooms, off the books and heavily guarded.
+
+## Law, Crime & Heist Locations
+- Crime Scene: taped-off area of evidence markers, chalk outlines, and nervous bystanders, ready for investigation, clue hunting, and forensic puzzles.
+- Interrogation Room: bare box with a table, two chairs, and one-way mirror, where suspects sweat under harsh lights and questions.
+- Police Lineup Room: dim chamber with height-marked wall and observation glass, used for witness identification and tense suspect parades.
+- Evidence Locker: caged storage of labeled bags, weapons, and case boxes, tempting thieves and holding vital proof for trials.
+- Detective's Office: cluttered desk, case board, and whiskey bottle in a small room, where a weary investigator pieces together clues.
+- Heist Vault: reinforced chamber of lasers, pressure plates, and thick doors protecting treasure, built for elaborate planned break-ins.
+- Casino Vault: deep underground room behind the gambling floor, holding stacks of cash and chips under watchful cameras and guards.
+- Armored Truck Route: stretch of road followed by a reinforced cash transport, ideal for ambushes, escorts, and carefully timed robberies.
+- Getaway Alley: narrow back street with dumpsters and fire escapes, perfect for escape routes, chases, and idling accomplices.
+- Safehouse: unassuming hideout stocked with supplies and weapons, where fugitives or agents lie low and plan their next move.
+- Chop Shop: grimy garage of stripped cars, spare parts, and shady mechanics, fencing stolen vehicles under watchful lookouts.
+- Drug Den: filthy room of mattresses, haze, and paranoid users, run by dealers with weapons and cruel enforcers.
+- Speakeasy: hidden bar behind a secret door, serving illicit liquor to jazz-loving patrons, bribed cops, and gangsters.
+- Illegal Fight Club: roped-off cellar or warehouse where bettors cheer bloody bare-knuckle brawls, hidden from police and run by crooks.
+- Gangster Hideout: smoky backroom of poker tables, weapons, and loyal thugs, home base for a crime family's schemes.
+- Mob Boss Penthouse: luxurious high-rise suite of bodyguards, marble, and city views, where a ruthless kingpin directs criminal empires.
+- Cartel Compound: fortified estate of armed guards, lavish gardens, and hidden labs, ruled by a wealthy and dangerous drug lord.
+- Fence's Back Room: cramped office behind a shop where stolen goods are appraised, hidden, and resold for a hefty cut.
+- Counterfeiting Press: secret room of printing plates, ink, and stacks of fake bills or documents, always one raid from exposure.
+- Gallery Under Guard: elegant art hall of laser sensors, patrolling guards, and priceless paintings, tempting masterful thieves.
+- Museum Heist Floor: darkened exhibit hall of alarmed display cases, security cameras, and sleeping guards, prime for high-stakes artifact theft.
+- Bank Lobby: marble hall of teller windows, velvet ropes, and security guards, setting for robberies, hostage standoffs, and shootouts.
+- Embassy Vault: secure room inside a diplomatic building holding secret documents and valuables, tightly guarded and legally untouchable.
+- Courtroom: formal hall of a judge's bench, jury box, and gallery, where lawyers argue and verdicts hang in the balance.
+- Witness Stand: small raised box beside the judge where testimony is given, under oath and cross-examination, often decisive.
+- Holding Cell: bare temporary lockup of benches and bars, where suspects wait for processing, bail, or interrogation.
+- Prison Yard: fenced exercise area of weights, basketball hoops, and gang territories, tense with watchtower guns and shivs.
+- Solitary Confinement Cell: tiny windowless chamber of silence and darkness, used as punishment, slowly wearing down prisoners' sanity.
+- Death Row Block: grim wing of isolated cells for condemned inmates, with last meals, chaplains, and the dread of countdown.
+- Execution Chamber: stark sealed room with a chair, gurney, or gallows, where sentences are carried out before solemn witnesses.
+- Parole Office: bland government room of forms, desks, and tired officers, where ex-convicts check in under tight conditions.
+- Gallows Square: public plaza with a wooden scaffold and noose, where crowds gather for executions and grim announcements.
+- Stocks and Pillory Green: village common with wooden restraints for public shame, drawing jeering crowds and thrown rotten produce.
+
+## Ritual & Ceremonial Grounds
+- Coronation Hall: grand chamber of thrones, banners, and trumpeters where a new ruler is crowned before nobles and clergy.
+- Wedding Chapel: small decorated sanctuary of pews, flowers, and an altar, hosting vows, surprise interruptions, and joyful or tragic unions.
+- Wedding Garden: outdoor ceremony space of arches, petals, and rows of chairs, perfect for romantic scenes and ambushed receptions.
+- Initiation Circle: ring of torches or stones where newcomers face trials and oaths before gaining entry to a brotherhood.
+- Rite of Passage Trail: winding wilderness path marking a youth's journey to adulthood, with challenges, shrines, and watchful elders.
+- Vision Quest Peak: remote mountaintop where a seeker finds prophetic dreams in solitude, exposed to cold, hunger, and spirit encounters.
+- Naming Ceremony Grove: quiet stand of trees where newborns or initiates receive their names, with blessings, drums, and ancestral spirits.
+- Sky Burial Site: high exposed platform where the dead are offered to vultures, windswept and solemn, tied to ancient mountain customs.
+- Sacred Spring Rite Site: clear pool or spring ringed by offerings where pilgrims perform purification, healing rituals, and prayer.
+- Harvest Festival Ground: open field of straw bales, feasting tables, and music, celebrating crops with dancing, games, and thankful gatherings.
+- Rain Dance Ground: dusty cleared plaza where dancers in costume beg the sky for storms, with drums and drought-stricken onlookers.
+- Sun Dance Lodge: circular ceremonial structure around a central pole, hosting grueling days of fasting, dance, and spiritual endurance.
+- Sweat Lodge: low dome of hides or branches filled with steam from hot stones, used for purification, visions, and healing.
+- Kiva: round subterranean chamber with a fire pit and ladder entrance, used for sacred ceremonies and tribal council meetings.
+- Powwow Circle: open dance ground ringed by drummers and vendors, alive with regalia, songs, and communal gathering traditions.
+- Fire Walking Pit: bed of glowing coals laid out for ritual crossing, testing faith, courage, and the danger of burned feet.
+- Ordeal Ground: harsh cleared arena where candidates endure pain, hunger, or fear to prove worth, watched by solemn judges.
+- Trial by Combat Ring: marked circle where accused and accuser fight to settle disputes, with ceremonial weapons and a deadly outcome.
+- Oath Stone: weathered standing rock where sworn promises are made on blood or honor, binding the speaker with ancient consequences.
+- Judgment Hall: austere chamber of high seats and heavy doors where elders or divine judges weigh souls and pass sentence.
+- Bonfire Hill: windy summit crowned with a massive blazing pyre, visible for miles, used for festivals, signals, and pagan revelry.
+- Solstice Circle: ring of standing stones aligned with the sun, drawing crowds at dawn for ancient rites and eerie magic.
+- Equinox Alignment Site: stone or earthwork structure framing balanced day and night, used for astronomical rituals and calendar-keeping with hidden secrets.
+- Pilgrim's Rest: modest hostel and shrine along a holy route, offering weary travelers food, beds, blessings, and rumors.
+- Procession Avenue: broad ceremonial road lined with statues and banners, where parades of priests, kings, or mourners march in solemn order.
+- Offering Pool: still, deep basin ringed with votive gifts, coins, and flowers, where worshippers appease spirits and sometimes lose treasures.
+- Candlelit Procession Hall: long corridor or nave glowing with hundreds of flames, where hooded worshippers walk in solemn reverent lines.
+
+## Holiday & Festival Settings
+- Christmas Village: snow-dusted hamlet of twinkling lights, wreath-decked cottages, and carolers, bursting with cozy cheer and gift-filled magic.
+- Winter Wonderland Market: crowded stalls of mulled drinks, handmade crafts, and ice sculptures under glowing lanterns in a frosty town square.
+- Santa's Workshop: bustling polar factory of elves, toy benches, and sleighs, cheerful and chaotic with candy canes and gift deadlines.
+- Halloween Town: spooky street of jack-o'-lanterns, cobwebs, and costumed trick-or-treaters, where monsters feel at home and pranks turn eerie.
+- Haunted Hayride Field: moonlit farm path of scarecrows, fog, and jump-scare actors, where a creaky wagon rolls toward real terror.
+- Thanksgiving Farm: autumn homestead of pumpkins, long feast tables, and golden fields, warm with family gatherings and harvest gratitude.
+- Easter Meadow: pastel spring field of hidden eggs, blooming flowers, and hopping rabbits, perfect for egg hunts and gentle whimsy.
+- Valentine Garden: romantic rose-filled park of hearts, benches, and fairy lights, ideal for courtship scenes, secret admirers, and cupid mischief.
+- New Year's Square: crowded plaza counting down to midnight, with confetti, fireworks, and champagne toasts beneath a glittering ball drop.
+- Lunar New Year Street: red-lantern-lined road of dragon dances, firecrackers, and festive food stalls, rich with luck charms and family traditions.
+- Diwali Courtyard: lamp-lit gathering space of rangoli, sweets, and sparkling lights, celebrating the triumph of light with joy and fireworks.
+- Holi Color Field: open ground exploding with clouds of bright powder and laughing revelers, a joyful spring festival of dance and splashes.
+- Carnival Parade Route: street of floats, masked dancers, and drumming bands, vibrant with costumes, confetti, and pickpockets in the crowd.
+- Mardi Gras Street: raucous avenue of beads, balconies, and brass bands, thick with masks, revelry, and late-night mischief.
+- Oktoberfest Tent: huge wooden beer hall of long tables, oompah bands, and foaming steins, loud with songs and sloshing crowds.
+- Midsummer Meadow: flower-filled field with maypole, bonfires, and wreath-crowned dancers, alive with folk magic and the shortest night.
+- Beltane Fire Hill: hilltop of twin bonfires and ribbon-wrapped revelers, marking spring fertility with leaps over flames and pagan rites.
+- Samhain Bonfire: autumn fire on a dark hillside where the veil thins, drawing ancestors, spirits, and cloaked ritual gatherers.
+- Day of the Dead Cemetery: candlelit graveyard of marigolds, sugar skulls, and offerings, where families welcome returning spirits with music and memory.
+- Lantern Festival River: waterway filled with floating glowing lanterns carrying wishes, beautiful at night and drifting past quiet crowded banks.
+- Cherry Blossom Viewing Park: pink-petaled grove of picnickers and drifting blossoms, peaceful and fleeting, ideal for contemplative or romantic scenes.
+- Fireworks Pier: wooden waterfront platform packed with spectators beneath colorful bursts, with smoke, booming echoes, and crowds along the shoreline.
+- County Fair: sprawling grounds of Ferris wheels, livestock barns, and midway games, bustling with pie contests, carnies, and fried food.
+- Renaissance Faire: costumed village of jousts, craft stalls, and minstrels, blending historical charm with turkey legs and playful role-play.
+- Harvest Moon Festival Grounds: moonlit gathering field of lanterns, mooncakes, and storytelling, celebrating autumn abundance with soft glow and family tradition.
+- Fourth of July Parade Street: flag-draped main street of marching bands, floats, and cheering crowds, ending with evening fireworks and cookouts.
+- Birthday Party Room: decorated space of balloons, cake, and gift piles, buzzing with games, guests, and one sneaky surprise.
+- Pinata Yard: sunny backyard with a hanging candy-filled figure, blindfolded swingers, and screaming kids scrambling for falling sweets.
+
+## Theater & Performance Spaces
+- Backstage: cramped maze of ropes, flats, costume racks, and props, ideal for stealth routes and sabotage.
+- Orchestra Pit: sunken alcove of music stands and instrument cases below the stage, echoing with hidden passages and cover.
+- Concert Hall: tiered velvet seating and gilded balconies around a resonant stage, where acoustics amplify every footstep and spell.
+- Dance Studio: mirrored walls, polished sprung floor, and ballet barres, good for rhythm challenges and reflection puzzles.
+- Cabaret Club: smoky, candlelit tables around a small stage, full of gossip, hidden deals, and glittering performers.
+- Comedy Club: low-ceilinged brick room with a spotlit mic, heckling crowds, and drink-slinging staff for social encounters.
+- Nightclub: pulsing lights, thumping bass, packed dance floor, and shadowy VIP booths where deals and fights erupt.
+- Jazz Club: dim basement lounge of smoky blue light, improvising bands, and patrons trading secrets between sets.
+- Karaoke Bar: neon-lit room of private booths and a lively stage, with rowdy singers and tipsy rivals.
+- Puppet Theater: miniature curtained stage with dangling strings and painted backdrops, hosting uncanny marionettes and hidden puppeteers.
+- Shadow Puppet Screen: backlit cloth screen where flickering cutout silhouettes act out stories, suited to illusion and perception puzzles.
+- Circus Ring: sawdust arena ringed by bleachers, home to acrobats, animal tamers, clowns, and showy set-piece battles.
+- Big Top Tent: vast striped canvas tent with high trapezes, tent poles, and a roaring crowd under hanging lights.
+- Sideshow Alley: crowded lane of oddity tents, carnival barkers, and rigged games hiding eerie performers and trickery.
+- Magic Show Stage: velvet-draped stage with trapdoors, mirrors, and secret compartments, perfect for illusions, misdirection, and vanishing foes.
+- Street Performer Corner: busy sidewalk nook where jugglers, mimes, and musicians draw crowds and distract pickpockets.
+- Busker Plaza: open public square filled with open instrument cases, musicians, and passing tourists, great for coins and rumors.
+- Film Set: fake building facades, cameras on rails, and tangled cables, with directors, stunt crews, and staged dangers.
+- Soundstage: huge windowless warehouse hall of rigged lights and rotating sets, easily reshaped into any scene.
+- Movie Theater: dark auditorium of sloping rows and flickering screen glow, with projector booths and sticky-floored hiding spots.
+- Drive-In Theater: open lot of parked cars facing a giant outdoor screen, glowing at dusk with a snack bar.
+- Recording Studio: soundproofed booths, mixing consoles, and foam walls, where silence, cursed recordings, or sonic traps may lurk.
+- TV Studio: bright set with camera crews, teleprompters, audience bleachers, and live broadcast pressure ticking by the second.
+- Radio Booth: tiny soundproofed room of microphones, dials, and glowing ON AIR sign, ideal for broadcasting messages across the map.
+- Talent Show Stage: modest school or town stage with folding chairs, nervous contestants, and judges deciding who impresses the crowd.
+- Gameshow Set: garish, blinking stage of buzzers, trapdoors, and prize podiums, perfect for trivia challenges and absurd deadly contests.
+- Fashion Runway: long glossy catwalk flanked by flashing cameras and critics, a place for style duels and high-society intrigue.
+
+## Storybook, Classic Fiction & Poetry Settings
+### Fairy Tale Settings
+- Gingerbread House: candy-coated cottage with sugar windows and frosting roof, luring hungry travelers into a witch's oven trap.
+- Beanstalk Giant's Realm: cloud-top land of enormous furniture and thundering footsteps, where small heroes steal treasure from towering hosts.
+- Glass Mountain: slick, shimmering peak that defeats ordinary climbing, with a prize at the summit and slipping hazards throughout.
+- Briar Rose Castle: fortress swallowed by thorny hedges and enchanted slumber, guarding a sleeping court and a tempting curse.
+- Rapunzel's Tower: doorless stone spire in a forest, with a single high window and a guardian enchantress below.
+- Cinderella's Ballroom: glittering palace hall of chandeliers and mirrored floors with a midnight deadline when enchantments fade.
+- Seven Dwarfs' Cottage: tiny woodland cabin of small beds, mining tools, and a nearby gem mine, sheltering a hunted traveler.
+- Big Bad Wolf's Forest: shadowy woodland of narrow trails and ambush spots, stalked by a cunning predator in disguise.
+- Red Riding Hood's Path: winding forest trail to a grandmother's cottage, tempting travelers with flowers and wolfish detours.
+- Three Pigs' Meadow: open pasture dotted with straw, stick, and brick homes, testing which defenses survive a huffing predator.
+- Frog Prince's Pond: lily-choked garden pool where a talking frog holds a promise and a cursed secret.
+- Little Mermaid's Lagoon: sheltered coastal cove of tide pools and sea caves, where a sea witch bargains for voices.
+- Snow Queen's Palace: icy fortress of frozen halls and mirror shards, where cold magic freezes hearts and memory.
+- Pied Piper's Town: crowded medieval village plagued by rats, where a stranger's magic pipe lures vermin and children alike.
+- Goldilocks' Cottage: tidy forest home of three bowls, chairs, and beds, left unlocked for a curious trespasser to sample.
+- Mother Goose Farm: cheerful pastoral farm of nursery rhyme animals, haystacks, and tall tales, with whimsical rhyming puzzles.
+- Sleeping Beauty's Garden: overgrown rose garden around a slumbering castle, lush with thorns, fairies, and a lingering curse.
+### Classic Fiction Settings
+- Wonderland: absurd dreamlike country of shrinking potions, mad tea parties, and tyrannical card monarchs, where logic constantly bends.
+- Looking-Glass World: mirror-reversed landscape laid out like a chessboard, with talking flowers and rules running backwards.
+- Neverland: tropical island of pirates, lost children, mermaid lagoons, and flying youths, where nobody ever grows up.
+- Oz: colorful magical land of yellow brick roads, emerald cities, witches, and odd companions seeking wizardly favors.
+- Narnia: snowbound enchanted realm of talking beasts, fauns, and a rightful king, entered through a hidden portal.
+- Middle-Earth Shire: peaceful rolling countryside of round-door burrows, pipe-weed gardens, and cozy villages shielding quiet, stubborn hero folk.
+- Sherwood Forest: ancient greenwood of hidden outlaw camps, archery contests, and a tyrannical sheriff's patrols.
+- Camelot: shining royal castle and tournament town, seat of a round-table brotherhood of knights and noble quests.
+- Lyonesse: legendary drowned kingdom off a rugged coast, with sunken towers, ghostly bells, and sea-claimed treasure.
+- Lilliput: island nation of tiny citizens, miniature towns, and elaborate politics, where giant visitors are bound by threads.
+- Brobdingnag: land of enormous farmers, huge animals, and towering grass, where an ordinary person becomes a pocket curiosity.
+- Laputa: floating scholar island ruled by absent-minded thinkers, hovering by magnetism above a resentful, neglected land.
+- Utopia: carefully planned island society of shared property, orderly cities, and uncanny perfection, hiding unsettling rules.
+- Erewhon: remote hidden country with inverted customs, where illness is punished and machines are outlawed.
+- Xanadu: opulent pleasure palace with sacred river, walled gardens, and exotic splendor beneath a lingering dreamlike haze.
+- Lost City of Z: legendary jungle ruin sought by explorers through disease, hostile tribes, and maddening humid wilderness.
+- Moby Dick's Sea: open whaling ground of rolling swells and harpoon boats, haunted by an obsessive hunt for a pale leviathan.
+- Baker Street: foggy Victorian lane of gaslights, cluttered sitting rooms, and clues, home to a brilliant consulting detective.
+- Gotham Alley: rain-slicked, neon-shadowed back street of corruption and crime, where masked vigilantes and thugs collide.
+- Dickensian London Fog Street: cobbled Victorian lane choked by yellow smog, populated by pickpockets, orphans, chimney sweeps, and miserly lenders.
+- Gothic Moor Manor: crumbling stone mansion on a windswept heath, filled with portraits, secret passages, and restless family ghosts.
+- Wuthering Heights Moor: bleak, gale-battered upland of heather and crags, where brooding passions and haunted windows endure.
+- Jane Eyre's Thornfield: brooding country manor with a locked attic, flickering candles, and a secret kept from newcomers.
+- Frankenstein's Laboratory: stormy tower workshop of lightning rods, surgical tables, and bubbling apparatus, birthing unnatural creations.
+- Dracula's Castle: crumbling Carpathian fortress of crypts, wolves, and endless night, ruled by an ancient aristocratic vampire.
+- Jekyll's Laboratory: cluttered Victorian chemist's study of bubbling potions and locked cabinets, where a respectable man transforms into something worse.
+### Shakespearean & Dramatic Settings
+- Forest of Arden: wild pastoral woodland of exiles, disguises, and lovesick wanderers, where court rules fall away.
+- Elsinore Castle: cold seaside Danish fortress of ramparts, whispering corridors, and a ghost haunting its battlements.
+- Macbeth's Heath: fog-wrapped moor where witches brew prophecies, thunder rolls, and ambition curdles into doom.
+- Prospero's Island: enchanted isle of spirits, storms, and a scheming exiled magician, with a monstrous native servant.
+- Verona Balcony: moonlit garden terrace beneath an ornate window, a classic place for secret meetings, feuds, and tragic romance.
+- Midsummer Dream Wood: moonlit forest of mischievous fairies, love potions, and mistaken identities, where humans are transformed and bewildered.
+- Venetian Canal Court: waterside plaza of gondolas, merchants, and masked schemers, where contracts and vengeance both carry heavy weight.
+- Roman Forum Senate: marble-columned civic square where orators rally crowds and senators plot assassinations under tense togas.
+- Globe Theatre: round open-air timber playhouse with groundlings, painted stage, and trapdoors, perfect for dramatic reveals.
+- Greek Tragedy Amphitheater: stone hillside theater with perfect acoustics, a masked chorus, and fate-driven plots ending in sorrow.
+### Arthurian & Chivalric Settings
+- Round Table Hall: grand circular banquet chamber of equal seats and banners, where knights swear oaths and receive quests.
+- Excalibur Lake: misty enchanted water where a mysterious arm offers a legendary blade, guarded by watery spirits.
+- Holy Grail Chapel: radiant sanctuary housing a sacred cup, accessible only to the pure of heart and tested resolve.
+- Perilous Chapel: eerie forest chapel with a deadly vigil, tempting visions, and a dark guardian testing brave knights.
+- Green Knight's Chapel: mossy, barrow-like shrine in a wintry glen, where a supernatural challenger awaits his promised return blow.
+- Questing Beast Forest: dense hunting wood echoing with strange baying, where a serpent-headed creature outpaces all pursuers.
+- Joyous Garde: fortified seaside castle of romantic exile, with strong walls, banners, and loyal knights holding off siege.
+- Tintagel: dramatic clifftop ruin above crashing surf, split by a narrow bridge and haunted by legends of kings.
+- Isle of Avalon: misty apple-orchard island of healing and sleeping kings, reached only by barge across a veiled lake.
+- Castle Perilous: sinister fortress at the end of a trial-filled road, held by a vengeful lord and deadly gauntlets.
+### Poetic & Mythic Landscapes
+- Kubla Khan's Pleasure Dome: gleaming domed palace beside a sacred river and caverns of ice, ringed by enchanted gardens.
+- Ozymandias Desert: endless sand dunes dotted with a toppled colossal statue, a stark reminder that empires and pride fade.
+- Waste Land: barren, fragmented ruin of dust, dead trees, and echoing voices, symbolizing spiritual drought and collapse.
+- Inferno Circles: descending rings of torment, each tailored to a different sin, with demonic wardens and shades.
+- Purgatory Mount: terraced mountain of penance, where souls climb through cleansing fires, ledges, and growing light.
+- Paradise Spheres: radiant concentric heavens of light, music, and blessed spirits, rising toward an unreachable divine center.
+- Lotus-Eaters' Isle: drowsy coastal island of sweet blossoms whose fruit erases memory and tempts travelers to abandon their journey.
+- Arcadia: idyllic pastoral highland of shepherds, groves, and pipes, shadowed by quiet reminders that even paradise holds death.
+- Parnassus: sacred peak sacred to the muses, with laurel groves, springs of inspiration, and prophetic caves.
+- Helicon Spring: crystal fountain on a muse-haunted hillside whose waters grant poetic inspiration and creative gifts.
+- Pastoral Idyll Valley: gentle green dale of grazing flocks, wildflowers, and brooks, offering rest, healing, and simple folk.
+
+## Epic & Scriptural Landmarks
+- Garden of Eden: lush primeval orchard with a sacred tree, gentle beasts, and a lurking serpent, guarded after the fall.
+- Tower of Babel: colossal unfinished ziggurat of brick and bitumen, where builders speak jumbled tongues and hubris invites collapse.
+- Noah's Ark Deck: enormous timber vessel crowded with paired animals, storm winds, and rising flood water outside.
+- Mount Ararat: snow-capped eastern peak where a great vessel is said to have come to rest after a flood.
+- Mount Sinai: rugged desert mountain wrapped in thunder, smoke, and trembling earth, where law is delivered on stone tablets.
+- Burning Bush Wilderness: arid pastureland where a thorny shrub burns without being consumed, revealing a divine voice.
+- Promised Land: fertile hill country of milk, honey, vineyards, and fortified cities, long sought by weary wandering tribes.
+- Red Sea Crossing: miraculously parted waters forming walls of sea on either side, with pursuing chariots closing in behind.
+- Valley of Dry Bones: bleak plain scattered with skeletons that rattle and reassemble into an army at a prophetic command.
+- Valley of Death's Shadow: gloomy, narrow ravine of looming dark and unseen threats, where only faith or a guide gives courage.
+- Jericho Walls: massive ancient fortifications that tumble under trumpet blasts and marching, after days of circling in silence.
+- Sodom Plain: scorched salt-crusted lowland, remnant of a corrupt city destroyed by fire, where looking back is forbidden.
+- Babylon Hanging Gardens: terraced palace gardens of exotic trees, waterfalls, and cascading vines, rising in tiers above the city.
+- Jerusalem Temple Mount: sacred hilltop platform of gleaming stone courts, altars, and merchants, ringed by walls and fervent pilgrims.
+- Bethlehem Stable: humble cave shelter with hay, animals, and a manger under a bright guiding star.
+- Calvary Hill: stark, rocky execution mound outside city walls, heavy with sorrow, crowds, and an ominous darkened sky.
+- Gethsemane Garden: moonlit olive grove of gnarled trees, silent vigils, tense prayer, and approaching torches of betrayal.
+- Sea of Galilee: freshwater inland lake of fishing boats and sudden storms, ringed by hills and quiet shoreline towns.
+- Jordan River: winding muddy river through desert valley, site of baptisms, pilgrim crossings, and symbolic new beginnings.
+- Mount of Olives: terraced ridge of ancient olive trees overlooking a holy city, gravestones, and prophetic panoramic views.
+- Mount Olympus: cloud-wrapped holy peak where the Greek gods feast, quarrel, and scheme in marble halls.
+- Troy Walls: towering besieged ramparts of a legendary city, ringed by Greek camps, war chariots, and a suspicious wooden horse.
+- Ithaca Shore: rocky island coast of olive groves and goat paths, waiting for a long-lost king to return home.
+- Circe's Island: forested enchanted isle of a sorceress's palace, where potions turn visitors into swine and wild beasts.
+- Scylla and Charybdis Strait: narrow sea channel pinched between a six-headed cliff monster and a ship-swallowing whirlpool.
+- Underworld River Styx: dark, brooding river of the dead crossed by a ferryman, with a many-headed hound guarding the far shore.
+- Asgard Bridge: shimmering rainbow causeway to the halls of the Norse gods, watched by a vigilant, far-sighted gatekeeper.
+- Kurukshetra: vast plain of an epic dynastic war, filled with chariots, banners, conch calls, and moral reckonings between kin.
+- Lanka Fortress: golden island citadel of a ten-headed demon king, ringed by sea, ramparts, and monstrous warriors.
+- Ayodhya: ancient riverside capital of a virtuous king, with grand palaces, wide avenues, and rituals of righteous rule.
+- Kailash: sacred snow-covered Himalayan peak of a meditating ascetic god, ringed by pilgrims, glaciers, and thin air.
+- Dragon Palace Under the Sea: glittering coral-and-pearl underwater court of a dragon king, with shrimp soldiers, treasure vaults, and tidal magic.
+- Flaming Mountains: scorching red cliffs that burn eternally, blocking a pilgrim road and demanding a magic fan to cool.
+- Journey West Road: long pilgrim trail through deserts, mountains, and demon-haunted wilds, where shapeshifters test a sacred scripture quest.
+- Ramayana Forest Exile: dense Dandaka woodland of hermitages, rakshasas, and golden deer, where a royal couple endures fourteen years of banishment.
+
+## Symbolic & Allegorical Landscapes
+- Valley of Despair: gloomy gorge of fog, drooping trees, and heavy silence, sapping hope and willpower from those who enter.
+- Slough of Despond: sticky, bottomless bog that mires burdened travelers, needing steady help or firm footing to escape.
+- Celestial City: radiant golden gates beyond a dark river, the long-sought goal of pilgrims and ultimate reward.
+- Vanity Fair: loud, garish market town of glittering wares, false friends, and mocking crowds, tempting pilgrims from their path.
+- Hill Difficulty: steep, exhausting climb with tempting shady arbors halfway, testing perseverance against sloth and shortcuts.
+- Doubting Castle: grim fortress ruled by a giant who locks wanderers in dungeons of hopelessness, escapable by a forgotten key.
+- Land of Plenty: abundant countryside of overflowing granaries, orchards, and fat livestock, hiding greed, waste, and complacency.
+- Land of Lost Things: dusty, jumbled realm of misplaced socks, keys, and forgotten toys, tended by odd collectors.
+- Island of Misfit Toys: wind-swept refuge for unwanted playthings with quirky flaws, longing for a child to love them.
+- Road of Good Intentions: smooth, well-paved path with a bad destination, lined with comforting signs and pleasant lies.
+- Crossroads Deal Site: lonely junction at midnight where a mysterious figure offers talent or fortune in exchange for a soul.
+- Bridge Between Worlds: shimmering span linking realms of the living and spirit, crossed only by those willing to pay its toll.
+- Garden of Temptation: lush orchard of irresistible fruit, perfume, and honeyed voices, luring heroes into distraction and ruin.
+- Wasteland of Memory: gray plain of crumbling monuments and half-erased faces, where lost experiences drift like dust.
+- Sea of Forgetfulness: calm, silver waters that wash away names and pasts, tempting weary sailors into peaceful oblivion.
+- Mountain of Trials: grueling peak with successive ordeals, each testing courage, wisdom, or compassion before the summit's reward.
+- Labyrinth of the Mind: shifting maze of thoughts, doubts, and fears, whose walls rearrange according to the traveler's emotions.
+- Palace of Memory: vast mental mansion of rooms storing images and facts, navigated by a trained mind's walking tour.
+- Mindscape Library: infinite shelves of floating books holding thoughts, secrets, and dreams, curated by shadowy mental librarians.
+- Dreamscape Corridor: endless hallway of shifting doors, each leading to a different sleeper's dream with surreal rules.
+- Landscape of Grief: foggy, rain-soaked terrain of cold gray hills and empty rooms, where heavy emotions shape the weather.
+- Landscape of Joy: sunlit meadows, bright festivals, and laughing streams, where mood lifts spirits and bubbles into harmless magic.
+- Fear Mountain: jagged black peak whose slopes conjure each climber's worst terrors, from looming shadows to impossible drops.
+- Hope Garden: small walled sanctuary blooming with resilient flowers amid ruin, offering healing, sunlight, and renewal.
+- Rage Furnace: roaring forge of red-hot rock and molten rivers, where anger fuels burning hazards and brutal foes.
+- Memory Maze: twisting hedge corridors of recollected scenes, where each wrong turn replays an old event or dead end.
+- Void of Silence: dark, soundless expanse that swallows noise and magic, leaving travelers disoriented and eerily alone.
+- Edge of the World: sheer cliff or waterfall at the map's rim, plunging into cosmic fog, with strange ships and fear of falling.
+- Horizon That Never Arrives: unending plain where the skyline recedes with each step, teaching travelers patience, futility, or the real meaning of journeying.
+
+## Regional Americana
+- Main Street: central small-town avenue of brick storefronts, barbershop poles, banners, and flags, ideal for quest hubs and parades.
+- Small Town Square: grassy courthouse green with a bandstand and gossiping locals, circled by shops and a clock tower.
+- Town Diner: chrome-and-vinyl eatery with checkered floors, bottomless coffee, and jukebox, buzzing with regulars and secrets.
+- Roadside Motel: faded one-story lodge with buzzing sign, numbered doors, and a gravel lot, suited to noir encounters.
+- Neon Motel Lot: rain-slick parking lot lit by flickering pink and blue neon, loaded with sketchy deals and wary travelers.
+- Route 66 Stretch: sun-baked highway of vintage gas stations, kitschy attractions, and desert vistas, ideal for road-trip adventures.
+- Dust Bowl Farm: parched homestead choked by swirling dust storms, failing crops, and sagging fences, where survival is a daily struggle.
+- Cornfield: towering rows of rustling stalks forming a natural maze, perfect for hiding, ambushes, and lurking menace.
+- Grain Elevator Town: windswept prairie hamlet overshadowed by tall concrete silos and railroad tracks, the heart of local trade.
+- Trailer Park: tight cluster of mobile homes with lawn ornaments, strung lights, and nosy neighbors, rich in gritty community drama.
+- Truck Stop: diesel-scented highway pit stop with big rigs, neon diner, shower stalls, and wandering drivers sharing tall tales.
+- Drive-In Restaurant: carhop eatery with parked cars, trays on windows, roller-skating servers, and a retro jukebox buzz.
+- Roller Rink: wooden-floored arena of disco lights, rental skates, and snack counter, with fast loops and teen rivalry.
+- Soda Fountain: old-fashioned counter of marble tops, swivel stools, and fizzy treats, where a soda jerk dispenses gossip.
+- Bowling Alley Lounge: neon-lit lanes of clacking pins, sticky carpet, and a smoky bar, ideal for league rivalries and shady meetings.
+- Suburban Cul-de-Sac: ring of identical lawns and driveways around a dead-end loop, hiding neighborhood secrets behind tidy hedges.
+- Suburban Backyard: fenced lawn with grill, swing set, and sprinklers, suited to cookouts, sneaking out, and kid adventures.
+- Garage: cluttered workshop of tools, oil stains, and half-built projects, doubling as hideout, band practice room, or inventor lab.
+- Treehouse: ramshackle wooden hideaway high in leafy branches, with rope ladder, secret signs, and childhood clubhouse rules.
+- Lemonade Stand Corner: wobbly curbside table with hand-painted sign and cheap cups, a simple first business and local gossip stop.
+- Little League Field: dusty diamond with chain-link backstop, bleachers, and cheering parents, where small-town pride rides on every pitch.
+- High School Gym: echoing hardwood court with banners, bleachers, and squeaky shoes, doubling for pep rallies, dances, and rivalry showdowns.
+- Prom Hall: crepe-streamered ballroom of dim lights, punch bowls, and awkward couples, where drama and disasters bloom.
+- Football Friday Field: floodlit stadium of roaring crowds, marching bands, and rival teams, the weekly heartbeat of small-town life.
+- Church Basement: low-ceilinged fellowship hall of folding tables, coffee urns, and potluck casseroles, hosting meetings, support groups, and hidden nooks.
+- Town Fair Midway: bright carnival strip of games, fried food, rides, and livestock barns, perfect for contests and prize hunts.
+- Bayou Shack: stilted wooden cabin over slow dark water, surrounded by moss-draped cypress, gators, and a swamp-wise hermit.
+- Appalachian Holler: narrow wooded valley of cabins, creeks, and moonshine stills, steeped in mountain music, kinship, and folk superstition.
+- Ozark Hills: forested limestone hills of caves, springs, and hardscrabble homesteads, rich in hidden hollows and backwoods characters.
+- Deep South Plantation: sprawling estate of columned manor, cotton fields, and live oaks, carrying a heavy and painful historical legacy.
+- Mississippi Riverboat: multi-deck paddlewheeler on a muddy river, with gambling salons, brass fittings, and shifting sandbar hazards.
+- Texas Ranch: wide dusty spread of longhorns, windmills, and barbed wire beneath endless sky, home to hard-bitten cowhands and rustlers.
+- Cattle Drive Trail: dusty route of lowing herds, chuck wagons, and river crossings, with stampede risks and bandit ambushes.
+- Rodeo Arena: dirt ring with bucking chutes, clowns, and roaring stands, perfect for wild mount challenges and showdown scenes.
+- Cowboy Saloon: swinging-door tavern of poker tables, piano, and spittoons, hosting card sharps, brawls, and tense gunfighter standoffs.
+- Mining Boomtown: ramshackle frontier camp of tents, assay offices, and rough saloons, thriving on gold fever, claim disputes, and violence.
+- Wagon Trail Camp: circle of canvas-covered wagons around a fire, with weary pioneers, scarce supplies, and wilderness threats.
+- Prairie Homestead: lonely sod house on endless grass, battered by wind, drought, and locusts, anchored by stubborn pioneer grit.
+- New England Fishing Village: weathered harbor town of shingled cottages, lobster traps, and foggy docks, steeped in salty superstition.
+- Cape Cod Dune Cottage: gray-shingled beach house among rolling dunes and beach grass, battered by salt wind and seasonal tourists.
+- Maine Lighthouse Coast: rocky, fog-bound shoreline crowned by a white lighthouse, with crashing waves, lobster boats, and stubborn keepers.
+- Vermont Covered Bridge: red-timbered span over a quiet stream amid brilliant autumn foliage, a classic setting for rustic meetings.
+- Brooklyn Stoop: brownstone front steps where neighbors gossip, kids play, and summer evenings pass, a vibrant neighborhood nexus.
+- New York Subway Platform: tiled underground station of rattling trains, buskers, graffiti, and rats, bustling with anonymous commuters and danger.
+- Times Square: dazzling neon crossroads of billboards, crowds, and street performers, a sensory overload with vendors and hustlers.
+- Fire Escape Rooftop: iron stairs and tar-paper roofs above city streets, offering escape routes, secret chats, and views of skyline lights.
+- Chicago Elevated Tracks: clattering steel train line over brick streets, throwing flickering shadows, with gangsters and shortcuts beneath.
+- Hollywood Backlot: fake streets and façades of a movie studio, where props, stunt crews, and faded stars roam.
+- Hollywood Hills: winding canyon roads of glass mansions, palm trees, and sprawling city views, home to celebrities, scandals, and brush fires.
+- Venice Beach Boardwalk: sunny seaside promenade of skaters, muscle gyms, street artists, and fortune tellers, humming with eccentric energy.
+- Las Vegas Strip: dazzling desert boulevard of casinos, neon, and fountains, where gamblers chase luck and everyone has an angle.
+- Desert Roadside Shrine: lonely highway memorial of crosses, candles, and faded flowers, quietly honoring the dead amid sun-bleached scrub.
+- Alaskan Frontier Town: rugged settlement of log cabins, sled dogs, and bush planes under northern lights, hemmed in by wilderness and cold.
+- Hawaiian Surf Village: laid-back beach hamlet of surfboards, palm shacks, and shave ice, rooted in island culture and tide lore.
+- Pacific Northwest Rainforest Town: damp timber town beneath towering evergreens, wrapped in mist, moss, and drizzle, with coffee shops and logging history.
+- Florida Everglades Airboat Route: shallow sawgrass waterway of alligators, herons, and mangrove islands, crossed by roaring propeller boats.
+- Louisiana Swamp Tour Dock: weathered wooden pier launching flat boats into mossy bayous, with gator lore and Cajun guides.
+- Mardi Gras French Quarter: crowded balconied streets of beads, parades, brass bands, and masks, bursting with revelry, mischief, and hidden courtyards.
+- Appalachian Trail Shelter: rustic three-sided wooden hut on a forested ridge, giving hikers a rain break and shared trail tales.
+
+## Disaster Zones
+- Earthquake Rubble Field: shattered streets of cracked pavement, fallen walls, and shifting debris, with aftershocks, trapped survivors, and unstable footing.
+- Collapsed Building Site: pancaked floors and twisted rebar creating narrow crawlspaces, dust clouds, and fragile chances for rescue or looting.
+- Tsunami Aftermath Coast: shoreline strewn with wrecked boats, mud, and swept-away homes, hazardous with debris, contaminated water, and stranded survivors.
+- Flood Plain Inundation: wide stretch of brown water submerging fields and roads, with floating wreckage, snakes, and rescue boats.
+- Flooded City: streets turned canals with submerged cars, rooftop refugees, and electrical hazards beneath murky waterlines.
+- Hurricane Landfall Zone: coastal strip battered by howling wind, storm surge, and flying debris, with stripped roofs and flooded lowlands.
+- Tornado Path: narrow swath of obliterated homes and tossed vehicles cut across farmland, with lingering danger from twisters.
+- Blizzard Whiteout Plain: featureless snow-swept expanse with zero visibility, killing cold, and drifting snowbanks that bury landmarks and travelers.
+- Wildfire Burn Scar: blackened hillsides of charred trunks and ash, smoldering hot spots, unstable slopes, and wildlife displaced by fire.
+- Firestorm Corridor: roaring wall of flame funneling through streets or forest, with superheated winds, collapsing structures, and desperate escape races.
+- Avalanche Debris Field: tumbled snow blocks and shattered trees at a mountain base, dangerously compacted and burying victims.
+- Landslide Slope: unstable hillside of loose mud and boulders that sweep away roads, with constant risk of fresh slides.
+- Sinkhole Collapse: sudden gaping pit swallowing streets or fields, with crumbling edges, hidden caverns, and dangerous drop-offs.
+- Volcanic Ashfall Plain: gray, ash-blanketed flatland under dim skies, with choking dust, collapsing roofs, and distant glowing eruptions.
+- Pyroclastic Flow Valley: scorched valley swept by superheated gas and ash, leaving petrified ruins and lethal heat remnants.
+- Meteor Impact Crater Zone: vast scorched bowl of shattered rock, glassy melt, and strange minerals, with lingering radiation or alien traces.
+- Industrial Accident Site: smoking factory ruin of ruptured pipes, burning tanks, and toxic fumes, with emergency crews and unstable structures.
+- Chemical Spill Zone: sickly colored pools and fuming ground ringed by hazard tape, harming those without protective gear.
+- Nuclear Meltdown Exclusion Zone: abandoned irradiated town of rusting machinery and overgrown streets, with invisible radiation, mutated wildlife, and eerie silence.
+- Oil Spill Coast: black-slicked shoreline of tar-coated rocks and dying seabirds, fouling boats and sparking fire hazards.
+- Mine Collapse Shaft: caved-in tunnel network of fallen timber, trapped miners, and foul air, requiring careful digging and rescue.
+- Dam Burst Valley: scoured river valley of torn-out trees and mud flats left by a surging flood wall, still rumbling.
+- Plague Quarantine District: sealed city quarter of boarded doors, chalk marks, and masked guards, with disease risk, desperate residents, and smuggling.
+- Siege Ruin: battered fortress or town of broken walls, scorched timber, and shell craters, strewn with weapons and weary defenders.
+- Evacuation Highway: jammed multi-lane road of abandoned cars, panicked crowds, and dwindling fuel, offering scavenging and tense standoffs.
+- Shipwreck Debris Beach: sandy shore strewn with broken hull planks, cargo crates, and survivors, rich with salvage and lurking scavengers.
+- Plane Crash Site: scattered wreckage and burning fuselage across wilderness or field, with survivors, black boxes, and cargo.
+- Train Wreck: derailed cars splayed across tracks, with twisted metal, spilled freight, fire hazards, and stranded passengers.
+
+## Folklore Sites
+- Crossroads at Midnight: lonely rural junction where spirits gather and bargains are struck, rich in omens, strange travelers, and cursed deals.
+- Haunted Well: moss-covered stone shaft whispering with drowned voices, clammy air, and a pale hand sometimes clutching the rim.
+- Wishing Well: old stone well ringed with coins and ribbons, granting wishes at a cost or hiding forgotten bones.
+- Hanging Tree: gnarled, ominous oak with a sagging branch and restless ghosts, marking an execution site with chilling stillness.
+- Hollow Oak: massive ancient tree with a cavernous trunk, doubling as hermit home, faerie door, or hidden treasure cache.
+- World Tree Roots: gigantic tangled roots spanning realms, gnawed by serpents and watered by sacred springs, connecting underworld, earth, and heavens.
+- Standing Stone Circle: ring of weathered megaliths on a windswept hill, humming with ley energy, solstice rituals, and time-warping magic.
+- Faerie Mound: grassy barrow hiding a glittering underground court, where time flows oddly and mortal guests risk enchantment.
+- Faerie Road: faint moonlit path through woods and fields trod by the fair folk, dangerous for mortals blocking their passage.
+- Sidhe Hill: green burial hill concealing an otherworldly palace, guarded by proud immortals who demand courtesy and offerings.
+- Bog Body Peat Pit: dark waterlogged marsh preserving ancient sacrifices, with sinking mud, mist, and corpses that rise with grudges.
+- Will-o'-the-Wisp Fen: spongy marshland lit by dancing ghost lights that lure travelers off safe paths into drowning pits.
+- Black Dog Lane: narrow hedge-lined country road haunted by a huge spectral hound, an omen of death for night travelers.
+- Headless Horseman Hollow: shadowy wooded dell thick with mist, where a phantom rider with no head charges through the dark.
+- Sleepy Hollow Bridge: old wooden crossing over a quiet stream, haunted by a pursuing rider who vanishes upon reaching the other bank.
+- Devil's Bridge: precarious stone arch built by a fiend in exchange for a soul, crossing a roaring gorge with a clever bargain.
+- Devil's Staircase: steep, rugged flight of rock steps up a gorge or hillside, carved by infernal powers and treacherous to climb.
+- Devil's Punchbowl: deep bowl-shaped hollow of rock and mist, where fiends are said to brew mischief or hide from sunlight.
+- Giant's Footprint Hill: huge sunken hollow in a green slope shaped like a boot, hinting at a sleeping titan nearby.
+- Dragon Bones Hill: bare ridge whose ribbed rock outcrops resemble a monstrous skeleton, hiding a hoard and a cranky guardian.
+- Sunken Bell Lake: still, deep mountain lake from which a drowned church bell tolls on stormy nights, tempting divers.
+- Drowned Village: submerged rooftops and steeples beneath calm water, with waterlogged streets, ghostly residents, and lost treasure to recover.
+- Lost Village in the Mist: ghostly settlement appearing only in fog, with empty hearths, vanished villagers, and no clear exit.
+- Ghost Ship Harbor: fog-bound quay where a crewless, spectral vessel drifts in, bringing curses, lost cargo, and a tireless captain.
+- Flying Dutchman Wake: eerie stormy sea trail left by a doomed phantom ship, with green lightning, ghost sailors, and cursed navigation.
+- Mermaid Rock: lonely sea stack where singing sea women lure sailors onto reefs, gleaming with pearls and shipwreck remains.
+- Selkie Skerry: windswept skerry where seals shed their skins to dance under moonlight, guarding stolen pelts and fleeting bargains.
+- Banshee's Keening Stone: lonely boulder on a misty moor where a wailing spirit mourns an impending death in a noble family.
+- Vampire Village: gloomy hamlet of shuttered windows, garlic wreaths, and dread, silently preyed upon by a creature of the night.
+- Werewolf Moor: foggy open upland under a full moon, with howling, torn carcasses, and nervous villagers locking doors early.
+- Witching Tree: twisted old tree with charms, rags, and bones tied to its branches, a meeting place for covens and hedge witches.
+- Gingerbread Trail: sugary forest path of candy crumbs leading children toward a witch's trap, tempting and secretly dangerous.
+- Baba Yaga's Chicken-Leg Hut: rotating hut on giant bird legs, ringed by a fence of bones, guarded by a mercurial crone.
+- Kitsune Shrine Path: lantern-lined forest stair of red gates and stone foxes, leading to a shrine tended by cunning shapeshifters.
+- Tengu Mountain: steep cedar-clad peak of ascetics and winged mountain spirits, famed for swordplay teachers, wind tricks, and proud tricksters.
+- Oni Island: craggy island fortress of horned, club-wielding ogres, filled with stolen treasure and demanding heroic raiders.
+- Kappa Pond: still, reedy water where a turtle-shelled river imp lurks, guarding a dish of water and demanding polite bows.
+- Yokai Night Parade Route: shadowy street where countless spirits march after midnight, dangerous to meet without charms or good luck.
+- Tanuki Teahouse: cozy countryside tea house run by shapeshifting raccoon dogs, serving illusions, leaves turned to coins, and playful trickery.
+- Anansi's Web Tree: huge silk-draped tree in a tropical clearing, home to a clever spider trickster hoarding stories and pranks.
+- Mermaid Lagoon: warm, hidden sea cove of coral pools and singing sirens, beautiful but hazardous for sailors and treasure seekers.
+- Chaneque Forest: dense jungle woodland guarded by tiny sprite-like protectors who steal wanderers' souls or lead them astray.
+- La Llorona Riverbank: misty riverside where a weeping ghost woman wanders at night, searching for lost children and luring the unwary.
+- Nahual Cave: dark hillside cavern where shapeshifting sorcerers shed human form to prowl as animals, marked with sacred offerings.
+- Ghost Road: lonely deserted highway at night haunted by phantom hitchhikers, vanishing headlights, and spectral accidents repeating forever.
+- Wild Hunt Moor: stormy open heath where spectral riders and hounds sweep by, dragging unlucky travelers into their ghostly pursuit.
+
+## Ancient World Landmarks
+- Great Pyramid Plateau: sun-baked limestone plateau dominated by colossal tombs, guarded by desert winds, hidden shafts, and ancient curses.
+- Sphinx Plateau: low desert shelf crowned by a monumental lion-bodied guardian statue, posing riddles and shadowed by tombs and quarries.
+- Valley of the Kings: barren, rocky wadi of hidden royal tombs, painted burial chambers, and trapped treasure vaults, patrolled by robbers.
+- Karnak Hall of Columns: forest of towering carved stone pillars in a vast temple complex, dim, echoing, and rich with hieroglyphs.
+- Library of Alexandria: great scholarly archive of scroll-lined halls and reading galleries, a trove of lost knowledge and fire risk.
+- Lighthouse of Alexandria: towering harbor beacon with a mirror-reflected flame, guiding ships through busy waters above a bustling port city.
+- Colossus of Rhodes: gigantic bronze sun-god statue astride a harbor entrance, offering climbing routes and a dramatic collapse threat.
+- Temple of Artemis: grand marble sanctuary of a huntress goddess, with sacred groves, countless columns, and pilgrim offerings.
+- Mausoleum of Halicarnassus: lavish stepped tomb crowned with a chariot sculpture, ringed by carved friezes and funerary treasure.
+- Statue of Zeus: colossal ivory-and-gold seated god within a temple, awing visitors while guarded by priests and sacred oaths.
+- Parthenon Hill: rocky city summit crowned by a marble temple, with sweeping views, weathered columns, and sacred precincts.
+- Delphi Oracle Cliff: mountain sanctuary above a steep gorge, where a priestess breathes vapors and delivers cryptic prophecies to pilgrims.
+- Roman Bath Complex: steamy marble halls of hot and cold pools, mosaics, and gossiping citizens, with hidden hypocaust tunnels below.
+- Hadrian's Wall: long stone barrier across windswept hills, studded with forts, milecastles, and watchful legionaries facing hostile northern tribes.
+- Pompeii Street: ash-preserved Roman lane of shops, graffiti, and mosaics beneath a looming volcano, frozen at the moment of disaster.
+- Silk Road Caravanserai: walled desert roadhouse with a courtyard of camels, merchants, and bazaar stalls, thick with rumors and exotic goods.
+- Terracotta Army Pit: underground trench of thousands of lifelike clay soldiers, ranked in silent formation to guard an emperor's tomb.
+- Great Wall Watchtower: crenellated mountain-ridge fortification with signal fires and narrow stairs, manned by sentries watching steppe horizons.
+- Forbidden City Courtyard: vast stone plaza ringed by vermilion walls and golden roofs, a hushed imperial space of ritual and rank.
+- Angkor Temple Complex: vine-strangled sandstone towers carved with faces and reliefs in the jungle, hiding shrines, moats, and lost chambers.
+- Petra Rock City: rose-red tombs and temples carved into canyon cliffs, reached through a narrow winding gorge, rich with desert trade.
+- Persepolis Terrace: grand raised platform of tall columns and relief-carved stairways, ruins of an imperial ceremonial capital.
+- Ziggurat of Ur: massive stepped mud-brick temple tower rising from a flat Mesopotamian plain, crowned by a moon-god shrine.
+- Gobekli Tepe Circle: hilltop rings of T-shaped carved pillars decorated with animal reliefs, mysterious Stone Age sanctuary older than writing.
+- Stonehenge Plain: open chalk grassland holding a ring of huge lintel-topped stones, aligned to solstices and thick with ritual energy.
+- Machu Picchu Terraces: cloud-shrouded mountain citadel of stepped agricultural terraces, precision-cut stone, and steep drops above a river gorge.
+- Nazca Lines Plain: arid desert flat etched with vast animal and geometric figures, visible only from high above.
+- Chichen Itza Pyramid: stepped Maya temple with serpent balustrades and a ball court, aligned to the sun and echoing with claps.
+- Tikal Jungle Temple: steep stone pyramid rising above rainforest canopy, wreathed in howler monkeys, mist, and hidden royal tombs.
+- Easter Island Moai Slope: windy grass hillside lined with giant carved stone heads, some half-buried, gazing blankly across an empty ocean.
+- Cliff Palace: multi-story stone village tucked into a sandstone alcove, linked by ladders and kivas, with dizzying canyon views.
+- Mesa Verde Cliff Dwelling: ancient pueblo homes built into canyon walls, reached by narrow handholds, offering defensible high refuge.
+- Aztec Floating Gardens: man-made reed-and-mud islands in a lake, crisscrossed by canoes and bright with flowers and crops.
+- Tenochtitlan Causeway: broad raised road across a lake into a island capital, lined with canals, markets, and temple pyramids.
+- Great Zimbabwe Enclosure: massive mortarless granite walls curving around a hilltop royal compound, with conical towers and secluded passages.
+- Axum Obelisk Field: highland plain of towering carved stone stelae, marking royal tombs and testifying to a once-mighty trading kingdom.
+- Lalibela Rock Church: sunken temple hewn from a single block of volcanic rock, linked by trenches, tunnels, and chanting priests.
+- Timbuktu Mudbrick Library: sand-colored desert manuscript house of earthen walls and spiked towers, protecting centuries of scholarship from raiders and decay.
+- Mohenjo-Daro Streets: planned brick city grid with advanced drains, wells, and granaries, silent and mysterious beneath a hot river plain.
+- Angkor Wat Moat: wide lily-covered water channel ringing a monumental temple, crossed by stone causeways and watched by carved serpents.
+- Borobudur Terraces: tiered volcanic-stone Buddhist monument of carved reliefs and bell-shaped stupas, climbed by pilgrims toward a summit.
+- Bamiyan Cliff Niches: sandstone cliff honeycombed with caves and giant empty alcoves where colossal statues once stood, painted with faded murals.
+
+## Deep Time Additions
+- Cambrian Seabed: shallow primordial ocean floor teeming with strange armored arthropods, spiny worms, and weird early predators among sponge gardens.
+- Ordovician Reef: warm shallow sea of coral and sponge mounds, patrolled by giant squid-like hunters and trilobite swarms.
+- Devonian Swamp Forest: humid lowland of first tall trees, giant ferns, and lobe-finned fish crawling toward land.
+- Permian Desert: scorching red inland wasteland of dunes and dry basins, roamed by sail-backed reptiles and hardy mammal ancestors.
+- Triassic Rift Valley: cracking supercontinent trough of volcanic ridges, salt lakes, and early dinosaurs scrambling amid heat and shifting land.
+- Jurassic Fern Plain: lush, humid grassland of tall ferns and conifers, grazed by long-necked giants and stalked by raptors.
+- Cretaceous Floodplain: wide river delta of flowering plants and mud flats, home to horned herbivores and apex tyrant predators.
+- Ice Age Steppe: cold, wind-scoured grassland of herds, dwarf shrubs, and glaciers on the horizon, crossed by hunters and saber-toothed cats.
+- Mammoth Steppe: frozen tundra grassland of woolly giants, musk oxen, and cave lions, stalked by hide-clad hunter bands.
+- Snowball Earth: planet-wide ice sheet with frozen oceans, howling winds, and only faint geothermal refuges beneath thick glacial crust.
+- Primordial Ocean: warm, murky, mineral-rich sea where first microbes form, lit by volcanic vents and lightning-fed chemical soups.
+- Primordial Volcanic Surface: barren black basalt crust of lava lakes, steaming vents, and toxic skies, with relentless eruptions and meteor strikes.
+- Hadean Magma Ocean: molten planetary surface of glowing lava seas, boiling rock vapor, and constant bombardment, uninhabitable and hellishly bright.
+- Pangaea Interior: vast dry heartland of the single supercontinent, with extreme temperatures, huge deserts, and far-off monsoon belts.
+- Early Human Cave Camp: smoky cavern shelter with fire pit, hand-print wall paintings, bone tools, and fur-clad hunter-gatherers watching the night.
+- Neolithic Village Field: early farming settlement of mud-brick huts, small fields, and grain stores, with pottery, livestock pens, and communal rituals.
+- Bronze Age Hill Fort: earth-ramparted hilltop stronghold with timber palisades and round huts, ruled by warrior chiefs wielding bronze weapons.
+- Iron Age Roundhouse Settlement: thatched circular homes clustered behind a ditch, with smithies, livestock, and tribal bonds, wary of raiders and Roman scouts.
