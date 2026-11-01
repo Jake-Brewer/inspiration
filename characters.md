@@ -1,8 +1,8 @@
 # Characters (index)
 
-Each line: Name | line number in character_full.md. Open character_full.md at that line for the description.
+Each line: Name | line number in characters_full.md. Open characters_full.md at that line for the description.
 
-character_full.md is append-only, so these line numbers never change. To add a character: put its name in this file with no number, then add its description to the end of character_full.md and fill in the line number.
+characters_full.md is append-only, so these line numbers never change. To add a character: put its name in this file with no number, then add its description to the end of characters_full.md and fill in the line number.
 
 ## Mythic and ancient
 
