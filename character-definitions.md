@@ -1,0 +1,48 @@
+# Character definitions
+
+- Evolution chains: creatures that transform into stronger forms as they grow
+- Hothead: short-tempered fighter who explodes at the smallest insult
+- Coward: timid soul who flees at the first sign of danger
+- Daredevil: reckless thrill-seeker who laughs at risk
+- Loner: solitary figure who avoids company and trusts no one
+- Perfectionist: obsessive worker who cannot tolerate any flaw
+- Slacker: lazy drifter who avoids effort and responsibility
+- Gossip: chatterbox who spreads rumors and secrets
+- Snob: arrogant elitist who looks down on everyone else
+- Optimist: cheerful believer who expects the best in every situation
+- Pessimist: gloomy doubter who expects things to go wrong
+- Skeptic: hard-nosed questioner who demands proof for everything
+- Believer: devoted follower who trusts faith over evidence
+- Charmer: smooth talker who wins people over with wit and warmth
+- Brute: heavy-handed bully who solves problems with force
+- Brain: cerebral planner who relies on knowledge and strategy
+- Schemer: sly plotter who manipulates events from behind the scenes
+- Dreamer: head-in-the-clouds idealist lost in imagination
+- Grump: sour complainer who grumbles at everything
+- Glutton: greedy eater who is always hungry for more
+- Hoarder: compulsive collector who piles up junk and treasure
+- Quiet killer: soft-spoken menace who strikes without warning
+- Loud bluffer: boastful loudmouth who talks big and delivers little
+- Child: small curious youngster full of wonder and mischief
+- Runaway: young fugitive who flees home and lives by wits
+- Student: eager learner who studies under teachers and rivals
+- Apprentice: trainee who learns a craft by working under a master
+- Young adult: newly grown figure finding their place in the world
+- Parent: protective guardian who raises and provides for children
+- Grandmother: elderly matriarch full of stories, wisdom, and stern love
+- Wise hermit: solitary elder who lives apart and dispenses insight
+- Infant prodigy: baby with astonishing gifts far beyond their years
+- Immortal: ageless being who never dies and has outlived everyone
+- Ancient child: youthful-looking being who is secretly thousands of years old
+- Conjoined twins: two people joined at the body who share one life
+- Blind seer: sightless prophet who perceives truths others cannot see
+- Deaf warrior: silent fighter who reads lips and senses vibrations in battle
+- One-armed swordsman: disabled blade master who fights fiercely with a single arm
+- One-eyed pirate: patched sea raider with a hard stare and ruthless ways
+- Scarred veteran: battle-worn soldier whose wounds tell of past wars
+- Tattooed sailor: seafarer whose inked skin records voyages and loves
+- Amputee engineer: inventive builder who crafts mechanical replacements for lost limbs
+- Wheelchair pilot: skilled flier who commands machines from a rolling seat
+- Twins: two matching siblings who think alike and finish each other's moves
+- Triplets: three identical siblings who act as one coordinated team
+- Clone sets: groups of genetic copies produced as identical soldiers or workers
