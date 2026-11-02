@@ -782,3 +782,251 @@ Each line: `Name | line number in structure_full.md`. Open structure_full.md at 
 - Cryosleep Bay (Frozen Pod Ward) | 606
 - Zero-Gravity Atrium (Floating Garden Hall) | 607
 - Impossible Room (Non-Euclidean Hall) | 608
+
+## Maritime, Aquatic and Underwater Structures
+
+### Ports and Harbors
+
+- Tidal Harbor Quay | 611
+- Chain-Boom Harbor Mouth | 612
+- Smugglers' Cove Dock | 613
+- Floating Market Wharf | 614
+- Caravel Shipyard Slipway | 615
+- Dry Dock Cathedral | 616
+- Canal Lock Complex | 617
+
+### Lighthouses and Piers
+
+- Beacon Lighthouse Keep | 619
+- Wreckers' False Light | 620
+- Pirate Pier Tavern | 621
+- Amusement Boardwalk Pier | 622
+- Fishing Platform Gantry | 623
+- Ice Fishing Shanty Village | 624
+
+### Stilt and Floating Settlements
+
+- Stilt Fishing Village | 626
+- Floating Reed Island Town | 627
+- Houseboat Flotilla | 628
+- Mangrove Treehouse Hamlet | 629
+- Overwater Resort Bungalows | 630
+- Swamp Boardwalk Hamlet | 631
+
+### Offshore Platforms and Sea Forts
+
+- Oil Rig Colony | 633
+- Rusted Sea Fort | 634
+- Casemate Island Bastion | 635
+- Floating Fortress Barge | 636
+- Weather Station Buoy | 637
+- Deep-Sea Mining Gantry | 638
+
+### Underwater Cities and Habitats
+
+- Sunken Marble Metropolis | 640
+- Pressure Dome Habitat | 641
+- Art Deco Undersea Utopia | 642
+- Seabed Research Station | 643
+- Coral Grown Reef Fortress | 644
+- Hydrothermal Vent Forge | 645
+- Abyssal Trench Outpost | 646
+- Submarine Pen Bunker | 647
+
+### Polar and Icebound Structures
+
+- Antarctic Ice Station | 649
+- Ice Cave Citadel | 650
+- Whaling Station Outpost | 651
+- Icebreaker Ship Base | 652
+
+### Coastal and Swamp Architecture
+
+- Seawall Storm Barrier | 654
+- Windmill Polder Dike | 655
+- Salt Pan Evaporation Works | 656
+- Tide Mill Granary | 657
+- Coastal Cliff Monastery | 658
+- Sea Cave Temple | 659
+
+## Arenas, Stadiums and Sports/Spectacle Venues
+
+### Combat Arenas
+
+- Sand Coliseum | 662
+- Gladiator Pit (Sunken Ring) | 663
+- Beast Menagerie Arena | 664
+- Naval Battle Basin (Naumachia) | 665
+- Duel Ring (Honor Circle) | 666
+- Mud Wrestling Hollow | 667
+- Underground Fight Cellar | 668
+- Chained Champion's Gate | 669
+
+### Racing and Sports Grounds
+
+- Chariot Circus | 671
+- Rally Speedway | 672
+- Hover Racing Circuit | 673
+- Mountain Downhill Run | 674
+- Horse Racing Course | 675
+- Football Stadium | 676
+- Ice Rink Arena | 677
+- Tennis Court Complex | 678
+- Skate Bowl Park | 679
+
+### Theaters and Performance Halls
+
+- Open-Air Amphitheater | 681
+- Opera House | 682
+- Shadow Puppet Theater | 683
+- Mystery Play Wagon | 684
+- Secret Cabaret Hall | 685
+
+### Fairs, Festivals and Parks
+
+- Fairground Midway | 687
+- Carnival Ferris Wheel | 688
+- Haunted Theme Park | 689
+- Player-Built Theme Park | 690
+- Jousting Tournament Grounds | 691
+- Archery Festival Range | 692
+- Harvest Games Green | 693
+
+### Modern, Sci-Fi and Esports Venues
+
+- Esports Battle Arena | 695
+- Holographic Combat Dome | 696
+- Zero-Gravity Sports Sphere | 697
+- Mech Colosseum | 698
+- Cyberpunk Betting Pit | 699
+- Blood Moon Stadium | 700
+
+### Ruined and Mythic Venues
+
+- Overgrown Ruined Arena | 702
+- Sky Temple Proving Ground | 703
+- Titan's Bowl | 704
+
+## Subterranean Settlements and Cave Dwellings
+
+### Underground Cities and Halls
+
+- Dwarven Deep Hall | 707
+- Ant-Farm Cross-Section Colony | 708
+- Derinkuyu-Style Vertical City | 709
+- Hollow-Earth Sun Cavern | 710
+- Drow-Style Spider Citadel | 711
+- Mushroom Forest Township | 712
+- Crystal Cavern Capital | 713
+- Deep Gnome Burrow-Town | 714
+
+### Bunkers and Shelters
+
+- Cold War Fallout Shelter | 716
+- Vault Community Complex | 717
+- Subway Station Refuge | 718
+- Missile Silo Homestead | 719
+- Cheyenne-Style Mountain Command Bunker | 720
+- Wartime Tunnel Complex | 721
+- Doomsday Seed Vault | 722
+- Backyard Storm Cellar | 723
+
+### Cliff and Cave Dwellings
+
+- Cliff Pueblo Village | 725
+- Troglodyte Tufa Town | 726
+- Monastery on a Cliff Face | 727
+- Sea Cave Smuggler Den | 728
+- Prehistoric Painted Cave | 729
+- Hermit Cave Shrine | 730
+- Hanging Basket Village | 731
+
+### Volcanic and Alien Bases
+
+- Lava-Tube Settlement | 733
+- Geothermal Vent Foundry | 734
+- Ice Cave Outpost | 735
+- Asteroid Burrow Hab | 736
+- Planetary Core Station | 737
+- Deep Sea Trench Colony | 738
+
+### Mine Towns and Hubs
+
+- Mine-Town Hub | 740
+- Miners' Underground Marketplace | 741
+- Salt Mine Cathedral | 742
+- Abandoned Coal Mine Community | 743
+- Gold Rush Drift Camp | 744
+- Clockwork Dwarven Mine Cart Station | 745
+
+### Shared Tunnel Architecture
+
+- Sealed Airlock Corridor | 747
+- Rolling-Stone Gate | 748
+- Ventilation Shaft Network | 749
+- Underground River Harbor | 750
+- Emergency Evacuation Tunnel | 751
+
+## Construction, Building Systems and Player Housing Mechanics
+
+### Modular and Snap Building
+
+- Grid Snap Kit Building | 754
+- Freeform Vertex Building | 755
+- Voxel Block Sculpting | 756
+- Blueprint Stamp Placement | 757
+- Kit-Bashed Prefab Rooms | 758
+- Rotating Ring Habitat Segments | 759
+
+### Build Phases and Labor
+
+- Scaffold and Phase Construction | 761
+- Worker Crew Assignment | 762
+- Material Staging Yards | 763
+- Real-Time Construction Timers | 764
+- Ritual Raising Ceremonies | 765
+- Terraforming Foundation Prep | 766
+
+### Upgrade Tiers and Evolution
+
+- Material Tier Upgrades | 768
+- Organic Growth Buildings | 769
+- Branching Tech Upgrade Trees | 770
+- Add-On Attachment Slots | 771
+- Era-Shifting Landmarks | 772
+- Merge to Upgrade Mechanic | 773
+
+### Decay, Maintenance and Integrity
+
+- Weathering and Rot Decay | 775
+- Upkeep Token Payments | 776
+- Structural Support and Load Paths | 777
+- Destruction Physics Debris | 778
+- Seasonal Damage Cycles | 779
+- Cursed Corruption Spread | 780
+
+### Siege, Raids and Defense
+
+- Offline Raid Vulnerability Windows | 782
+- Siege Engine Breach Mechanics | 783
+- Honeycomb Layered Defense Design | 784
+- Tunnel and Undermining Warfare | 785
+- Trap and Ambush Room Placement | 786
+- Garrison Morale Under Siege | 787
+
+### Interiors, Furniture and Customization
+
+- Procedural Interior Generation | 789
+- Room Function Detection | 790
+- Furniture Surface Stacking | 791
+- Wall Hook Gallery Slots | 792
+- Pocket Dimension Homes | 793
+- Roommate and Pet Comfort Needs | 794
+
+### District and City Layout
+
+- Zoning and Adjacency Bonuses | 796
+- Road Network Growth Rules | 797
+- Walled Settlement Expansion | 798
+- Terrain-Bound Plot Allocation | 799
+- Neighborhood Culture Evolution | 800

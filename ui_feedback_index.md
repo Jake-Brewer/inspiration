@@ -783,3 +783,245 @@ Each line: `Name | line number in ui_feedback_full.md`. Open ui_feedback_full.md
 - Tutorial Replay and Pausable Tips | 611
 - Layout Presets and Profile Sharing | 612
 - Draggable and Resizable HUD Editor | 613
+
+## Social, Communication and Multiplayer Interfaces
+
+### Pings and Callouts
+
+- Contextual Smart Ping | 616
+- Enemy Spotted Tag with Distance Readout | 617
+- Ping Wheel Radial Menu | 618
+- Auto-Spoken Callout Lines | 619
+- Item Request Ping | 620
+- Cooperative Map Doodling | 621
+- Pingable World Objects with Cooldown Pips | 622
+- Danger Zone Area Marker | 623
+
+### Emotes and Expression
+
+- Emote Wheel with Loadout Slots | 625
+- Contextual Emote Reactions | 626
+- Wordless Cooperative Gesture Language | 627
+- Chat Wheel Quick Phrases | 628
+- Sticker and Reaction Burst | 629
+
+### Voice, Text and Presence
+
+- Speaking Indicator Halos | 631
+- Proximity Voice Falloff Visualization | 632
+- Push-to-Talk and Open-Mic Toggle Badge | 633
+- Speech-to-Text Live Captions | 634
+- Radio Channel Chat Tabs | 635
+- Rich Presence Status Cards | 636
+- Party Lobby Ready-Check Carousel | 637
+
+### Spectating and Replays
+
+- Free Camera Spectator Mode | 639
+- Killcam from the Killer's Eyes | 640
+- Instant Replay Highlight Reel | 641
+- Rewind and Scrub Replay Editor | 642
+- Spectator Overlay with Win Probability | 643
+- Audience Interaction Overlay | 644
+
+### Scoreboards and Rankings
+
+- Hold-to-Reveal Scoreboard | 646
+- Contribution Medal Strip | 647
+- Rank Ladder Promotion Animation | 648
+- Ghost Leaderboard Racers | 649
+
+### Safety and Moderation
+
+- One-Tap Mute and Report Menu | 651
+- Auto-Filtered Chat with Reveal Toggle | 652
+- Commendation and Kudos System | 653
+
+### Shared Screens and Cross-Platform
+
+- Dynamic Split-Screen Divider | 655
+- Shared Camera Tether Zoom | 656
+- Drop-In Join Prompt | 657
+- Asynchronous Message in a Bottle | 658
+- Cross-Platform Identity Badges | 659
+
+## Photo Mode, Replays and Creator Tools
+
+### Photo Modes
+
+- Free-Float Photo Camera | 662
+- Depth of Field Focus Pull | 663
+- Pose Library for Heroes | 664
+- Time-of-Day and Weather Scrubbing | 665
+- Filter and Film Stock Presets | 666
+- Sticker and Frame Overlays | 667
+- Photo Quest Objectives | 668
+- Hide-the-HUD Clean Capture | 669
+- In-Fiction Camera Item | 670
+- Selfie and Group Portrait Cam | 671
+
+### Replays and Clip Capture
+
+- Killcam Instant Replay | 673
+- Rolling Buffer Clip Save | 674
+- Theater Mode with Free Camera | 675
+- Auto-Highlight Reel Generator | 676
+- Ghost Replay Racing | 677
+- Rewind and Scrub Review | 678
+- Replay Camera Director Tools | 679
+- Spectator Overlay Stats | 680
+
+### Level Editors and Modding
+
+- Tile-Palette Level Maker | 682
+- Must-Clear-First Upload Rule | 683
+- Sculpting with Motion Controllers | 684
+- Gate and Wire Logic Editor | 685
+- Island Toolkit for Shared Worlds | 686
+- Modular Prefab Building Kit | 687
+- Scripting Console and Mod SDK | 688
+- Terrain Brush and Heightmap Tools | 689
+- Song and Beatmap Charter | 690
+- Playtest in Place Toggle | 691
+
+### Sharing and Discovery
+
+- Level Code Sharing | 693
+- Curated Weekly Spotlight | 694
+- Clear Rate and Like Ratio Sorting | 695
+- Workshop Subscribe and Auto-Update | 696
+- Remix and Fork Lineage | 697
+- Blueprint Library Sharing | 698
+- Creator Profiles and Follower Feeds | 699
+- Creator Reward Share | 700
+
+### Share Integration and Streamer Tools
+
+- Dedicated Share Button | 702
+- Streamer Safe Mode | 703
+- Chat-Integrated Viewer Voting | 704
+- Overlay Widgets for Broadcasts | 705
+- Drops and Watch Rewards | 706
+
+## Dialogue, Narrative and Text Presentation UI
+
+### Choice Menus and Wheels
+
+- Radial Dialogue Wheel | 709
+- Skill-Voiced Inner Chorus | 710
+- Stacked Vertical Choice List | 711
+- Verb-Based Conversation Topics | 712
+- Tone Icon Prefixes | 713
+- Skill-Check Percent Tags | 714
+- Locked Option Teasers | 715
+
+### Timing and Pressure
+
+- Countdown Reply Bar | 717
+- Silence as a Choice | 718
+- Interrupt Prompt Window | 719
+- Heartbeat Pulse Choice Frame | 720
+
+### Consequence and Memory Feedback
+
+- Will Remember That Toast | 722
+- Relationship Meter Tick | 723
+- Story Branch Tree Recap | 724
+- Delayed Consequence Ledger | 725
+
+### Text Boxes and Typography
+
+- Visual Novel Text Box | 727
+- Backlog Scrollback Panel | 728
+- Typewriter Speed with Punctuation Pauses | 729
+- Speaker-Colored Text Palettes | 730
+- Emphasis Markup in Dialogue | 731
+- Subtitle Speaker Tags with Direction Arrows | 732
+- Localization-Safe Flexible Boxes | 733
+- Dyslexia and Large Text Toggles | 734
+
+### Journals, Logs and Codex
+
+- Handwritten Adventurer Journal | 736
+- Clue Board with Connecting Strings | 737
+- Self-Filling Codex Entries | 738
+- Quest Log with Tracked Pinning | 739
+- Recap Previously-On Screen | 740
+- Rumor Board and Hearsay Log | 741
+
+### Cutscenes, Prompts and Barks
+
+- Hold-to-Skip Ring Prompt | 743
+- Quick-Time Event Overlay | 744
+- Floating Speech Bubbles | 745
+- Contextual Combat Barks | 746
+- Ambient Crowd Chatter Captions | 747
+
+### Lore Through Objects
+
+- Item Description Flavor Text | 749
+- Readable In-World Documents | 750
+- Audio Log Player with Transcript | 751
+- Environmental Graffiti and Signage Narrative | 752
+- Fictional Language Glyph Decipherment | 753
+- Unreliable Narrator Text Edits | 754
+
+## Platform, Shell and Meta-Game UI Conventions
+
+### Mobile and F2P Patterns
+
+- Energy Timer Bar | 757
+- Daily Login Calendar | 758
+- Streak Flame Counter | 759
+- Battle Pass Track Screen | 760
+- Storefront Rotating Shelf | 761
+- Offer Popup With Dismiss Cooldown | 762
+- Gacha Pull Reveal | 763
+- Dark Pattern Flag (Confirmshaming Decline) | 764
+- Spend Cap and Cooling-Off Dashboard | 765
+- Rewarded Ad Opt-In Tile | 766
+- Currency Wallet Header | 767
+
+### Idle and Incremental Displays
+
+- Scientific Notation Switcher | 769
+- Alphabetic Suffix Ladder | 770
+- Per-Second Income Ticker | 771
+- Offline Earnings Welcome Screen | 772
+- Buy Multiplier Toggle | 773
+- Prestige Preview Panel | 774
+
+### Handheld, TV and Display Adaptation
+
+- Docked Handheld Layout Swap | 776
+- Portable Touch Targets Mode | 777
+- TV Safe Zone Calibrator | 778
+- Ten-Foot Couch Menu | 779
+- Handheld Battery and Performance Overlay | 780
+- Controller Glyph Auto-Swap | 781
+
+### Online, Save and Network Indicators
+
+- Cloud Save Spinner Icon | 783
+- Save Conflict Comparison Card | 784
+- Ping Meter Bars | 785
+- Netcode Diagnostic Graph | 786
+- Lag Compensation Ghost Marker | 787
+- Disconnect Reconnect Banner | 788
+- Patch Notes News Panel | 789
+- Maintenance Countdown Notice | 790
+
+### Performance and Options
+
+- Graphics Preset With Live Preview | 792
+- Built-In Benchmark Flythrough | 793
+- Frame Rate Cap and Variable Refresh Toggle | 794
+- Resolution Scaling Slider With Pixel Counter | 795
+
+### Retro and Arcade Conventions
+
+- Attract Mode Loop | 797
+- Insert Coin Prompt | 798
+- Initials High-Score Entry | 799
+- CRT Filter Options | 800
+- Continue Countdown Screen | 801

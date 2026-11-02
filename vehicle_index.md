@@ -751,3 +751,250 @@ Each line: `Name | line number in vehicle_full.md`. Open vehicle_full.md at that
 - Travel by Landmark Compass Cues | 595
 - Hidden Shortcut Unlocking | 596
 - Journey Montage Skip Option | 597
+
+## Submarines, Diving and Underwater Vehicles
+
+### Pressure, Oxygen and Ballast
+
+- Crush Depth Gauge | 600
+- Ballast Tank Juggling | 601
+- Oxygen Budget Dive | 602
+- Decompression Stops | 603
+- Nitrogen Narcosis Hallucinations | 604
+- Atmospheric Diving Suit (Hardsuit) | 605
+- Cabin Air Scrubbers | 606
+- Emergency Blow and Ascent | 607
+- Flooding and Damage Control | 608
+- Lock-Out Chamber Diving | 609
+
+### Sonar, Stealth and Detection
+
+- Active Sonar Ping | 611
+- Passive Hydrophone Listening | 612
+- Silent Running Mode | 613
+- Thermal Layer Hiding | 614
+- Decoy Noisemaker Launch | 615
+- Bioluminescent Camouflage | 616
+- Manual Target Solution Plotting | 617
+- Whale Song Cover | 618
+
+### Combat
+
+- Wire-Guided Torpedo Steering | 620
+- Depth Charge Barrage | 621
+- Torpedo Tube Reload Drill | 622
+- Acoustic Homing Torpedo Duel | 623
+- Mine Field Threading | 624
+- Mini-Sub Duel (Arena) | 625
+- Giant Sea Creature Boss | 626
+- Boarding Party Lock-On | 627
+
+### Exploration and Salvage
+
+- Sunken Wreck Penetration | 629
+- Salvage Crane and Winch | 630
+- ROV Tether Exploration | 631
+- Photographic Survey Contracts | 632
+- Hydrothermal Vent Oasis | 633
+- Drowned Ancient City | 634
+- Treasure Chart and Dead Reckoning | 635
+- Under-Ice Expedition | 636
+
+### Vehicles, Eras and Upgrades
+
+- Bathysphere Descent | 638
+- Cold War Boomer Patrol | 639
+- Steampunk Nautilus | 640
+- Modular Seabase Builder | 641
+- Crawler Seabed Rover | 642
+- Sub Upgrade Tree (Depth, Speed, Stealth) | 643
+
+### Horror and Atmosphere
+
+- Abyssal Horror Encounter | 645
+- Lamp Battery Dread | 646
+- Cabin Fever and Crew Madness | 647
+- Sirens in the Static | 648
+
+## Amphibious, All-Terrain and Hybrid Vehicles
+
+### Amphibious Land-Water Vehicles
+
+- Amphibious Jeep (Duck Boat) | 651
+- Amphibious Tank (Swimming Armor) | 652
+- Landing Craft Tracked Carrier | 653
+- Swamp Airboat | 654
+- Hovercraft Skiff | 655
+- Heavy Hovertransport | 656
+- Amphibious Rover (Alien Ocean Crawler) | 657
+- Mud Boat (Seasonal Delta Ferry) | 658
+- Frog-Leg Pontoon Walker | 659
+
+### Seaplanes and Air-Water Hybrids
+
+- Seaplane (Floatplane Bush Taxi) | 661
+- Flying Boat Airliner | 662
+- Wing-in-Ground Skimmer | 663
+- Diving Jet-Sub | 664
+- Amphibious Gyrocopter | 665
+
+### Transformable Hybrid Vehicles
+
+- Car-to-Jet Transformer | 667
+- Car-to-Mech Walker | 668
+- Gliding Rally Car | 669
+- Tank-to-Helicopter Convertible | 670
+- Roadable Aircraft | 671
+- Spider Mech Rover | 672
+- Modular Chassis Vehicle | 673
+- Mode-Switching Mount (Beast Cycle) | 674
+
+### Snow, Ice and Sled Travel
+
+- Snowmobile | 676
+- Dog Sled Team | 677
+- Ice Yacht | 678
+- Tobogganing Luge Run | 679
+- Snowcat Groomer | 680
+- Frozen Sea Icebreaker Tractor | 681
+
+### Tracked Crawlers and Off-Road Traction
+
+- Mining Crawler | 683
+- Moon Rover (Low-Gravity Buggy) | 684
+- Winch-Equipped Off-Roader | 685
+- Differential Lock Rig | 686
+- Variable Tire Pressure Truck | 687
+- Half-Track Hauler | 688
+
+### Terrain Hazards and Crossing Mechanics
+
+- Fording Depth Gauge (River Crossing) | 690
+- Quicksand and Bog Traps | 691
+- Sand Dune Surfing (Desert Sandrail) | 692
+- Thin Ice Crossing | 693
+- Tidal Causeway Crossing | 694
+- Wet Terrain Surface Memory | 695
+
+## Vehicle Simulation Physics, Feel and Accessibility
+
+### Physics Models
+
+- Arcade Handling Model | 698
+- Full Simulation Handling | 699
+- Simcade Hybrid Model | 700
+- Brush Tire Model | 701
+- Suspension Travel and Roll | 702
+- Center of Mass Tuning | 703
+- Tire Temperature and Wear | 704
+- Surface Grip Variety | 705
+- Aerodynamic Downforce and Drafting | 706
+- Fake Physics Cheats | 707
+- Flight Model Realism Levels | 708
+- Ship Buoyancy and Wave Response | 709
+- Orbital and Newtonian Flight | 710
+- Mech Locomotion Weight | 711
+
+### Catch-Up, Difficulty and Assists
+
+- Rubber-Banding AI | 713
+- Blue-Shell Style Catch-Up Items | 714
+- Dynamic Difficulty Adjustment | 715
+- Traction and Stability Control Assists | 716
+- Braking Line Guide | 717
+- Rewind and Flashback | 718
+- Handicap Ballasting | 719
+- Difficulty Tied to Fuel and Damage | 720
+
+### Control Schemes
+
+- Twin-Stick Vehicle Control | 722
+- Tilt Steering | 723
+- Motion-Controlled Wheel | 724
+- Force Feedback Wheel Support | 725
+- HOTAS Flight Setup | 726
+- VR Cockpit Immersion | 727
+- Virtual Gear Shifter and Clutch | 728
+- Radial and Context Control Menus | 729
+- Voice and Co-Driver Commands | 730
+
+### Camera and Views
+
+- Chase Camera Behavior | 732
+- Cockpit and Hood Views | 733
+- Look-Ahead and Free Look Camera | 734
+- Cinematic Replay and Photo Mode | 735
+
+### Accessibility
+
+- Auto-Drive and Assisted Steering | 737
+- One-Handed Control Layouts | 738
+- Motion Sickness Comfort Options | 739
+- Colorblind-Safe Racing Indicators | 740
+- Audio-Visual Cue Substitution | 741
+- Adjustable Game Speed and Input Timing | 742
+
+## Vehicle Ownership, Economy and Social Play
+
+### Acquiring and Owning
+
+- Showroom Dealership (Test Drive Lot) | 745
+- Financing and Leasing (Monthly Installments) | 746
+- Insurance Tiers (Premium Policies) | 747
+- Grand Theft Dynamics (Hotwire Minigame) | 748
+- Tracking Beacons and Immobilizers (Anti-Theft Gear) | 749
+- Garage Slot Limits (Parking and Storage) | 750
+- Impound Yard (Tow and Recovery Fees) | 751
+- Valet and Summon Services (Call Your Ride) | 752
+- Wear, Fuel and Maintenance Budget (Running Costs) | 753
+- Depreciation and Resale Value (Used Market) | 754
+
+### Markets and Underworld
+
+- Black Market Chop Shop (Fence Garage) | 756
+- Auction House for Vehicles (Bidding Wars) | 757
+- Smuggler Fence Network (Contraband Contacts) | 758
+- Salvage Yard and Wreck Trading (Scrapper Economy) | 759
+- Component Marketplace (Parts Swap Meet) | 760
+- Vehicle Ownership Papers (Titles and Registration) | 761
+- Livery and Skin Economy (Custom Paint Trade) | 762
+
+### Professions on Wheels, Hulls and Wings
+
+- Long-Haul Trucker (Freight Contracts) | 764
+- Taxi and Rideshare Driver (Fare Pickups) | 765
+- Courier and Bike Messenger (Time-Critical Parcels) | 766
+- Bulk Hauler (Cargo Tycoon) | 767
+- Pirate and Privateer (Raiding Careers) | 768
+- Bush Pilot (Remote Airstrip Runs) | 769
+- Space Miner and Tug Operator (Belt Contractor) | 770
+- Ambulance and Emergency Responder (Rescue Dispatch) | 771
+- Ferryman and Caravan Master (Passenger Transport) | 772
+
+### Shared Vehicles and Group Play
+
+- Multi-Seat Crew Vehicles (Co-op Stations) | 774
+- Convoys and Escort Missions (Formation Travel) | 775
+- Guild-Owned Flagship (Clan Warship) | 776
+- Rental and Shared Fleets (Pay-per-Use Vehicles) | 777
+- Passenger and Tow Rules (Hitching Friends) | 778
+- Mount Breeding and Stable Trading (Livestock Lines) | 779
+- Mount Sharing and Borrowing (Loaner Permissions) | 780
+
+### Competition and Spectacle
+
+- Racing League Ladder (Seasonal Championships) | 782
+- Pink Slip Street Races (Wagered Duels) | 783
+- Demolition Derby Arena (Last Car Standing) | 784
+- Esports Broadcast Mode (Spectator Cameras) | 785
+- Time Trial Ghosts and Leaderboards (Asynchronous Rivals) | 786
+- Sponsorship and Team Contracts (Racing Patrons) | 787
+
+### Networks, Ports and Infrastructure
+
+- Player-Built Rail Network (Track Barons) | 789
+- Harbors and Trading Posts (Player Ports) | 790
+- Airship Docking Towers (Skyport Hubs) | 791
+- Roads, Waystations and Toll Gates (Infrastructure Rights) | 792
+- Fast-Travel Network Subscriptions (Teleport Gates) | 793
+- Dispatch Board and Freight Exchange (Contract Market) | 794

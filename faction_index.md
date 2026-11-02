@@ -762,3 +762,245 @@ Each line: `Name | line number in faction_full.md`. Open faction_full.md at that
 - Rising Power and Balance-of-Power AI | 606
 - Crisis Events That Test Factions | 607
 - Narrative Director for Faction Drama | 608
+
+## Modern Governments, Intelligence Agencies and Political Parties
+
+### Governments and Regimes
+
+- Parliamentary Coalition Government | 611
+- One-Party State Apparatus | 612
+- Military Junta | 613
+- Presidential Republic with Term Limits | 614
+- Constitutional Monarchy Remnant | 615
+- Federal State with Rival Provinces | 616
+- Technocratic Caretaker Cabinet | 617
+- Failed State Warlord Patchwork | 618
+
+### Intelligence and Security Services
+
+- Foreign Intelligence Directorate | 620
+- Domestic Security Service | 621
+- Secret Police Network | 622
+- Signals Intelligence Listening Post | 623
+- Covert Action Wing | 624
+- Counterintelligence Mole Hunters | 625
+- Private Intelligence Contractor | 626
+- Rogue Black-Budget Program | 627
+- Border Guard and Customs Authority | 628
+
+### Parties, Blocs and Influence
+
+- Mass Membership Party Machine | 630
+- Insurgent Populist Movement | 631
+- Single-Issue Green Party | 632
+- Ethnic and Regional Nationalist Party | 633
+- Revolutionary Vanguard Cell | 634
+- Trade Union Federation | 635
+- Corporate Lobbying Bloc | 636
+- Religious Political Authority | 637
+- Think Tank and Policy Institute | 638
+- Non-Governmental Relief Organization | 639
+
+### Media, Propaganda and Public Opinion
+
+- State Broadcasting Monopoly | 641
+- Media Empire Tycoon | 642
+- Samizdat Underground Press | 643
+- Disinformation Troll Farm | 644
+- Polling and Focus Group Consultancy | 645
+
+### Elections, Crises and Cold War Dynamics
+
+- Election Campaign Cycle | 647
+- Electoral Fraud Operation | 648
+- Coup d'Etat Plot | 649
+- Mass Protest and Color Revolution | 650
+- Cold War Alliance Bloc | 651
+- Non-Aligned Neutral Mediator | 652
+- Bureaucratic Ministry Labyrinth | 653
+- Approval Rating and Political Capital | 654
+
+## Scholarly, Professional and Civic Institutions
+
+### Universities, Academies and Libraries
+
+- Wizard College (Arcane University) | 657
+- Wandering Peripatetic School | 658
+- Military Staff Academy | 659
+- Monastic Scriptorium | 660
+- Great Library of Echoes | 661
+- Archivist Society of the Lost Record | 662
+- Cartographers' Survey Guild | 663
+- Alchemical Academy of Transmutation | 664
+
+### Healers, Scribes and Bureaucrats
+
+- Order of the Pale Physicians | 666
+- Barber-Surgeons' Fellowship | 667
+- Midwives' Circle | 668
+- Imperial Bureaucratic Order | 669
+- Guild of Scribes and Notaries | 670
+- Ministry of Census and Taxation | 671
+- Sealkeepers of the Chancery (Heralds and Registrars) | 672
+
+### Law, Courts and Civic Order
+
+- Circuit Court of Traveling Judges | 674
+- Guild of Advocates (Barristers' Inn) | 675
+- Order of the Blind Magistrates | 676
+- Ombudsman Collective (Commoners' Advocates) | 677
+- Town Watch Constabulary Academy | 678
+- Grand Assize of Arbiters | 679
+
+### Artists, Bards and Journalists
+
+- College of Bards | 681
+- Troubadour Lodge (Wandering Minstrels) | 682
+- Mask-Makers and Players' Guild | 683
+- Painters' Atelier of the Silver Court | 684
+- Pamphleteers' Press | 685
+- Dispatch Journalists' Network | 686
+- Radio Free Broadcast Collective | 687
+
+### Engineers, Artificers and Researchers
+
+- Artificers' Concord | 689
+- Bridge-Wardens and Roadbuilders | 690
+- Sapper Corps of the Deep Works | 691
+- Observatory of the Seventh Star | 692
+- Expeditionary Society of Natural Philosophers | 693
+- Polar Survey Expedition | 694
+
+### Public Services and Utility Guilds
+
+- Volunteer Fire Brigade | 696
+- Royal Mail Riders (Postal Courier Service) | 697
+- Carrier Pigeon Loft and Signal Towers | 698
+- Waterworks and Sewer Wardens | 699
+- Lamplighters' Guild | 700
+- Gravediggers and Memorial Keepers | 701
+
+## Colonial, Imperial and Age-of-Sail Powers
+
+### Chartered Companies and Trade Powers
+
+- Chartered Spice Company | 704
+- Fur Trade Brigade Company | 705
+- Merchant Banking House | 706
+- Hanseatic-Style League | 707
+- Joint-Stock Expedition Syndicate | 708
+- Smuggling Cartel of the Free Ports | 709
+- Opium and Tea Trading House | 710
+
+### Colonial Empires and Settler States
+
+- Absolutist Sun Court | 712
+- Colonial Viceroyalty | 713
+- Puritan Settler Commonwealth | 714
+- Planter Aristocracy | 715
+- Republic of Merchant Regents | 716
+- Revolutionary Colonial Assembly | 717
+- Gold Rush Boomtown Council | 718
+- Imperial Cartographic Society | 719
+
+### Naval Powers and Privateers
+
+- Royal Navy Admiralty | 721
+- Letter-of-Marque Privateers | 722
+- Pirate Brotherhood Republic | 723
+- Corsair Emirate Fleet | 724
+- Convoy Escort Guild | 725
+- Whaling Fleet Guild | 726
+- Naval Press Gang Syndicate | 727
+
+### Indigenous Nations and Resistance
+
+- Woodland Confederacy | 729
+- Plains Horse Nation | 730
+- Mountain Empire Heartland | 731
+- Island Navigator Voyagers | 732
+- Maroon Free Settlements | 733
+- Ghost Dance Revival Movement | 734
+- Treaty Chiefs' Delegation | 735
+
+### Abolition, Reform and Intrigue
+
+- Abolitionist Society | 737
+- Slave Trading Consortium | 738
+- Assassin and Templar Style Secret Orders | 739
+- Jacobite Exile Court | 740
+- Coffeehouse Enlightenment Salon | 741
+
+### Frontier, Outlaw and Railroad Powers
+
+- Wild West Outlaw Gang | 743
+- Territorial Lawmen and Marshals | 744
+- Railway Baron Combine | 745
+- Pinkerton-Style Private Detective Agency | 746
+- Cattle Baron Ranchers' Association | 747
+- Homesteader Granger League | 748
+
+### Steampunk and Victorian Empires
+
+- Steam-Age Imperial Ministry | 750
+- Clockwork Aeronaut League | 751
+- Great Exhibition Inventors' Guild | 752
+- Colonial Explorers' Club | 753
+
+## Player-Founded Factions, Guild Management and Social Structure Systems
+
+### Player Guilds and Corporations
+
+- Guild Rank Ladder (MMO Guild) | 756
+- Shared Guild Bank with Tabs and Audit Log | 757
+- Guild Leveling Through Member Activity | 758
+- Player Corporation with Roles and Tax (Space Sandbox) | 759
+- Alliance of Corporations (Coalition Layer) | 760
+- Corporate Espionage and Infiltration | 761
+- Guild Hall Housing and Decoration | 762
+- Clan Wars and Territory Siege Schedules | 763
+- Recruitment Application Board | 764
+- Guild Charter Signing (Founding Ritual) | 765
+- Member Contribution Score and Kick Prompts | 766
+
+### Crews, Parties and Companion Management
+
+- Crew Morale Meter (Pirate Ship Sim) | 768
+- Party Loot Roll Rules | 769
+- Companion Approval and Loyalty Quests | 770
+- Mercenary Company Contract Management | 771
+- Veteran Squad Permadeath Bonds | 772
+- Caravan Master Roster | 773
+- Heist Crew Specialist Slots | 774
+- Squad Command Wheel and Orders | 775
+
+### Dynasties, Houses and Succession
+
+- Dynastic Heir Selection (Succession Laws) | 777
+- Playing the Heir After Death | 778
+- Bloodline Traits and Genetic Inheritance | 779
+- Marriage Alliance Brokering | 780
+- Cadet Branches and Disinherited Lines | 781
+- Household Roles (Steward, Marshal, Spymaster) | 782
+- Family Honor and Shame Meter | 783
+- Legacy Score Across Generations | 784
+
+### Politics, Factionalism and Schisms
+
+- Vassal Factions with Demands | 786
+- Schism and Splinter Guild Mechanic | 787
+- Coup Planning and Plot Support | 788
+- Council Voting with Weighted Factions | 789
+- Ideological Drift Within a Movement | 790
+- Cult Doctrine Evolution | 791
+- Elections and Leadership Challenges | 792
+
+### Settlements, Governance and Collective Life
+
+- Settlement as Faction (Town Charter) | 794
+- Population Roles and Job Slots | 795
+- Governance Model Selection | 796
+- Tribal Council and Elder Wisdom | 797
+- Commune Shared Labor and Rations | 798
+- Orders and Monastic Vows | 799
+- Flag, Banner and Heraldry Designer | 800

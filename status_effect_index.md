@@ -791,3 +791,246 @@ Each line: `Name | line number in status_effect_full.md`. Open status_effect_ful
 - Boss Phase Immunity Gating | 628
 - Enrage Timer Status | 629
 - Phase Transition Cleanse | 630
+
+## Downed, Death and Revival States
+
+### Bleed-Out and Downed Modes
+
+- Bleed-Out Crawl | 633
+- Fight For Your Life Pistol | 634
+- Incapacitated Pinned State | 635
+- Knocked Shield Squad Wipe | 636
+- Self-Revive Kit | 637
+- Bleed Rate Escalation | 638
+- Health Bar Divide Threshold | 639
+- Dying Words Last Radio Call | 640
+
+### Last Stand and Second Wind
+
+- Last Stand Perk | 642
+- Second Wind Recovery | 643
+- Adrenaline Surge Threshold | 644
+- Cheat Death Charm | 645
+- Defiant Last Breath | 646
+- Phoenix Down Auto-Revive | 647
+
+### Death Saves and Tabletop Thresholds
+
+- Death Saving Throws | 649
+- Stabilization by Medicine Check | 650
+- Massive Damage Instant Death | 651
+- Wounds and Scars Table | 652
+- Fate Point Burn | 653
+
+### Ghosts, Spirits and Afterlife
+
+- Ghost Spectator Haunting | 655
+- Spirit Form Corpse Run | 656
+- Shade Echo of Loot | 657
+- Underworld Hub Between Lives | 658
+- Possession Death Ability | 659
+
+### Respawn Penalties and Debuffs
+
+- Hollowing Humanity Loss | 661
+- Resurrection Sickness | 662
+- Durability Death Tax | 663
+- Experience Debt Penalty | 664
+- Respawn Timer Scaling | 665
+
+### Resurrection and Revive Mechanics
+
+- Channeled Revive Interaction | 667
+- Revive Beacon Banner | 668
+- Resurrection Spell Cost | 669
+- Soul Binding Bonfire | 670
+
+### Permadeath Variants
+
+- Hardcore Permadeath Mode | 672
+- Legacy Heir Succession | 673
+- Roguelike Meta Unlocks | 674
+- Squad Permadeath Roster | 675
+
+### Execute, Finisher and Carry Interactions
+
+- Execution Finisher Animation | 677
+- Carry and Drag Body | 678
+- Mercy Spare Option | 679
+
+## Stealth, Detection and Alert States
+
+### Concealment States
+
+- Hidden (Shadow Cover) | 682
+- Invisibility (Timed Cloak) | 683
+- Camouflage (Environmental Blend) | 684
+- Crouch Silhouette (Low Profile) | 685
+- Hiding Spot Occupancy (Locker Hide) | 686
+- Shadow Merge (Dark Step) | 687
+- Thermal Masking (Heat Signature Cloak) | 688
+
+### Visibility Meters
+
+- Light Gem (Exposure Meter) | 690
+- Noise Ring (Sound Radius) | 691
+- Surface Noise Modifier (Loud Floors) | 692
+- Smell Trail (Scent Exposure) | 693
+- Reflective Glare (Shiny Gear Penalty) | 694
+- Silhouette Skyline (Ridge Exposure) | 695
+
+### Detection and Suspicion Gauges
+
+- Suspicion Bar (Rising Eye Icon) | 697
+- Peripheral Vision Ramp (Cone Sensitivity) | 698
+- Delayed Recognition (Double Take) | 699
+- Body Discovery Trigger (Corpse Alert) | 700
+- Camera Sweep Detection (Surveillance Cone) | 701
+- Social Stealth Gaze (Restricted Area Stare) | 702
+
+### AI Alert Tiers
+
+- Idle Patrol (Unaware Routine) | 704
+- Caution State (Heard Something) | 705
+- Search Phase (Last Known Position) | 706
+- Combat Alert (Full Engagement) | 707
+- Alert Cooldown (Return to Normal) | 708
+- Alarm Propagation (Shout and Radio) | 709
+
+### Wanted and Heat Systems
+
+- Wanted Stars (Police Escalation) | 711
+- Heat Level (Heist Pressure) | 712
+- Bounty Tracker (Regional Notoriety) | 713
+- Witness Memory (Eyewitness Reports) | 714
+- Faction Reputation Heat (Gang Hostility) | 715
+
+### Disguise, Cover and Marking
+
+- Disguise Cover (Borrowed Uniform) | 717
+- Disguise Strain (Slipping Mask) | 718
+- Crowd Cover (Blending In) | 719
+- Mark Effect (Revealed Target) | 720
+- Reveal Dust (Flour and Paint) | 721
+
+### Counters and Tracking
+
+- True Sight (See Invisible) | 723
+- Detect Aura (Pulse Scan) | 724
+- Scent Tracking (Hunter Hound Mode) | 725
+- Sound Tracking (Echolocation Vision) | 726
+
+## Run Modifiers, Mutators and Difficulty Conditions
+
+### Roguelike Curses and Relics
+
+- Cursed Card Clog | 729
+- Boss Relic Tradeoff | 730
+- Heat Gauge Dial | 731
+- Pact Menu of Punishments | 732
+- Cursed Chest Gamble | 733
+- Blessing Altar Offering | 734
+- Relic Synergy Tax | 735
+- Debt Curse of the Merchant | 736
+
+### Daily, Weekly and Seasonal Modifiers
+
+- Daily Seeded Gauntlet | 738
+- Weekly Rule Rotation | 739
+- Seasonal Ladder League | 740
+- Featured Modifier Roulette | 741
+- Holiday Event Mutator | 742
+- Community Goal Curse | 743
+
+### Skull-Style Mutators and Custom Rules
+
+- Skull Toggle Chest | 745
+- Mutator Mix Lobby | 746
+- Weapon Roulette Mode | 747
+- One Hit Wonder Rule | 748
+- Infinite Ammo Party Toggle | 749
+- Cursed Modifier Cards Draft | 750
+
+### Ascension and Difficulty Ladders
+
+- Ascension Ladder | 752
+- Torment Tier Scaling | 753
+- Prestige Reset Curse | 754
+- Dynamic Difficulty Quiet Hand | 755
+- Nightmare Realm Keystone | 756
+- Endless Depth Floor Scaling | 757
+
+### World Events and Global Debuffs
+
+- Blood Moon Horde Night | 759
+- Eclipse Silence | 760
+- Plague Spreading Season | 761
+- Heatwave and Cold Snap Cycle | 762
+- Corruption Creep | 763
+- Invasion Siren Event | 764
+
+### Handicap, Assist and Challenge Rules
+
+- Ironman Single Save | 766
+- Permadeath Hardcore Flag | 767
+- Assist Mode Sliders | 768
+- Pacifist and No-Hit Vow | 769
+- Nuzlocke-Style Faint Rule | 770
+- Low Level Run Cap | 771
+
+## Machine, Vehicle, Cyber and Structure Conditions
+
+### Heat and Power
+
+- Reactor Overheat (Mech Heat Scale) | 774
+- Forced Shutdown (Thermal Lockout) | 775
+- Brownout (Partial Power Loss) | 776
+- Blackout (Total Power Failure) | 777
+- Battery Drain (Charge Bleed) | 778
+- Capacitor Overload (Surge Burst) | 779
+- Coolant Leak (Venting Line) | 780
+
+### Subsystem Damage and Criticals
+
+- Subsystem Critical Hit (Component Wound) | 782
+- Disabled Limb (Actuator Failure) | 783
+- Ammo Cook-off (Magazine Detonation) | 784
+- Jammed Weapon (Mechanical Fault) | 785
+- Crew Casualty (Station Vacated) | 786
+- Sensor Blindness (Radar Fog) | 787
+- Stalled Engine (Drive Failure) | 788
+- Steering Damage (Pull to One Side) | 789
+
+### Fire, Breach and Flooding
+
+- Compartment Fire (Spreading Blaze) | 791
+- Hull Breach (Decompression) | 792
+- Flooding Compartment (Rising Water) | 793
+- Sealed Bulkhead (Quarantine Door) | 794
+- Oxygen Starvation (Thin Air) | 795
+- Electrical Short (Arcing Conduits) | 796
+- Listing Hull (Tilt and Trim) | 797
+
+### Cyber, Hack and Glitch
+
+- EMP Stun (Electromagnetic Pulse) | 799
+- Ion Disruption (Shield Strip) | 800
+- Quickhack (Remote System Override) | 801
+- Overwrite Takeover (Hijacked Machine) | 802
+- Malware Infection (Creeping Virus) | 803
+- Glitch Corruption (Visual Static) | 804
+- Firewall Trace (Intrusion Alert) | 805
+- Logic Bomb (Dormant Trigger) | 806
+- Signal Jamming (Comms Blackout) | 807
+- Ransom Lock (Encrypted System) | 808
+
+### Structures, Sieges and Automation
+
+- Structural Decay (Crumbling Fabric) | 810
+- Siege Breach (Wall Weakened) | 811
+- Burning Roof (Thatch Fire) | 812
+- Foundation Subsidence (Sinking Ground) | 813
+- Power Grid Cascade (Chain Failure) | 814
+- Turret Disabled (Offline Emplacement) | 815
+- Drone Downed (Grounded Unit) | 816
+- Under Repair (Maintenance State) | 817

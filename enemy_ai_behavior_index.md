@@ -748,3 +748,252 @@ Each line: `Name | line number in enemy_ai_behavior_full.md`. Open enemy_ai_beha
 - Checkpoint Proximity Tuning | 590
 - Ambush Then Respite Sequencing | 591
 - Final Stand Crescendo | 592
+
+## AI Architectures and Decision-Making Models
+
+### Finite State Machines
+
+- Classic Finite State Machine (Idle, Chase, Attack) | 595
+- Hierarchical State Machine (Nested States) | 596
+- Pushdown Automaton (Interruptible Memory) | 597
+- Alert-Level State Ladder (Suspicious to Searching to Alarmed) | 598
+- Scripted Phase Machine (Boss Stages) | 599
+- Reaction-Delay Machine (Human-Like Latency) | 600
+
+### Behavior Trees
+
+- Behavior Tree (Priority Selector) | 602
+- Behavior Tree Decorators (Conditional Gates) | 603
+- Behavior Tree Reuse (Shared Subtrees) | 604
+- Dynamic Tree Swapping (Role Injection) | 605
+- Monster Brain Tree (Predator Director Split) | 606
+
+### Planners (GOAP and HTN)
+
+- Goal-Oriented Action Planning (Emergent Tactics) | 608
+- Plan Invalidation and Replanning (Adapting to Disruption) | 609
+- Action Cost Tuning (Personality by Numbers) | 610
+- Hierarchical Task Network Planner (Authored Strategy) | 611
+- Planner Barks (Narrating Intent) | 612
+- Strategic Layer Planner (Campaign Brain) | 613
+
+### Utility AI
+
+- Utility AI (Scored Considerations) | 615
+- Infinite Axis Utility System (Response Curves) | 616
+- Needs-Driven Simulation (Motive Decay) | 617
+- Smart Object Advertising (World Tells Agents What to Do) | 618
+- Dual Utility Reasoner (Mood Swings) | 619
+- Randomized Weighted Choice (Controlled Unpredictability) | 620
+
+### Shared Knowledge and Space
+
+- Blackboard (Shared Memory) | 622
+- Last Known Position Marker (Searching the Ghost) | 623
+- Influence Map (Territory and Danger Heatmap) | 624
+- Visibility and Cover Maps (Tactical Positions) | 625
+- Memory Decay Model (Forgetting on Purpose) | 626
+- Perception Sensor Stack (Sight, Sound, Smell) | 627
+
+### Coordination and Directors
+
+- Squad Scheduler (Attack Tokens) | 629
+- Role Allocation Manager (Flankers and Suppressors) | 630
+- Aggro Manager (Threat Tables) | 631
+- Pacing Director (Hidden Drama Conductor) | 632
+- Encounter Budget System (Point-Based Spawning) | 633
+- Cheating Information Director (Rubber-Band Aggro) | 634
+
+### Learned and Statistical Opponents
+
+- Reinforcement Learning Agent (Self-Play Champion) | 636
+- Imitation Learning Bot (Human-Like Ghosts) | 637
+- Adaptive Opponent Memory (Learning Your Habits) | 638
+- Monte Carlo Tree Search Opponent (Look-Ahead by Simulation) | 639
+- Difficulty Handicapped Learner (Throttled Superhuman) | 640
+
+## Racing, Sports, and Competitive Opponent AI
+
+### Racing AI
+
+- Rubber-Band Catch-Up | 643
+- Racing Line Spline Follower | 644
+- Neural Driver Profiles (Drivatar Style) | 645
+- Dynamic Pack Drafting | 646
+- Weighted Mistake Injection | 647
+- Aggression Dial Personalities | 648
+- Item-Aware Kart Targeting | 649
+- Blue-Shell Leader Punishment | 650
+- Ghost Rival Time Trial | 651
+- Pit Strategy Planner | 652
+- Traffic Flow Weaver | 653
+
+### Sports Team AI
+
+- Formation and Role Zones | 655
+- Off-Ball Run Creation | 656
+- Playbook Call Selection | 657
+- Team Chemistry Links | 658
+- Momentum and Morale Swing | 659
+- Pressing Trigger Logic | 660
+- Fatigue-Aware Substitutions | 661
+- Referee and Crowd Pressure | 662
+
+### Fighting-Game CPUs
+
+- Input Reading Cheater | 664
+- Pattern-Learning Adaptive Opponent | 665
+- Reaction Frame Budget | 666
+- Mixup Bag Randomizer | 667
+- Boss Super-Armor Escalation | 668
+- Training Dummy Scripts | 669
+- Ghost Data Opponents | 670
+
+### Card, Board, and Puzzle Opponents
+
+- Poker Bluff Frequency Model | 672
+- Chess Engine Strength Slider | 673
+- Monte Carlo Playout Opponent | 674
+- Auto-Battler Lineup Ghosting | 675
+- Hidden Information Cheat Dial | 676
+- Personality-Driven Deckbuilder Foes | 677
+- Puzzle Race Rival | 678
+
+### PvP Stand-Ins and Fairness Tricks
+
+- Disconnect Bot Backfill | 680
+- Matchmaking Fake Opponents | 681
+- Win-Streak Tension Governor | 682
+- Perceived-Fairness Error Theater | 683
+- Skill Rating Calibrated Bots | 684
+- Difficulty Without Stat Cheating | 685
+
+## Civilian, Crowd, and Social NPC Behavior
+
+### Reactive Crowds and Panic
+
+- Ripple Panic | 688
+- Fight-or-Flight Roll | 689
+- Sheltering in Place | 690
+- Gawker Circle | 691
+- Stampede Flow Fields | 692
+- Crowd Camouflage | 693
+- Mourning and Aftermath Behavior | 694
+- Opportunistic Looters | 695
+
+### Witnesses, Crime, and Law
+
+- Witness Testimony Chain | 697
+- Eyewitness Description Fidelity | 698
+- Bounty Escalation Ladder | 699
+- Regional Bounties | 700
+- Surrender Negotiation | 701
+- Shopkeeper Alarm | 702
+- Merchant Price Memory | 703
+- Vigilante Townsfolk | 704
+- Bribery and Hush Money | 705
+
+### Gossip and Reputation
+
+- Rumor Propagation Network | 707
+- Fame and Infamy Axes | 708
+- Faction Whispering | 709
+- Herald and Town Crier | 710
+- Tavern Rumor Mill | 711
+- Name Recognition Tiers | 712
+- Slander Campaigns | 713
+
+### Ambient Life and Conversation
+
+- Procedural Small Talk | 715
+- Ambient Argument Escalation | 716
+- Street Performers and Attractors | 717
+- Barfly Routines | 718
+- Idle Barks on Proximity | 719
+
+### Needs, Relationships, and Sims
+
+- Needs Hierarchy Driver | 721
+- Mood Memory Buffs | 722
+- Mental Break Archetypes | 723
+- Relationship Web Drift | 724
+- Personality Trait Clashes | 725
+- Grudges and Vendettas | 726
+- Family Ties and Inheritance | 727
+
+### Settlement Autonomy
+
+- Autonomous Job Seeking | 729
+- Dissent and Unrest Meter | 730
+- Wandering Recruits and Refugees | 731
+- Companion Settlers' Opinions of the Leader | 732
+
+## Turrets, Vehicles, Hazards, and Non-Humanoid Enemy AI
+
+### Turrets and Security Systems
+
+- Sweeping Laser Sentry (Rotating Detection Cone) | 735
+- Hacked Turret Allegiance Flip | 736
+- Alarm Camera Escalation Chain | 737
+- Overlapping Crossfire Nests (Interlocking Fields) | 738
+- Armored Turret with Exposed Core | 739
+- Proximity Mine Field Grid | 740
+- Ceiling Spike Crusher Guardian | 741
+- Searchlight Tower Spotlight Hunt | 742
+
+### Drones and Aerial Enemies
+
+- Swarm Drone Lattice (Formation Flyers) | 744
+- Kamikaze Seeker Drone | 745
+- Repair Support Drone (Healer Flyer) | 746
+- Gunship Strafing Run Pattern | 747
+- Bat Swarm Erratic Flight (Sine Wave Fliers) | 748
+- Hunter Balloon Mine Layer | 749
+
+### Tanks, Vehicles, and Mechs
+
+- Armored Tank with Turret Lag | 751
+- Chasing Truck Convoy Pursuit | 752
+- Walking Mech Weak-Leg Targeting | 753
+- Rail Artillery Bombardment Warning | 754
+- Mounted Gunner Vehicle Escort | 755
+- Siege Engine Wall Breaker | 756
+
+### Shmup Bullet-Pattern Enemies
+
+- Spiral Bullet Flower (Rotating Emitter) | 758
+- Aimed Burst Then Wall Pattern | 759
+- Hitbox Grazing Reward Pattern | 760
+- Mid-Boss Scripted Entry Timeline | 761
+- Popcorn Wave Formation Spawner | 762
+- Mirror Pattern Twin Bosses | 763
+
+### Tower-Defense Creeps
+
+- Fast Scout Creep Wave Splitter | 765
+- Armored Tank Creep with Resistances | 766
+- Spawner Creep (Splitting Swarmlings) | 767
+- Flying Creep Ignoring the Maze | 768
+- Tower Disabling Creep (Jammer) | 769
+
+### Environmental Hazards and Living Level Elements
+
+- Rising Lava Chase Floor | 771
+- Sentient Mimic Chest and Fixtures | 772
+- Wall of Flesh Advancing Maw | 773
+- Tidal Flood Cycle Hazard | 774
+- Carnivorous Plant Ambush Garden | 775
+
+### Colossi and Climbable Bosses
+
+- Colossus with Climbable Fur Grips | 777
+- Multi-Weak-Point Titan Dismantle | 778
+- Arena Terrain-as-Boss Transformation | 779
+
+### Simple-Rule Platformer, Shmup, and Roguelike AI
+
+- Walk and Turn Patroller (Edge Aware) | 781
+- Roguelike Chaser with Last Seen Position | 782
+- Thief Monster Grab and Flee | 783
+- Ghost Chases Only When Unwatched | 784
+- Pack Hunter Cheap Cell Rules (Cellular Flocking) | 785

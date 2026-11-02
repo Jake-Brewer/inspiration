@@ -744,3 +744,266 @@ Each line: `Name | line number in difficulty_balance_full.md`. Open difficulty_b
 - Public Test Realm (Open Preview Server) | 590
 - Pro Player Advisory (Expert Consultation) | 591
 - Mod Community Balance Packs (Fan-Made Rebalance) | 592
+
+## AI Opponent Difficulty and Behavior Tuning
+
+### Cheating Versus Fair AI
+
+- Resource Bonus AI (Hidden Income Multiplier) | 595
+- Full Map Vision AI (Fog Peeking) | 596
+- Fair Play AI (Same Rules Opponent) | 597
+- Rule Bending Disclosure Toggle (Cheat Level Selector) | 598
+- Catch-Up Cheating Opponent (Rubber Band AI) | 599
+- Handicapped Perfect Player (Intentional Weakening) | 600
+
+### Engine Strength Levels
+
+- Depth Limited Search Levels (Chess Ply Caps) | 602
+- Elo Calibrated Opponents (Rating Matched Bots) | 603
+- Move Time Budget Scaling (Thinking Clock Dial) | 604
+- Blunder Probability Sampling (Top Moves Lottery) | 605
+- Opening Book Depth Limits (Memorized Theory Dial) | 606
+- Style Mimic Bots (Human Game Trained Engines) | 607
+
+### Fighting and Action CPU Behavior
+
+- Fighting CPU Level Tiers (Input Reading Dial) | 609
+- Input Reading Cheating Boss (Frame Perfect Counter) | 610
+- Reaction Time Throttle (Human Delay Buffer) | 611
+- Aim Error Cone (Shooter Accuracy Noise) | 612
+- Miss First Shot Rule (Warning Bullet) | 613
+- Attack Token System (Queue For The Player) | 614
+- Telegraphed Wind Up Scaling (Tell Duration Dial) | 615
+
+### Strategy Game AI
+
+- Strategy AI Build Order Scripts (Canned Openers) | 617
+- Army Size Pacing Caps (Attack Wave Timers) | 618
+- Grand Strategy Diplomacy Bias (Treaty Honesty Dial) | 619
+- Four X AI Handicap Bonuses (Growth Production Combat) | 620
+- Stance Based Army Behavior (Aggressive Defensive Opportunist) | 621
+- Scouting Gated Counterplay (Information Before Reaction) | 622
+- Mid Game Mistake Injection (Idle Production Lapses) | 623
+
+### Personality and Adaptation
+
+- Personality Dial Sliders (Aggression Greed Caution) | 625
+- Named Rival Archetypes (Bully Turtle Trickster) | 626
+- Adaptive Counter Learning (Remembering Your Favorite Move) | 627
+- Nemesis Memory Loop (Persistent Grudge Opponent) | 628
+- Reinforcement Learned Bot Skill (Self Play Training) | 629
+- Player Skill Estimator (Hidden Rating Adaptation) | 630
+- Mood Shifting Opponent (Tilt And Confidence Meter) | 631
+
+### Making AI Feel Beatable
+
+- Telegraphed Intentions Display (Visible Next Move) | 633
+- Deliberate Fumble Moments (Staged Openings) | 634
+- Dumb Down On Player Struggle (Mercy Mode) | 635
+- Crowd Courtesy Behaviors (Flank Last Rule) | 636
+- Predictable Pathing With Variation (Patrol Randomness Band) | 637
+- Dialogue Barks As Warnings (Audible Enemy Intent) | 638
+- Forgetful Search Behavior (Lose Track Timer) | 639
+
+## Matchmaking and Skill Rating Systems
+
+### Rating Algorithms
+
+- Elo Duel Rating | 642
+- Glicko Rating Deviation | 643
+- Glicko Volatility Tracking | 644
+- Bayesian Skill Inference (TrueSkill style) | 645
+- Conservative Display Rating | 646
+- Performance-Weighted Rating | 647
+- Margin-of-Victory Adjustment | 648
+- Role-Specific Ratings | 649
+- Per-Mode and Per-Hero Ratings | 650
+
+### Hidden Ratings and Placement
+
+- Hidden MMR Behind Visible Ranks | 652
+- Placement Match Gauntlet | 653
+- Skill Calibration Tutorial | 654
+- Seeded Starting Rating from Past Play | 655
+- Decay Toward Uncertainty | 656
+
+### Ladders, Divisions, and Seasons
+
+- Tiered Rank Ladder | 658
+- Promotion and Demotion Series | 659
+- Rank Floors and Shields | 660
+- Percentile-Based Top Leaderboard | 661
+- Regional and Cultural Ladders | 662
+- Seasonal Soft Reset | 663
+- Seasonal Rewards by Peak Rank | 664
+- Decaying Top-Tier Ladder | 665
+- Casual Versus Ranked Queues | 666
+
+### Fraud, Smurfs, and Boosting
+
+- Smurf Detection by Performance Anomaly | 668
+- Phone and Payment Verification Gates | 669
+- Smurf Quarantine Pool | 670
+- Duo Queue Restrictions by Rank Gap | 671
+- Boosting Pattern Detection | 672
+- Win Trading and Dodge Penalties | 673
+- Reputation-Weighted Matching | 674
+
+### Parties and Mixed-Skill Play
+
+- Party Rating Aggregation | 676
+- Coordination Bonus for Premade Teams | 677
+- Mixed-Skill Co-op Scaling | 678
+- Handicapped Friends Mode | 679
+- Skill-Spread Limits in Large Lobbies | 680
+
+### Match Quality, Queues, and Engagement
+
+- Queue-Time Versus Quality Slider | 682
+- Latency-Weighted Matching | 683
+- Engagement-Optimized Matchmaking | 684
+- Fair Match Transparency Report | 685
+- Win Probability Targeting | 686
+- Fresh-Opponent Rotation | 687
+
+### Bots and Backfill
+
+- Bot Backfill for Slow Queues | 689
+- Onboarding Bot Matches | 690
+- Disguised Bot Personalities | 691
+- Late-Join Backfill by Human Substitution | 692
+
+## Co-op and Party Scaling
+
+### Enemy Scaling by Player Count
+
+- Per-Player Health Multiplier | 695
+- Damage Output Scaling | 696
+- Spawn Count Scaling | 697
+- Elite Slot Budget | 698
+- Diminishing Returns Curve | 699
+- Mechanic Unlocks by Party Size | 700
+- Dynamic Join Recalculation | 701
+- Loot and Reward Scaling | 702
+
+### Revive and Drop-In Rules
+
+- Bleed-Out Timer | 704
+- Revive Channel Vulnerability | 705
+- Self-Revive Token | 706
+- Respawn at Checkpoint Beacons | 707
+- Wave-Based Respawn Tickets | 708
+- Spectator Utility Role | 709
+- Seamless Drop-In Joining | 710
+- Graceful Drop-Out AI Takeover | 711
+- Last Stand Solo Bonus | 712
+
+### Carry and Free-Rider Problems
+
+- Contribution Floor Rewards | 714
+- Anti-Boosting Level Gap Rules | 715
+- Mentor Scaling Down | 716
+- Team Wipe on Individual Failure | 717
+- Weakest Link Handicaps | 718
+- Shared Failure Meter | 719
+- Idle Detection and Kick Vote | 720
+
+### Role-Based Contribution
+
+- Class Trinity Responsibilities | 722
+- Support Scoring Credit | 723
+- Role-Locked Objectives | 724
+- Flexible Role Swapping at Safe Points | 725
+- Complementary Skill Combos | 726
+
+### Asymmetric Assists
+
+- One-Player Assist Mode | 728
+- Helper Companion Character | 729
+- Navigator and Driver Split | 730
+- Rescue Bubble Mechanic | 731
+
+### Loot Fairness
+
+- Personal Loot Instances | 733
+- Need Before Greed Rolling | 734
+- Bad Luck Protection Pity Timer | 735
+- Points-Based Loot Council | 736
+
+### Group Difficulty Setting
+
+- Host-Set Difficulty | 738
+- Majority Vote Difficulty | 739
+- Average Skill Adaptive Tuning | 740
+- Per-Player Difficulty Sliders | 741
+
+## Power Creep, Meta Health, and Exploit Management
+
+### Power Creep Control
+
+- Set Power Ceiling Charter | 744
+- Vertical Versus Horizontal Release Rule | 745
+- Strictly Better Audit | 746
+- Baseline Anchor Set | 747
+- Power Budget Per Expansion | 748
+- Complexity Creep Tax | 749
+- Seasonal Stat Compression | 750
+
+### Nerf and Buff Cadence
+
+- Fixed Patch Calendar | 752
+- Buff First Philosophy | 753
+- Small Percentage Nudge Rule | 754
+- Pre-Announced Nerf Window | 755
+- Refund On Nerf Policy | 756
+- Rolling Hotfix Dial | 757
+- Reversion Rights | 758
+
+### Ban Lists and Restricted Lists
+
+- Banned And Restricted Tiers | 760
+- Community Ban Vote | 761
+- Draft Phase Hero Bans | 762
+- Soft Ban By Cost Increase | 763
+- Format Specific Ban Lists | 764
+- Ban Review Ritual | 765
+
+### Tier Lists and Monitoring
+
+- Pick And Win Rate Dashboard | 767
+- Skill Bracket Segmentation | 768
+- Community Tier List Feedback | 769
+- Matchup Matrix Heatmap | 770
+- Mirror Diversity Metric | 771
+- Outlier Alerting Threshold | 772
+
+### Degenerate Strategies and Sequence Breaks
+
+- Infinite Combo Containment | 774
+- Stalling Pressure Clock | 775
+- Sequence Break As Reward | 776
+- Dominant Strategy Probe | 777
+- Turtling Counter Tools | 778
+- Degenerate Loop Telemetry | 779
+
+### Speedrun Versus Design Tension
+
+- Speedrun Friendly Design | 781
+- Glitch Category Splitting | 782
+- Intentional Skip Tuning | 783
+- Randomizer Mode Embrace | 784
+
+### Exploit and Cheese Tolerance
+
+- Embrace The Exploit Philosophy | 786
+- Patch Only Economy Breakers | 787
+- Cheese Counter Design | 788
+- Rollback And Compensation Plan | 789
+
+### Rotation and Sunsetting
+
+- Standard Rotation Cycle | 791
+- Evergreen Core Set Refresh | 792
+- Legacy Content Rebalance | 793
+- Seasonal Reset Ladder | 794
+- Graceful Content Retirement | 795

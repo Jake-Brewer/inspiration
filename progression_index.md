@@ -767,3 +767,235 @@ Each line: `Name | line number in progression_full.md`. Open progression_full.md
 - Breather Hub Beats | 603
 - Cliffhanger Mid-Mission Reveal | 604
 - Stakes Escalation Scale Shift | 605
+
+## Roster, Monster Collection, and Character Evolution
+
+### Capture and Evolution Lines
+
+- Weaken-and-Capture Loop | 608
+- Level-Threshold Evolution | 609
+- Item-Triggered Evolution | 610
+- Conditional Evolution Triggers | 611
+- Branching Evolution Trees | 612
+- Care-Mistake Digital Raising | 613
+- Temporary Battle Transformation | 614
+- Fusion Cauldron Recombination | 615
+- Negotiation Recruitment | 616
+- Absorb-and-Mimic Collection | 617
+
+### Duplicates, Shards, and Awakening
+
+- Duplicate Pull Conversion | 619
+- Soul Shard Summoning | 620
+- Star Rank Promotion | 621
+- Limit Break Cap Raising | 622
+- Awakening Skill Unlock | 623
+- Potential Grid Unlock | 624
+- Ascension Material Tiers | 625
+- Stat-Feeding Fodder | 626
+- Skill Fusion Inheritance | 627
+
+### Teams, Synergy, and Bonding
+
+- Elemental Type Triangle | 629
+- Faction Synergy Bonus | 630
+- Leader Skill Auras | 631
+- Combo Attack Pairings | 632
+- Party Formation Rows | 633
+- Friendship Heart Meter | 634
+- Camp Bond Conversations | 635
+- Mount and Rider Bonding | 636
+- Permadeath Veteran Legacy | 637
+
+### Breeding, Storage, and Limits
+
+- Daycare Egg Breeding | 639
+- Genetic Trait Inheritance | 640
+- Recessive Gene Lineages | 641
+- Roster Slot Capacity Cap | 642
+- Active Party Versus Storage Box | 643
+- Release for Currency Trade-Off | 644
+- Pokedex Completion Rewards | 645
+- Trade Evolution Social Gate | 646
+
+## Squad Veterancy, Permadeath, and Persistent Campaign Units
+
+### Soldier Promotion and Class Trees
+
+- Rookie-to-Colonel Rank Ladder | 649
+- Branching Specialization at First Promotion | 650
+- Paired Perk Choice per Rank | 651
+- Random Aptitude Rolls on Recruitment | 652
+- Overpromotion Dual-Class Hybrid | 653
+- Psionic or Mutation Gamble Unlock | 654
+- Rank-Gated Squad Size and Mission Access | 655
+
+### Permadeath and Bonds
+
+- Permadeath with Named Units | 657
+- Support Rank Conversations | 658
+- Marriage and Child Inheritance | 659
+- Rewind Tokens as Soft Permadeath | 660
+- Last Stand and Wounded Bleed-Out | 661
+- Death Rolls Instead of Certain Death | 662
+
+### Wounds, Fatigue, and Recovery
+
+- Injury Recovery Timers | 664
+- Permanent Scars and Traits | 665
+- Combat Fatigue and Shell Shock | 666
+- Morale Cascades Across the Squad | 667
+- Barracks Rest and Rehabilitation Facilities | 668
+- Veteran Retirement with a Pension | 669
+
+### RTS Veterancy and Heroes
+
+- Unit Veterancy Chevrons | 671
+- Hero Unit Leveling with Revival Costs | 672
+- Shared Squad Veterancy | 673
+- Veteran Carryover to Replacement Vehicles | 674
+- Experience Denial and Kill Credit Rules | 675
+- Campaign Hero Item Persistence | 676
+
+### Commander and Meta Carryover
+
+- Commander XP Between Missions | 678
+- Carryover Squad Between Campaign Chapters | 679
+- Reserve Roster Training Off-Mission | 680
+- Fallen Hero Memorial Wall | 681
+- Legacy Gear from the Fallen | 682
+- Veteran Mentorship Bonus | 683
+
+### Rivals, Recruits, and Attrition Economics
+
+- Nemesis Rival Promotion | 685
+- Enemy Leader Remembers Your Squad | 686
+- Recruit Pool Refresh Cycles | 687
+- Replacement Curve Difficulty Scaling | 688
+- Mercenary Contracts with Upkeep and Loyalty | 689
+- Party Attrition on a Hex Crawl | 690
+- Death Insurance and Resurrection Fees | 691
+
+## Career, Sports, Racing, and Management Progression
+
+### Drafting and Scouting
+
+- Annual Draft Lottery | 694
+- Scouting Fog of War | 695
+- Combine Showcase Minigame | 696
+- Bust and Steal Variance | 697
+- Youth Academy Pipeline | 698
+- Hidden Gem Network | 699
+
+### Player Development and Aging
+
+- Aging Curve by Position | 701
+- Potential Versus Current Ability | 702
+- Mentor Pairing | 703
+- Training Regimen Calendar | 704
+- Injury and Rehab Arc | 705
+- Breakout Season Event | 706
+- Late-Career Reinvention | 707
+
+### Contracts and Economy
+
+- Salary Cap Tetris | 709
+- Contract Year Motivation | 710
+- Free Agency Bidding Week | 711
+- Transfer Window Deadline Day | 712
+- Loan and Farm Systems | 713
+
+### Leagues and Calendars
+
+- Promotion and Relegation Ladder | 715
+- Season Calendar Rhythm | 716
+- Playoff Bracket Gauntlet | 717
+- Cup Runs and Giant-Killing | 718
+- Rival Derby Weeks | 719
+
+### Racing and Combat Careers
+
+- Racing License Tests | 721
+- Divisional Racing Ladder | 722
+- Car Tuning Parts Tree | 723
+- Pit Crew and Team Growth | 724
+- Boxing Rankings Climb | 725
+- Gym Sparring and Camp | 726
+- Weight Class Strategy | 727
+
+### Reputation, Sponsors, and Legacy
+
+- Sponsor Reputation Tiers | 729
+- Fan Base and Media Narrative | 730
+- Club Board Confidence | 731
+- Manager Career Ladder | 732
+- Stadium and Facility Expansion | 733
+- Hall of Fame Induction | 734
+- Retirement and Legacy Transition | 735
+- Retired Number Ceremony | 736
+- Dynasty Era Tracker | 737
+
+## Sandbox, Life-Sim, and Self-Directed Progression
+
+### Creative Versus Survival Unlocks
+
+- Creative Mode Parity Toggle | 740
+- Blueprint Ghost Building | 741
+- Research by Scanning Objects | 742
+- Tiered Material Ladder | 743
+- Boss-Gated World Phases | 744
+- Sandbox Budget Mode | 745
+
+### Self-Set Milestones and Emergent Goals
+
+- Player-Invented Challenge Runs | 747
+- Journal of Personal Goals | 748
+- Emergent Disaster Stories | 749
+- Orbit and Landing Firsts | 750
+- Settlement Population Targets | 751
+- Mega-Project Obsession | 752
+- Speedrun Sandbox Timers | 753
+
+### Life Stages and Aging
+
+- Cradle to Grave Life Stages | 755
+- Aspiration Lifetime Goals | 756
+- Rotating Heir Control | 757
+- Time-Limited Youth Window | 758
+- Elder Mentor Handoff | 759
+- Life Event Milestones | 760
+
+### Skills, Hobbies, and Mastery
+
+- Use-Based Skill Growth | 762
+- Hobby Skill Tiers with Perks | 763
+- Mastery Through Failure | 764
+- Cross-Skill Synergy Bonuses | 765
+- Workbench Quality Levels | 766
+- Collection Skill Plateaus | 767
+
+### Seasonal and Calendar-Driven Growth
+
+- Four Season Crop Calendar | 769
+- Festival Day Deadlines | 770
+- Year-One Bundle Restoration | 771
+- Weather-Gated Opportunities | 772
+- Calendar Birthdays and Gifting | 773
+- Time Debt Rest Cycle | 774
+
+### Household, Dynasty, and Settlement Growth
+
+- Family Fortune Ledger | 776
+- Home Upgrade Tiers | 777
+- Marriage and Household Roles | 778
+- Dynasty Succession Rules | 779
+- Pet and Livestock Lineages | 780
+
+### Cosmetic, Build, and Creation-Tool Unlocks
+
+- Cosmetic Collection Wardrobe | 782
+- Build Achievement Showcases | 783
+- Decor Catalog Unlocks | 784
+- Mod and Workshop Tool Tiers | 785
+- Community Showcase Rating Rewards | 786
+- Photo Mode Milestones | 787

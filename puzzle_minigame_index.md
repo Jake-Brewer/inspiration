@@ -752,3 +752,239 @@ Each line: `Name | line number in puzzle_minigame_full.md`. Open puzzle_minigame
 - Scavenger Hunt Photo Safari | 596
 - Gardening Plot Competition | 597
 - Haunted Fairground Ghost Train | 598
+
+## Programming, Automation and Systems-Building Puzzles
+
+### Assembly and Low-Level Programming
+
+- Parallel Node Grid (Tiny Cores) | 601
+- Corrupted Mainframe Repair | 602
+- Circuit Board Hardware Designer | 603
+- Instruction Budget Crunch | 604
+- Self-Modifying Code Puzzle | 605
+- Stack Machine Sorting Yard | 606
+
+### Visual and Block Programming
+
+- Conveyor Office Worker Program | 608
+- Molecule Reactor Choreography | 609
+- Robotic Arm Alchemy | 610
+- Spell Programming with Glyph Tiles | 611
+- Rule-Rewriting Sentence Blocks | 612
+- Node-Graph Automation Editor | 613
+
+### Scripted Agents and Robot Programming
+
+- Persistent Colony Script Sandbox | 615
+- Pathing Programmable Robot Arena | 616
+- Dungeon Crawler Scripted Companion | 617
+- Drone Swarm Command Terminal | 618
+- Hacking Terminal Command Duel | 619
+- Behavior Tree Pet Trainer | 620
+
+### Factory and Belt Optimization
+
+- Throughput Ratio Blueprint Challenge | 622
+- Compact Starter Base Contest | 623
+- Bus Versus Spaghetti Design Duel | 624
+- Block-Assembly Machine Puzzle | 625
+- Alien Assembly Line Cargo Puzzle | 626
+- Blueprint Pattern Library | 627
+- Production Loop Bottleneck Hunt | 628
+- Evolving Recipe Dependency Web | 629
+
+### Scoring and Leaderboards
+
+- Three-Axis Histogram Scoring | 631
+- Trading Cost for Speed Slider | 632
+- Ghost Replay of Top Solutions | 633
+- Weekly Optimization Challenge Seed | 634
+- Golf Mode Minimalism Ladder | 635
+- Verification Test-Case Gauntlet | 636
+
+### Contraptions and Rube Goldberg Builders
+
+- Chain Reaction Contraption Kit | 638
+- Physics Vehicle Contraption Builder | 639
+- Cooperative Contraption Relay | 640
+- Logic-Driven Mechanical Computer | 641
+- Timing Pulse Sequencer Puzzle | 642
+
+## Physics, Construction and Sandbox Engineering Challenges
+
+### Bridge and Structure Builders
+
+- Budget Span Bridge Builder | 645
+- Hydraulic Drawbridge Puzzle | 646
+- Rope and Cable Suspension Trial | 647
+- Scaffold Tower Race | 648
+- Demolition Weak-Point Puzzle | 649
+- Ancient Aqueduct Arch Mason | 650
+- Cardboard Fort Engineering | 651
+
+### Vehicles, Rockets and Machines
+
+- Modular Rocket Assembly Contest | 653
+- Block-Built Siege Machine Arena | 654
+- Rover Terrain Crossing Design | 655
+- Paper Airplane Wind Tunnel | 656
+- Hovercraft and Boat Hull Designer | 657
+- Walking Mech Gait Lab | 658
+- Gear Train Clockwork Challenge | 659
+- Automated Contraption Chain Reaction | 660
+- Pneumatic Tube Delivery Network | 661
+
+### Launchers, Catapults and Ballistics
+
+- Slingshot Fortress Smasher | 663
+- Trebuchet Counterweight Tuning | 664
+- Cannon Wind and Drop Calculator | 665
+- Turn-Based Worm Squad Artillery | 666
+- Human Cannonball Circus Rig | 667
+- Pinball Table Maker | 668
+- Golf with Physical Gadgets | 669
+
+### Ragdolls, Momentum and Toys
+
+- Crash Test Dummy Gauntlet | 671
+- Wobbly Physics Platformer | 672
+- Marble Run Track Architect | 673
+- Sumo Bot Pushing Match | 674
+- Swinging Rope Cargo Hauler | 675
+
+### Fluid, Sand and Cellular Simulation
+
+- Falling Sand Wizard Dungeon | 677
+- Powder Sandbox Reaction Contest | 678
+- Water Flow Irrigation Puzzle | 679
+- Lava Cooling Foundry Challenge | 680
+- Gas Pressure Habitat Engineering | 681
+- Ant Colony Tunnel Engineer | 682
+
+### Contests, Constraints and Cheese
+
+- Weekly Parts-Limit Design Jam | 684
+- Intended Solution Versus Exploit Showcase | 685
+- Cost Efficiency Leaderboard Triathlon | 686
+- Reverse Engineering Mystery Contraption | 687
+- Sabotage Mode Co-op Build | 688
+
+## Puzzle Design Scaffolding: Hints, Teaching, Difficulty and Failure
+
+### Teaching Through Level Design
+
+- Safe-Room Tutorial Chamber | 691
+- Isolated Rule Introduction Sequence | 692
+- Environmental Sentence Structure (Teach, Test, Twist) | 693
+- Cage Demonstration Puzzle | 694
+- Panel Line Tutorial Wall | 695
+- Unlockable Vocabulary Gates | 696
+- Mistake-First Teaching Beat | 697
+- Optional Practice Sandbox | 698
+
+### Hint and Skip Systems
+
+- Escalating Hint Tiers | 700
+- Idle-Time Gentle Nudge | 701
+- Hint Currency Economy | 702
+- In-Fiction Oracle Companion | 703
+- Skip Token With Dignity | 704
+- Journal Auto-Annotation | 705
+- Community Hint Whispers | 706
+
+### Difficulty Adaptation
+
+- Dynamic Hint Aggressiveness | 708
+- Rubber-Banded Timer Slack | 709
+- Difficulty Tier Selector With Honest Labels | 710
+- Branching Puzzle Variants | 711
+- Gradual Constraint Release | 712
+
+### Failure and Retry Handling
+
+- Instant Rewind Button | 714
+- Micro-Checkpoint Per Puzzle Stage | 715
+- Death With Learning Payoff | 716
+- Soft Penalty Instead of Reset | 717
+- Ramping Retry Cost | 718
+- Dead-End Detection | 719
+- Failure Streak Mercy Mode | 720
+
+### Accessibility
+
+- Colorblind Pattern Overlays | 722
+- Assist Toggle Panel | 723
+- Extended and Disabled Timers | 724
+- Audio Cue Visualization | 725
+- One-Switch and Remappable Input Mode | 726
+
+### Rewards and Red Herrings
+
+- Insight Reward Over Loot | 728
+- Tiered Completion Rewards | 729
+- Lore Fragment Unlock | 730
+- Fair Red Herring Budget | 731
+- Visible Dead-End Signals | 732
+- Sign-Posted Red Herring Payoff | 733
+
+### Solution Validation and Procedural Generation
+
+- Unique-Solution Guarantee | 735
+- Reverse-Scramble Generation | 736
+- Solver-Rated Difficulty | 737
+- Minimum-Move Par Display | 738
+- Seeded Daily Puzzle | 739
+- Playtest Telemetry Heatmap | 740
+
+## Social Deduction, Negotiation and Bluffing Minigames
+
+### Hidden Roles and Sabotage
+
+- Saboteur Crew Tasks | 743
+- Village Night Cycle (Werewolf Rounds) | 744
+- Role Claim Courtroom | 745
+- Traitor Among the Party (Co-op Betrayal Roll) | 746
+- Spy Location Interrogation | 747
+- Mimic Vote Hunt | 748
+- Poisoned Banquet Table | 749
+- Sleeper Cell Cooperative Heist | 750
+- Secret Mission Assassin Ring | 751
+- Cult Recruitment Conversion Game | 752
+
+### Interrogation and Inspection
+
+- Border Checkpoint Inspection | 754
+- Deduction by Memento Death Replay | 755
+- Facial Lie Detection Interview | 756
+- Good Cop Bad Cop Pressure Dial | 757
+- Alibi Timeline Pinning | 758
+- Customs Smuggler Detection Scanner | 759
+- Lineup Witness Reliability Meter | 760
+- Trial Cross-Examination Pivot | 761
+- Confession Sweat Box Countdown | 762
+- Loyalty Test Questionnaire | 763
+
+### Persuasion, Haggling and Dialogue Duels
+
+- Skill Check Inner Committee | 765
+- Rhetoric Card Duel | 766
+- Stall Haggling Dance | 767
+- Plague Town Reputation Negotiation | 768
+- Banter Insult Swordfight | 769
+- Sway the Council Vote Whip | 770
+- Diplomatic Summit Concession Ladder | 771
+- Seduction Charm Rhythm Chat | 772
+- Gossip Market Rumor Trading | 773
+- Shaman Spirit Bargain | 774
+
+### Auctions, Markets and Tell Reading
+
+- Sealed Bid Antique Auction | 776
+- Live Auction Paddle Bluff | 777
+- Trading Floor Shout Pit | 778
+- Poker Tell Study | 779
+- Liar's Dice Cup Bluff | 780
+- Smuggler's Dealer Face-Off | 781
+- Pawnbroker Appraisal Duel | 782
+- Prisoner's Dilemma Alliance Table | 783
+- Blind Card Play Bluff Ladder | 784

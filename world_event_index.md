@@ -763,3 +763,222 @@ Each line: `Name | line number in world_event_full.md`. Open world_event_full.md
 - Autonomous Faction Wars | 597
 - Procedural History Generation | 598
 - Dwarven-Style Emergent Tragedy | 599
+
+## Meta-Game Systems: Director AI, Pacing and Event Scheduling
+
+### Directors and Storytellers
+
+- Intensity-Curve Director | 602
+- Storyteller Personalities | 603
+- Wealth-Scaled Raid Points | 604
+- Threat Budget Spending | 605
+- Story-Generator Simulation | 606
+- Genre-Aware Event Deck | 607
+- Adaptive Skill Estimator | 608
+- Nemesis-Style Promotion Events | 609
+
+### Pacing and Tension Curves
+
+- Calm Before the Storm | 611
+- Sawtooth Escalation | 612
+- Boss Telegraph Countdown | 613
+- Breathing Room Timer | 614
+- Peak-End Finale Spike | 615
+- Boredom Detector | 616
+- Slow-Burn Dread Meter | 617
+
+### Scheduling and Timelines
+
+- Seeded Calendar of Events | 619
+- Scripted Story Beats | 620
+- Event Queue with Priorities | 621
+- Per-Event Cooldowns | 622
+- Preconditions and Guards | 623
+- Real-Time Wall-Clock Events | 624
+- Pity Timer Scheduling | 625
+- Deferred Consequence Chains | 626
+
+### Difficulty Scaling and Rubber-Banding
+
+- Rubber-Band Catch-Up | 628
+- Level-Scaled World | 629
+- Static Zones With Danger Tiers | 630
+- Difficulty Debt System | 631
+- Dynamic Mercy Rule | 632
+- Population-Scaled Threats | 633
+- Heat and Notoriety Meters | 634
+
+### Player-Tunable Controls
+
+- Event Frequency Slider | 636
+- Per-Category Event Toggles | 637
+- Permadeath and Disaster Intensity Presets | 638
+- Custom Event Scripting Hooks | 639
+- Co-op Scaling Knobs | 640
+- Event Preview Oracle | 641
+- Replay and Seed Lock | 642
+
+## Player-Triggered and Consequence-Driven World Events
+
+### Heat and Wanted Escalation
+
+- Tiered Wanted Stars (Police Response Ladder) | 645
+- Heat Decay Timer (Lay Low Mechanic) | 646
+- Witness Reporting Chain (Rumor-Driven Heat) | 647
+- Police Dragnet Lockdown (Sealed District) | 648
+- Wanted Poster Bounty Escalation (Price on Your Head) | 649
+- Organized Crime Crackdown (Syndicate Heat) | 650
+
+### Reputation and Faction Backlash
+
+- Reputation Whisper Network (Spreading Infamy) | 652
+- Faction Retaliation Raids (Revenge Strikes) | 653
+- Embargo and Trade Ban (Economic Retaliation) | 654
+- Hero Worship Windfall (Beloved Benefactor) | 655
+- Defection and Desertion (Companion Walkout) | 656
+- Cult of Personality (Followers Gather) | 657
+- Betrayed Ally Vendetta (Nemesis Returns) | 658
+
+### Bounty Hunters and Pursuers
+
+- Bounty Hunter Contract Party (Hired Trackers) | 660
+- Relentless Pursuer (Stalker Enemy) | 661
+- Rival Adventurer Party (Reputation Chaser) | 662
+- Inquisitor Witch Hunt (Purge Event) | 663
+
+### Delayed Consequences and Butterfly Effects
+
+- Delayed Consequence Letters (Mail From the Past) | 665
+- Ripple Timeline Choice (Butterfly Ledger) | 666
+- Plague From Your Sins (Karmic Epidemic) | 667
+- Inherited Sins (Generational Fallout) | 668
+- Cascade Failure (Supply Chain Collapse) | 669
+- Rescued Prisoner Payoff (Ghost of Mercy) | 670
+
+### Ritual, Summoning, and Triggered Phenomena
+
+- Ritual Summoning Circle (Dark Invocation) | 672
+- Cursed Relic Awakening (Tomb Opened) | 673
+- Sacrifice Offering Pact (Blood for Rain) | 674
+- Beacon Lighting Alarm (Signal Fire Event) | 675
+- Boss Awakening by Progress (Slumbering Titan) | 676
+
+### Environmental and Resource Fallout
+
+- Overharvesting Collapse (Depleted Fisheries) | 678
+- Pollution Blight (Industrial Poison) | 679
+- Invasive Species Outbreak (Escaped Pests) | 680
+- Deforestation Landslides (Bare Hillside Disaster) | 681
+- Divine Wrath Weather (Offended Gods) | 682
+
+### Doomsday Clocks and Moral Shifts
+
+- Doomsday Countdown (Looming Catastrophe) | 684
+- Corruption Meter (World Taint Spread) | 685
+- Moral Alignment World Shift (Light and Dark Realms) | 686
+- Regime Change Aftermath (Power Vacuum) | 687
+- Ending-Determining Final Tally (Judgment Day) | 688
+
+## Positive, Cooperative and Wonder Events
+
+### Windfalls and Blessings
+
+- Bumper Harvest Year | 691
+- Dawn Blessing of the Shrine | 692
+- Lucky Strike Vein | 693
+- Beachcomber's Tide | 694
+- Jubilee Debt Forgiveness | 695
+- Merchant's Anniversary Sale | 696
+- Gift of the Ancestors | 697
+
+### Friendly Migrations and Rare Spawns
+
+- Whale Song Passage | 699
+- Firefly Bloom Night | 700
+- Butterfly Pilgrimage | 701
+- Wandering Spirit Stag | 702
+- Golden Fish Run | 703
+- Shiny Variant Sighting | 704
+- Treasure Fleet Arrival | 705
+
+### Aid, Supply and Relief
+
+- Airdropped Relief Crates | 707
+- Caravan of Aid | 708
+- Medic Ship Docking | 709
+- Soup Kitchen Rotation | 710
+- Convoy of Pilgrim Healers | 711
+- Allied Reinforcement March | 712
+- Lighthouse Beacon Relief | 713
+
+### Eureka and Wonder Moments
+
+- Eureka Moment | 715
+- Aurora Overhead | 716
+- Total Eclipse Pilgrimage | 717
+- Cometfall Festival | 718
+- Flower Super-Bloom | 719
+- Spring Thaw Awakening | 720
+
+### Community Rebuilding and Recovery
+
+- Barn Raising Day | 722
+- Reconstruction Levy | 723
+- Phoenix Quarter Rebirth | 724
+- Seed Bank Replanting | 725
+- Refugee Settlement Welcome | 726
+- Mutual Aid Pact | 727
+- Memorial and Rebirth Ceremony | 728
+
+## Event Presentation, Telegraphing and Player Response Design
+
+### Warnings and Omens
+
+- Rising Siren Tiers (Escalating Alarm Pitch) | 731
+- Animal Behavior Omens (Skittish Wildlife) | 732
+- Weather Forecast Almanac (Imperfect Prediction) | 733
+- Celestial Portent Calendar (Fixed Sky Events) | 734
+- Cursed Rumor Network (Tavern Whispers) | 735
+- Environmental Tell Layering (Sky, Sound, Light) | 736
+- Dream and Vision Foreshadowing (Prophetic Sleep) | 737
+
+### UI Alerts and Cinematic Reveals
+
+- Threat Compass Ring (Directional Alert Rim) | 739
+- Event Ticker Newswire (Diegetic News Feed) | 740
+- Countdown Dread Clock (Visible Timer Arc) | 741
+- Cinematic Boss Reveal (Camera Takeover) | 742
+- Slow Zoom Arrival Shot (Diegetic Horizon Reveal) | 743
+- Tiered Priority Notifications (Triage Banner System) | 744
+- Aftershock Echo Cues (Replayable Alert Log) | 745
+
+### Escalation and Preparation
+
+- Three-Stage Escalation Ladder (Tremor, Quake, Collapse) | 747
+- Preparation Window Montage (Calm Before the Storm) | 748
+- Stockpile Doomsday Prep (Supply Cache Planning) | 749
+- Defensive Drill Rehearsals (Practice Run Mode) | 750
+- Scout Network Early Warning (Lookout Chain) | 751
+- Adaptive Intensity Governor (Director Pacing) | 752
+- Phase Gate Readiness Check (Pre-Event Briefing) | 753
+
+### Shelter, Evacuation and Mitigation
+
+- Storm Shelter Capacity Rules (Limited Safe Rooms) | 755
+- Evacuation Route Planning (Road Capacity Puzzle) | 756
+- Hazard Zone Overlay Map (Risk Heatmap) | 757
+- Insurance and Relief Fund (Premium Pooling) | 758
+- Mitigation Infrastructure Trees (Levees, Firebreaks, Lightning Rods) | 759
+- Shelter-in-Place Stealth Mode (Hide Until Passed) | 760
+- Rescue Triage Minigame (Sort and Save) | 761
+
+### Aftermath, Chains and Fairness
+
+- Cleanup and Salvage Phase (Rubble Economy) | 763
+- Persistent Scar Landscape (Visible Aftermath) | 764
+- Recovery Morale Arc (Mourning and Rebuild) | 765
+- Chained Event Cascade (Quake to Tsunami to Famine) | 766
+- Seasonal Event Rhythm (Predictable Cycles) | 767
+- Fairness Contract for Surprises (Never Unavoidable Death) | 768
+- Accessibility Alert Alternatives (Multimodal Warnings) | 769
+- Assist Rewind for Disasters (Mercy Checkpoint) | 770

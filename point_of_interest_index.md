@@ -771,3 +771,243 @@ Each line: `Name | line number in point_of_interest_full.md`. Open point_of_inte
 - Rumor-Spawned Lair (Gossip Seeded) | 603
 - Player-Built Monument (Persistent Landmark) | 604
 - Faction Outpost Takeover (Contested Territory) | 605
+
+## Activity, Minigame, and Pastime Sites
+
+### Fishing and Foraging
+
+- Moonlit Fishing Hole (Night Bite Pond) | 608
+- Frozen Lake Ice-Fishing Shack | 609
+- Tidepool Gathering Flats | 610
+- Angler's Record Board (Dockside Trophy Wall) | 611
+- Mushroom Foraging Grove | 612
+- Bee Yard and Honey Hollow | 613
+
+### Racing and Time Trials
+
+- Cliffside Time-Trial Gate | 615
+- Mud-Flat Beast Racing Track | 616
+- Sky Rail Circuit (Rooftop Parkour Course) | 617
+- Boat Regatta Buoys | 618
+- Soapbox Downhill Run | 619
+- Dog-Sled Marathon Checkpoint | 620
+
+### Arenas and Fight Pits
+
+- Back-Alley Brawl Pit | 622
+- Monster-Taming Colosseum | 623
+- Mock-Duel Dojo Courtyard | 624
+- Wrestling Ring at the Harvest Fair | 625
+- Gladiator Survival Gauntlet | 626
+- Mech Cage-Match Hangar | 627
+
+### Gambling and Table Games
+
+- Smoky Back-Room Card Table | 629
+- Dice Pit at the Caravan Crossroads | 630
+- Roulette Wheel of Fate (Casino Floor Spectacle) | 631
+- Pachinko Parlor Alcove | 632
+- Board-Game Salon of the Scholars | 633
+- Pirate Liar's Dice Tavern | 634
+
+### Arcades and Rhythm Spots
+
+- Retro Arcade Cabinet Row | 636
+- Dance Pad Plaza | 637
+- Karaoke Lounge Booth | 638
+- Shadow-Puppet Street Theater | 639
+- Drum Circle Hilltop | 640
+
+### Contests and Social Pastimes
+
+- Arm-Wrestling Table at the Miner's Pub | 642
+- Cooking Contest Pavilion | 643
+- Pie-Eating and Spicy-Noodle Challenge Stall | 644
+- Quiz Hall of the Wandering Sage | 645
+- Scenic Photo Spot (Painter's Overlook) | 646
+
+### Hunting, Farming, and Training
+
+- Hunting Blind on the Watering Hole | 648
+- Community Allotment Garden | 649
+- Orchard Grafting Grounds | 650
+- Archery Range and Falconry Mews | 651
+- Warrior Training Grounds (Obstacle Yard) | 652
+- Alchemy Practice Greenhouse | 653
+
+## Fast Travel, Waypoints, and Map-Reveal Sites
+
+### Waypoint Shrines and Warp Points
+
+- Waypoint Shrine (Activate-to-Unlock) | 656
+- Bonfire Checkpoint (Rest and Respawn) | 657
+- Tower Climb Reveal (Vista Unlock) | 658
+- Save Room Warp Pad (Metroidvania) | 659
+- Statue of Return (Limited-Use Beacon) | 660
+- Campfire Rest Warp (Survival) | 661
+- Respawn Beacon (Squad Deployment) | 662
+- Lantern Post Network (Roguelite Hub) | 663
+- Rest Stop Inn Warp (Travelogue) | 664
+
+### Teleport Pads and Portal Networks
+
+- Teleport Pad Pair (Linked Nodes) | 666
+- Subway Station Network (Urban Fast Travel) | 667
+- Portal Hub Plaza (Magic Crossroads) | 668
+- Cave Mouth Wormhole (Hidden Network) | 669
+- Mirror Gate (Realm Swap) | 670
+- Pipe Warp (Retro Platformer) | 671
+- Teleporter Charge Station (Cooldown Gate) | 672
+- Rift Anchor (Roguelite Shortcut) | 673
+
+### Mounts, Ferries, and Transit
+
+- Mount Stable (Summoning Stall) | 675
+- Ferry Dock (Water Crossing) | 676
+- Airship Landing Platform (Sky Taxi) | 677
+- Caravan Depot (Merchant Convoy) | 678
+- Giant Bird Perch (Flying Mount Hub) | 679
+- Rail Handcar Junction (Abandoned Line) | 680
+- Sled Dog Kennel (Arctic Route) | 681
+
+### Cartographers and Map-Reveal Sites
+
+- Cartographer's Shop (Buy the Map) | 683
+- Surveyor's Tent (Skill-Based Mapping) | 684
+- Observation Deck (Scenic Reveal) | 685
+- Fog-of-War Clearing Beacon (Light the Dark) | 686
+- Treasure Map Fragment Site (Puzzle Reveal) | 687
+- Star Chart Observatory (Celestial Navigation) | 688
+- Drone Scan Relay (Sci-Fi Reveal) | 689
+
+### Signposts, Trailheads, and Markers
+
+- Signpost Crossroads (Directional Hint) | 691
+- Trailhead Kiosk (Park Map Board) | 692
+- Cairn Trail Markers (Player-Guided Path) | 693
+- Pinned Map Marker (Player-Placed Pin) | 694
+- Wayfinding Spirit Lantern (Guide Companion) | 695
+- Safehouse Stash Door (Roguelite Return) | 696
+
+## Multiplayer, Shared, and Player-Claimed Sites
+
+### Extraction and Contested Zones
+
+- Extraction Gantry (Timed Exit) | 699
+- Swamp Ferryman Extraction (Paid Passage) | 700
+- Flare Signal Pad (Called Exfil) | 701
+- Loot Meteor Crater (Hot Drop) | 702
+- Supply Crash Site (Airdrop Wreck) | 703
+- Abandoned Customs Warehouse (High-Risk Vault) | 704
+- Plague Quarantine Perimeter (Shrinking Zone) | 705
+
+### Raid and World-Boss Sites
+
+- Colossus Awakening Field (Server Event) | 707
+- Raid Gate Antechamber (Staging Lobby) | 708
+- Dragon Roost Summit (Roaming Wyrm Lair) | 709
+- Tidal Leviathan Pier (Fishing Raid) | 710
+- Cursed Siege Ground (Open-World Warfront) | 711
+- Blood Moon Altar (Rotating Dungeon Gate) | 712
+- Convoy Ambush Lane (Escort Raid) | 713
+
+### Social Plazas and Housing
+
+- Lantern Plaza (Social Hub) | 715
+- Seaside Housing Row (Instanced Plots) | 716
+- Floating Garden Parcels (Vertical Housing) | 717
+- Market Square Stalls (Player Vendors) | 718
+- Campfire Common (Roleplay Circle) | 719
+- Tavern Back Table (Mercenary Board) | 720
+
+### Guild and Territory Claims
+
+- Guild Banner Keep (Claimed Fortress) | 722
+- Territory Beacon Stone (Control Marker) | 723
+- Guild Hall Great Chamber (Member Sanctum) | 724
+- Outpost Supply Depot (Frontier Claim) | 725
+- Hanging Mine Claim (Resource Lease) | 726
+- Port Authority Charter Hall (Trade Seat) | 727
+
+### Player Markers and Messages
+
+- Lighthouse Beacon (Player-Built Signal) | 729
+- Graffiti Wall (Spray Canvas) | 730
+- Orange Message Rune (Cryptic Hint Marker) | 731
+- Memorial Cairn (Fallen Player Tribute) | 732
+- Trail Blaze Post (Waypoint Flag) | 733
+- Wishing Well Offering (Community Pool) | 734
+
+### Leaderboards and Monuments
+
+- Hall of Champions Obelisk (Leaderboard Monument) | 736
+- Fastest Run Statue (Speedrun Tribute) | 737
+- Boss Slayer Trophy Wall (First Clear Record) | 738
+- Hunter's Hall of Pelts (Seasonal Ranking) | 739
+
+### Ghosts and Asynchronous Traces
+
+- Bloodstain Marker (Death Echo) | 741
+- Phantom Duel Shrine (Recorded Rival) | 742
+- Ghost Caravan Road (Async Traveler) | 743
+- Echo Chamber Recording Vault (Voice Message Cave) | 744
+- Tombstone Graveyard (Persistent Loot Drop) | 745
+
+## POI Placement, Density, Discovery, and Pacing Patterns
+
+### Density and Spacing Rules
+
+- Triangle Rule of Sightlines | 748
+- Thirty-Second Rule | 749
+- Density Budget per Square Kilometer | 750
+- Breathing Room Voids | 751
+- Cluster and Gap Rhythm | 752
+- Vertical Layering of Sites | 753
+- Chokepoint Placement | 754
+
+### Gradients, Breadcrumbs, and Lures
+
+- Landmark-to-Reward Gradient | 756
+- Weenie Lure (Visual Magnet) | 757
+- Breadcrumb Trails | 758
+- Audio Lure Ring | 759
+- Light Beacons at Night | 760
+- Animal Guides | 761
+- Environmental Funneling | 762
+- Rumor and Hearsay Seeding | 763
+
+### Markers, Maps, and Unmarked Discovery
+
+- Compass Strip Pings | 765
+- Fog-of-War Reveal by Visiting | 766
+- Question-Mark Icons | 767
+- Marker-Free Exploration Mode | 768
+- Player-Placed Pins and Stamps | 769
+- Binocular and Scout Tagging | 770
+- Treasure Map as Puzzle | 771
+- Marker Overload Failure Mode | 772
+
+### Authoring Approaches
+
+- Hand-Placed Showpiece Anchors | 774
+- Procedural POI Scatter with Constraints | 775
+- Template and Module Kits | 776
+- Prefab Seeded with Story Dressing | 777
+- Hybrid Pass Workflow | 778
+- Wave Function Collapse Settlements | 779
+- Regional Theming Palettes | 780
+
+### Pacing and Fatigue
+
+- Checklist Fatigue | 782
+- Reward Variance Schedule | 783
+- Empty POI as Deliberate Joke | 784
+- Escalating Mystery Chains | 785
+
+### Location-Based and Real-World Models
+
+- Pokestop-Style Waypoints | 787
+- Portal Claim and Link Model | 788
+- Geocache Hide and Seek | 789
+- Community-Nominated Site Pool | 790
+- Daily Walk Route Rewards | 791

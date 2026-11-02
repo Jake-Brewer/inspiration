@@ -760,3 +760,254 @@ Each line: `Name | line number in social_multiplayer_full.md`. Open social_multi
 - AFK and Quitter Substitution | 598
 - Anti-Smurf Rank Acceleration | 599
 - Shared Punishment Visibility | 600
+
+## Social Onboarding, Retention and Reciprocity Loops
+
+### Invites and Referrals
+
+- Friend Invite Link Reward | 603
+- Recruit-a-Friend Milestone Ladder | 604
+- Referral Tree Bonuses | 605
+- Summon-a-Friend Boosted Dungeon | 606
+- Couch Invite Guest Pass | 607
+- Starter Squad Auto-Formation | 608
+
+### Mentors and Newbies
+
+- Mentor Badge Program | 610
+- Newbie Beacon | 611
+- Apprenticeship Bond | 612
+- Protected Newcomer Zone | 613
+- Veteran Ambassador Chat Channel | 614
+- Teach-Back Quests | 615
+
+### Group Quests and Shared Goals
+
+- Daily Group Quest Slot | 617
+- Weekly Guild Contract | 618
+- Community Meter Milestones | 619
+- Buddy Bonus Multiplier | 620
+- Seasonal Co-op Pass Track | 621
+- Raid Night Calendar | 622
+
+### Gifting and Reciprocity
+
+- Heart Sending Loop | 624
+- Reciprocal Gift Bonus | 625
+- Wishlist Gifting Board | 626
+- Mystery Postcard Exchange | 627
+- Gift Wrapping and Delayed Reveal | 628
+- Pay-It-Forward Chain | 629
+
+### Obligation, Streaks and Pressure
+
+- Login Streak Calendar | 631
+- Co-op Streak Flame | 632
+- Guild Attendance Roll | 633
+- Waiting Friend Prompt | 634
+- Team Energy Pooling | 635
+- Streak Freeze Gift | 636
+
+### Lapsed Players and Return
+
+- Welcome Back Quest Line | 638
+- Returning Player Buddy Match | 639
+- Friend Return Bonus Cascade | 640
+- Guild Vacation Mode | 641
+- Memory Lane Recap | 642
+
+### Identity, Cross-Play and Ethics
+
+- Platform-Agnostic Friend Code | 644
+- Cross-Play Party Presence | 645
+- Portable Reputation Card | 646
+- Opt-In Social Pressure Dial | 647
+- Dark Pattern Audit Checklist | 648
+
+## Social Deduction, Deception and Hidden-Role Play
+
+### Core Hidden-Role Structures
+
+- Saboteur Among the Crew | 651
+- Nocturnal Village Cycle | 652
+- Informed Minority Versus Ignorant Majority | 653
+- Third-Party Wildcard Role | 654
+- Role Card Dealt Face Down | 655
+- Hidden Leader Protection | 656
+- Conversion and Infection Mechanics | 657
+
+### Traitors in Cooperative Games
+
+- Mid-Game Traitor Reveal | 659
+- Possibly-Absent Traitor | 660
+- Sabotage Through Plausible Mistakes | 661
+- Secret Vote on Mission Outcome | 662
+- Monster Among the Survivors | 663
+- Betrayal Triggered by Scenario | 664
+- Reluctant or Coerced Traitor | 665
+
+### Diplomacy, Betrayal and Long-Game Treachery
+
+- Simultaneous Order Reveal Diplomacy | 667
+- Corporation Heist Betrayal | 668
+- Shifting Alliance Scoring | 669
+- Trust-Based Resource Splitting | 670
+- Secret Pact Mechanic | 671
+- Spy Embedded in a Rival Faction | 672
+- Marriage and Succession Treachery | 673
+
+### Bluffing and Negotiation
+
+- Claim a Card You May Not Hold | 675
+- Liar's Dice Bidding | 676
+- Poker-Style Hidden Information Betting | 677
+- Open Table Negotiation Trading | 678
+- Cheap Talk Signaling | 679
+- Bluffing With Information Asymmetry | 680
+- Courtroom Style Cross-Examination | 681
+
+### Voting, Accusation and Meeting Phases
+
+- Emergency Meeting Button | 683
+- Anonymous Versus Public Voting | 684
+- Skip Vote Option | 685
+- Trial With Defense Speech | 686
+- Dead Player Ghost Role | 687
+- Evidence Collection Before Vote | 688
+- Limited Accusation Tokens | 689
+
+### Proximity, Voice and Reveal Craft
+
+- Proximity Voice Whispering | 691
+- Dead Chat Silence Rule | 692
+- Body Report and Discovery Moment | 693
+- Alibi Through Task Visibility | 694
+- Slow Reveal Final Showdown | 695
+- Role Reveal Cards at Elimination | 696
+- Paranoia Through Unreliable Tools | 697
+
+## Asynchronous, Passive and Low-Pressure Multiplayer
+
+### Turn-Based and Play-by-Mail
+
+- Play-by-Email Grand Strategy | 700
+- Daily Turn Duel | 701
+- Postal Chess Correspondence Ladder | 702
+- Simultaneous Order Resolution | 703
+- Hot-Seat Pass-Along Campaign | 704
+- Slow Game Seasonal Server | 705
+
+### Ghosts and Recorded Rivals
+
+- Time-Trial Ghost Racing | 707
+- Shadow Opponent Matchmaking | 708
+- Rival Replay Pursuit | 709
+- Defender Base Recording | 710
+- Co-op Echo Partner | 711
+- Graveyard of Past Runs | 712
+
+### Messages, Traces and Summons
+
+- Painted Advice Messages | 714
+- Summon Sign Cooperation | 715
+- Covenant Invasions | 716
+- Hint Rating and Praising | 717
+- Wandering Merchant Notes | 718
+
+### Shared-World Traces
+
+- Faceless Companion Journey | 720
+- Community-Built Infrastructure | 721
+- Shared Delivery Network | 722
+- Lost Cargo Recovery | 723
+- Ghost Town Tide Mapping | 724
+- Footprint Trails | 725
+
+### Leaderboards and Daily Challenges
+
+- Daily Seed Challenge | 727
+- Weekly Ghost Tournament | 728
+- Friend-Only Leaderboard | 729
+- Puzzle of the Day Streaks | 730
+- Crowd-Sourced Level Gauntlet | 731
+
+### Idle and Incremental Group Play
+
+- Clan Shared Generator | 733
+- Idle Expedition Party | 734
+- Cooperative Town Meter | 735
+- Gift Exchange Garden | 736
+
+### Couch and Local Multiplayer
+
+- Shared-Screen Party Chaos | 738
+- Asymmetric Couch Roles | 739
+- One-Controller Handoff Game | 740
+- Hidden Screen Secrets | 741
+
+### Small Intimate Designs
+
+- Two-Player Letter Game | 743
+- Couple's Cooperative Kitchen | 744
+- Four-Person Campfire Story | 745
+
+## Social Economy Roles and Player-Driven Organizations
+
+### Economic Specialist Roles
+
+- Master Crafter Guild Seat (Production Specialist) | 748
+- Caravan Master (Logistics Specialist) | 749
+- Market Maker (Merchant Specialist) | 750
+- Freight Hauler for Hire (Logistics Specialist) | 751
+- Resource Gatherer Co-op (Production Specialist) | 752
+- Appraiser and Identifier (Service Specialist) | 753
+
+### Corporations and Governance
+
+- Player Corporation Charter (Organization) | 755
+- Elected Town Council (Government) | 756
+- Hereditary Warlord Dynasty (Government) | 757
+- Shareholder Takeover Bid (Mechanic) | 758
+- Cooperative Commons Trust (Organization) | 759
+- Federation Treaty Assembly (Government) | 760
+
+### Taxation and Voting
+
+- Toll Road Tax Collector (Taxation) | 762
+- Progressive Wealth Tax Ledger (Taxation) | 763
+- Quadratic Voting Referendum (Voting) | 764
+- Land Value Tax Auction (Taxation) | 765
+- Proxy Delegation Voting (Voting) | 766
+
+### Contracts and Mercenaries
+
+- Bounty Board Posting (Contract) | 768
+- Mercenary Company Retainer (Contract) | 769
+- Escrow Smart Contract Notary (Contract) | 770
+- Assassination Guild Contract (Contract) | 771
+- Siege Mercenary Auction (Contract) | 772
+
+### Supply Chains and Justice
+
+- Guild-Run Supply Chain (Logistics) | 774
+- Player Court and Jury (Justice) | 775
+- Town Sheriff and Posse (Justice) | 776
+- Prison Labor Sentence (Justice) | 777
+
+### Diplomacy and Espionage
+
+- Embassy and Ambassador (Diplomacy) | 779
+- Spy Network Informant (Espionage) | 780
+- Marriage and Blood Pact Alliance (Diplomacy) | 781
+- Trade Embargo Declaration (Diplomacy) | 782
+
+### Server Politics and Emergent Roles
+
+- Server Constitution Convention (Politics) | 784
+- Pirate Fleet Captain (Emergent Role) | 785
+- Player Banker (Emergent Role) | 786
+- Town Crier Journalist (Emergent Role) | 787
+- Festival Host and Event Organizer (Emergent Role) | 788
+- Insurance Underwriter (Emergent Role) | 789
+- Smuggler and Black Market Fence (Emergent Role) | 790
+- Mapmaker and Cartographer (Emergent Role) | 791

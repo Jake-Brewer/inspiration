@@ -762,3 +762,232 @@ Each line: `Name | line number in crafting_building_full.md`. Open crafting_buil
 - Furniture Placement with Free Rotation and Stacking | 600
 - Room Themes and Comfort Scores | 601
 - Neighborhood Plot Zoning and Visitor Rules | 602
+
+## Crafting Economy, Professions and Player Trade
+
+### Professions and Specializations
+
+- Exclusive Profession Pairs | 605
+- Specialization Branch Lock-In | 606
+- Skill by Use Progression | 607
+- Mastery Caps and Total Skill Budgets | 608
+- Apprentice and Journeyman Titles | 609
+- Passive Crafting Queues | 610
+- Gathering Specialization Tied to Region | 611
+- Quality Tier Mastery Rolls | 612
+
+### Commissions and Order Boards
+
+- Public Commission Board | 614
+- Material Supplied Crafting Orders | 615
+- Named Commission Contracts | 616
+- Bounty Style Crafting Requests | 617
+- Escrow and Delivery Couriers | 618
+- Order Customization Sheets | 619
+
+### Pricing, Sinks and Market Dynamics
+
+- Material Cost Floor Pricing | 621
+- Durability as Demand Engine | 622
+- Crafting Fees and Station Rent | 623
+- Auction House Listing Taxes | 624
+- Recipe Price Discovery Through Rumor | 625
+- Mass Production Versus Rare Craft Split | 626
+- Seasonal Demand Swings | 627
+- Regional Price Gaps and Trade Routes | 628
+
+### Guilds and Shared Crafting
+
+- Guild Workshop Pooled Stations | 630
+- Guild Supply Contracts | 631
+- Master and Apprentice Teaching | 632
+- Collective Megaproject Builds | 633
+- Guild Crafting Taxes and Treasury | 634
+- Crafting Alliance Marketplaces | 635
+
+### Recipes, Vendors and Knowledge
+
+- Recipe Vendors with Reputation Gates | 637
+- Recipe Scroll Drops from Dungeons | 638
+- Discovery by Experimentation | 639
+- Reverse Engineering and Salvage | 640
+- Blueprint Copying and Original Licenses | 641
+
+### Crafting as Progression Versus Economic Loop
+
+- Crafting as Gear Gate | 643
+- Crafting as Side Hustle Loop | 644
+- Currency Crafting Orbs | 645
+- Fully Player Driven Manufacturing | 646
+- Craft and Sell Destroy Cycle | 647
+- Social Standing Through Prestige Crafts | 648
+- NPC Buyback Safety Net | 649
+- Lifeskill Passive Empire Building | 650
+
+## Automated Farming, Animal Husbandry and Cultivation
+
+### Crop Cycles and Soil
+
+- Seasonal Crop Calendar | 653
+- Multi-Stage Growth Sprites | 654
+- Regrowing Harvest Crops | 655
+- Soil Fertility Depletion | 656
+- Crop Rotation Bonuses | 657
+- Tillable Terrain and Soil Types | 658
+- Irrigation Channels and Ditches | 659
+- Sprinkler Coverage Grids | 660
+- Weather and Disaster Events | 661
+- Seed Saving and Heirloom Strains | 662
+
+### Plant Breeding and Genetics
+
+- Crossbreeding Gene Slots | 664
+- Hybrid Flower Color Grid | 665
+- Mutation Roll Chances | 666
+- Livestock Pedigree Tracking | 667
+- Beast Companion Trait Inheritance | 668
+- Selective Breeding Sandbox | 669
+
+### Livestock and Animal Products
+
+- Daily Animal Care Loop | 671
+- Product Quality Tiers | 672
+- Free-Range Pasture Grazing | 673
+- Barn and Coop Capacity Upgrades | 674
+- Slaughter and Butchery Ethics | 675
+- Beekeeping and Apiaries | 676
+- Silkworm and Insect Farming | 677
+
+### Orchards, Forestry and Specialty Cultivation
+
+- Fruit Tree Orchards | 679
+- Sustainable Forestry Management | 680
+- Tapping Trees for Sap and Resin | 681
+- Greenhouse Climate Control | 682
+- Hydroponic Towers | 683
+- Aquaculture Ponds and Fish Farms | 684
+- Mushroom Logs and Cave Cultivation | 685
+- Vineyards and Fermentation Casks | 686
+
+### Automation and Industrial Farming
+
+- Automatic Crop Harvester Drones | 688
+- Redstone-Style Piston Farms | 689
+- Conveyor Fed Livestock Pens | 690
+- Colonist Growing Zones | 691
+- Biological Factory Chains | 692
+- Bio-Reactor Compost Loops | 693
+
+## Crafting UX, Inventory Flow and Quality-of-Life
+
+### Recipe Knowledge and Discovery
+
+- Illustrated Recipe Codex | 696
+- Discovery Journal by Experiment | 697
+- Recipe Scrolls and Lore Fragments | 698
+- Ingredient Affinity Hints | 699
+- Unlock by Mastery Use | 700
+- Reverse Recipe Lookup | 701
+- Dependency Tree View | 702
+
+### Crafting Flow and Automation
+
+- Queued Batch Crafting | 704
+- Auto-Craft Intermediates | 705
+- Nearby Container Pulling | 706
+- Craft From Anywhere Stockpile | 707
+- Ingredient Pinning | 708
+- Substitute Ingredient Slots | 709
+- Search and Filter Bar | 710
+- Smart Craftable Sorting | 711
+- Minigame Skip Option | 712
+- Standing Production Orders | 713
+
+### Building Previews and Blueprints
+
+- Ghost Hologram Placement | 715
+- Material Cost Overlay | 716
+- Snap and Socket Guides | 717
+- Structural Stress Heatmap | 718
+- Blueprint Stamping | 719
+- Shared Blueprint Library | 720
+- Undo and Redo Ledger | 721
+- Symmetry and Pattern Tools | 722
+- Demolish With Salvage Preview | 723
+
+### Storage, Sorting and Inventory Flow
+
+- Auto-Sort Chest Network | 725
+- Quick Stack to Nearby | 726
+- Tagged Inventory Slots | 727
+- Weight and Bulk Preview | 728
+- Material Compression Recipes | 729
+- Conveyor and Pipe Visualization | 730
+- Logistics Request Network | 731
+
+### Accessibility, Mods and Teaching
+
+- Mod-Friendly Recipe Data | 733
+- Colorblind and Text-Size Crafting Options | 734
+- Hold-to-Craft Alternatives | 735
+- Staged Recipe Introduction | 736
+- Mentor Character Walkthroughs | 737
+- Assist Mode Cost Sliders | 738
+
+## Procedural and Emergent Crafting: Item Generation, Physics and Systemic Interactions
+
+### Procedural Item Generation
+
+- Procedural Weapon Assembly (Part-Rolled Guns) | 741
+- Affix Lottery Loot (Prefix and Suffix Rolling) | 742
+- Generated Gadget Blueprints (Invention Roulette) | 743
+- Procedural Creature-Parts Weaponry | 744
+- Seeded Item Genomes (Breedable Gear) | 745
+- Generated Item Histories (Legacy Weapons) | 746
+- Grammar-Based Spell Item Generation | 747
+
+### Property-Based Materials
+
+- Material Property Vectors (Craft by Attributes) | 749
+- Alloy Blending Sliders | 750
+- Quality Inheritance Chains | 751
+- Hidden Material Traits Discovered by Use | 752
+- Decay and Transmutation Properties | 753
+- Weight, Balance and Center-of-Mass Weapon Feel | 754
+
+### Physics and Chemistry Interactions
+
+- Elemental Reaction Matrix | 756
+- Burn-to-Build Fire Engineering | 757
+- Fluid Simulation Plumbing | 758
+- Circuit and Conductivity Building | 759
+- Thermal Systems (Heat and Cold Management) | 760
+- Chemical Reaction Sandbox (Noita-Style Materials) | 761
+- Pressure and Explosive Demolition Crafting | 762
+- Buoyancy and Aerodynamic Vehicle Rules | 763
+
+### Destructible and Emergent Building
+
+- Voxel Destructible Structures | 765
+- Stress-Based Structural Engineering | 766
+- Physics-Glued Contraption Assembly (Ultrahand Style) | 767
+- Fuse Anything to Anything | 768
+- Autonomous Constructs from Parts | 769
+- Terrain Deformation as Construction | 770
+- Rubble Salvage Ecosystem | 771
+
+### Modular Spell and Ability Assembly
+
+- Wand Slot Programming (Noita Style) | 773
+- Verb-Noun Spell Composer | 774
+- Gem-and-Link Skill Sockets | 775
+- Cooking-Pot Spell Brewing | 776
+- Card-Deck Ability Sculpting | 777
+- Chain Reaction Rune Networks | 778
+
+### Roguelike Build-Crafting
+
+- Synergy Stacking Item Pool | 780
+- Fusion Recipes Hidden in Run Items | 781
+- Mutation Shrines and Curse Trade-Offs | 782
+- Trading Crafting for Meta-Unlocks | 783

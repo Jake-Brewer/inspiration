@@ -765,3 +765,258 @@ Each line: `Name | line number in narrative_lore_full.md`. Open narrative_lore_f
 - Fallen Foe Returns Redeemed | 599
 - World State Persistence Across Sequels | 600
 - Save-Scum Defying Permanent Consequence | 601
+
+## Quest and Mission Narrative Design
+
+### Main Story Structures
+
+- Three-Act Critical Path | 604
+- Hub-and-Spoke Campaign | 605
+- Parallel Faction Spines | 606
+- Prologue Tutorial Quest | 607
+- Point-of-No-Return Finale | 608
+- Mentor Betrayal Spine | 609
+
+### Side Quest Structures
+
+- Quest Chain Escalation | 611
+- Companion Loyalty Arc | 612
+- Fetch Quest with a Twist | 613
+- Escort Quest with a Secret | 614
+- Detective Case Quest | 615
+- Anthology Vignette Quest | 616
+- Radiant Gossip Quest | 617
+
+### Moral Dilemma Stories
+
+- Two Petitioners Judgment | 619
+- Mercy or Execution Choice | 620
+- Lesser Evil Contract | 621
+- Delayed Consequence Side Story | 622
+- Informant Dilemma | 623
+
+### Timed and Failable Quests
+
+- Real-Time Doom Clock | 625
+- Day-Counter Expiry | 626
+- Failure as Branch | 627
+- Silent Failure Notice | 628
+- Seasonal Window Quest | 629
+
+### Quest Giver Personalities
+
+- Unreliable Quest Giver | 631
+- Charismatic Rival Employer | 632
+- Dead Quest Giver | 633
+- Quest Giver Who Is Also a Quest | 634
+- Animal or Object Giver | 635
+
+### Contract and Bounty Framing
+
+- Bounty Board Contracts | 637
+- Guild Contract Ladder | 638
+- Heist Planning Contract | 639
+- Weekly Dispatch Missions | 640
+
+### Quest Journals and Objective Delivery
+
+- First-Person Diary Journal | 642
+- Hand-Drawn Map Annotations | 643
+- No-Marker Directions Quests | 644
+- Mystery Corkboard Log | 645
+- Radio Handler Briefings | 646
+- Rumor Ledger Journal | 647
+
+## Factions, Cultures, and Political Societies
+
+### Factions and Ideologies
+
+- The Ledger Creed | 650
+- Wardens of the Quiet Flame | 651
+- The Unfinished Choir | 652
+- Iron Concord Remnants | 653
+- The Hollow Parliament | 654
+- Sun-Debt Cultists | 655
+- Rival Cartographer Houses | 656
+- The Fallow Court | 657
+
+### Customs, Taboos, and Daily Life
+
+- Name-Weaving Rite | 659
+- The Hospitality Knife | 660
+- Silence Days | 661
+- Salt Tithing Taboo | 662
+- Burial by Barter | 663
+- Mask of Age Customs | 664
+- The Long Table Law | 665
+- Weather-Born Calendar | 666
+
+### Social Classes, Castes, and Governance
+
+- Ladder of Lamps | 668
+- The Unnamed Caste | 669
+- Rotating Crown | 670
+- Council of Ghosts | 671
+- Elective Tyranny | 672
+- Matrilineal Houses of the Delta | 673
+- Philosopher-Auditors | 674
+- Conquest Succession Trials | 675
+
+### Guilds, Trade Powers, and Economy of Allegiance
+
+- The Smugglers' Concordat | 677
+- Caravan Republic | 678
+- Glassblowers' Oathbound | 679
+- Harbor Syndicate of Seven Flags | 680
+- Bone-Merchant Brotherhood | 681
+- The Weighers | 682
+
+### Reputation, Allegiance, and Diaspora
+
+- Rumor Currency | 684
+- Split Loyalty Oaths | 685
+- Exile Quarter Memory | 686
+- Refugee Ark Fleet | 687
+- Language Drift Schism | 688
+- Blood Debt Ledger | 689
+- Cultural Identity Through Verbs | 690
+- The Returning Generation | 691
+
+## Constructed Languages, Naming, and Lore Delivery Media
+
+### Conlangs and Scripts
+
+- Cipher Glyph Primer (Rosetta Stone Ruins) | 694
+- Unsubtitled Tongue (Learn by Context) | 695
+- Pictographic Script Puzzle Locks | 696
+- Evolving Dialect Drift | 697
+- Whistled and Drummed Speech | 698
+- Knotted-Cord Record Script | 699
+- Procedural Alien Alphabet | 700
+- Gesture and Sign Language Dialogue | 701
+- Sacred Language Versus Street Tongue | 702
+
+### Naming and Etymology
+
+- Naming Convention by Caste or Craft | 704
+- Etymology Trail Placenames | 705
+- Name Taboos and True Names | 706
+- Patronymic and Clan Name Generator | 707
+- Real-World Phonology Palette | 708
+- Renaming Through Deeds | 709
+- Mispronounced Foreign Loanwords | 710
+
+### Calendars, Units, and Currencies
+
+- Ritual Calendar With Gameplay Effects | 712
+- Odd Timekeeping Systems | 713
+- Body-Based Measurement Units | 714
+- Era Dating and Revisionist Years | 715
+- Layered Currencies Reflecting History | 716
+
+### Codex and Encyclopedia Entries
+
+- Unlockable Codex by Discovery | 718
+- In-Character Scholar Annotations | 719
+- Tiered Knowledge Pages | 720
+- Interactive Map Gazetteer | 721
+- Rumor Journal With Confidence Ratings | 722
+
+### Bestiary and Item Lore
+
+- Field Naturalist Bestiary | 724
+- Item Flavor Text as Micro-Fiction | 725
+- Descriptions That Change With Upgrades | 726
+- Cursed Item Whispered Lore | 727
+- Recipe Cards as Cultural Windows | 728
+
+### Audio Logs and Recorded Media
+
+- Audio Log Breadcrumb Chains | 730
+- Dead Crew Voicemail Mosaic | 731
+- Holotape Tone Contrast | 732
+- Radio Broadcast Worldbuilding | 733
+- Letters and Dying Notes | 734
+
+### Cutscene Versus In-Engine Delivery
+
+- Playable Cutscene Windows | 736
+- Cinematic Reserved for Turning Points | 737
+- Environmental Silent Storytelling Rooms | 738
+
+### Narration and Voiceover
+
+- Reactive Narrator Commentary | 740
+- Unreliable Narrator Playthrough | 741
+
+### Pacing Lore as Optional Reward
+
+- Layered Optional Depth | 743
+- Lore Drip Through Loading and Rest Points | 744
+
+## Live-Service, Multiplayer, and Transmedia Narrative
+
+### Seasonal and Live-Event Plots
+
+- Seasonal Story Arc (Quarterly Chapters) | 747
+- Live Cataclysm Event (One-Time Broadcast) | 748
+- Countdown Teaser Calendar | 749
+- Season Pass Narrative Track | 750
+- Faction Season War | 751
+- Weekly Serialized Missions | 752
+- Rotating Holiday Lore Event | 753
+
+### Server-Wide and Community-Driven World Events
+
+- Server-Wide Invasion Meter | 755
+- Community Resource Drive | 756
+- Gate-Opening Global Quest | 757
+- Persistent Player-Driven Outcomes | 758
+- Dynamic Rumor Network | 759
+- Developer-Played Characters (Game Master Events) | 760
+- World Boss Ritual Schedule | 761
+
+### MMO and Co-op Story Design
+
+- Phased Personal Story Layer | 763
+- Co-op Narrative Branch Voting | 764
+- Asymmetric Co-op Knowledge | 765
+- Instanced Dungeon as Story Chapter | 766
+- Heroic Legacy Characters | 767
+- Shared Companion Narrative | 768
+- Guild Chronicle System | 769
+
+### Community-Solved Mysteries and ARGs
+
+- Cross-Platform Alternate Reality Puzzle | 771
+- Cipher Hidden in Game Assets | 772
+- Communal Riddle With Slow Reveal | 773
+- Real-Time Detective Case | 774
+- Hidden Cooperative Lore Hunt | 775
+- Fake In-Universe Websites | 776
+
+### Esports and Competitive-Game Lore
+
+- Character Roster as Tournament Cast | 778
+- Championship Skins With Story Weight | 779
+- Narrative Map Rotation | 780
+- Lore-Driven Competitive Seasons | 781
+- Casters as In-World Narrators | 782
+- Rivalry Arc Between Real Players | 783
+
+### Cross-Media and Transmedia Expansions
+
+- Animated Series Companion | 785
+- Comic Bridge Between Seasons | 786
+- Tabletop Roleplaying Adaptation | 787
+- Novel and Audio Drama Tie-Ins | 788
+- Collectible Card Game Lore Cards | 789
+- Live-Action Promotional Short Films | 790
+
+### Sandbox, Creator Platforms, and Continuity
+
+- Player-Authored Quest Platform | 792
+- Emergent Sandbox Legend Tracker | 793
+- Canon Tiering System | 794
+- In-Universe Retcon Explanation | 795
+- Franchise Timeline Bible | 796

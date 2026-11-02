@@ -815,3 +815,255 @@ Each line: `Name | line number in mechanic_full.md`. Open mechanic_full.md at th
 - Role-Locked Co-op Puzzles | 633
 - Hidden Traitor Social Deduction | 634
 - Asynchronous Ghost Multiplayer | 635
+
+## Abilities, Magic and Status Effects
+
+### Casting Models
+
+- Mana Pool Regeneration (Spellcasting) | 638
+- Per-Spell Cooldowns | 639
+- Vancian Memorized Slots | 640
+- Charge-Based Abilities | 641
+- Channeled Beam Casting | 642
+- Cast Time and Interruption | 643
+- Health-Cost Casting (Blood Magic) | 644
+- Charge-Up Release Spells | 645
+- Ultimate Ability Meter | 646
+- Loadout-Limited Spell Slots | 647
+
+### Interactions and Combos
+
+- Elemental Reaction Chains | 649
+- Primer and Detonator Combos | 650
+- Rock Paper Scissors Elements | 651
+- Spell Crafting by Rune Combination | 652
+- Gesture-Drawn Spells | 653
+- Environmental Spell Interaction | 654
+
+### Status Effects and Stacking
+
+- Damage over Time Stacks | 656
+- Diminishing Returns on Crowd Control | 657
+- Status Buildup Meters | 658
+- Cleanse and Dispel Rules | 659
+- Immunity Windows After Cleanse | 660
+- Buff Duration Refresh versus Stack | 661
+- Percentage-Based Resistance Caps | 662
+- Debuff Spreading on Death | 663
+- Vulnerability and Exposed States | 664
+- Morale and Fear Statuses | 665
+
+### Summoning and Transformation
+
+- Summoned Minion Armies | 667
+- Pact Familiar Companions | 668
+- Shapeshifting Forms | 669
+- Possession and Body Swapping | 670
+- Temporary Power Transformation | 671
+
+### Passives and Synergies
+
+- Passive Aura Effects | 673
+- On-Hit and On-Kill Triggers | 674
+- Synergy Tag Engines | 675
+- Mastery Trees With Mutually Exclusive Branches | 676
+- Equipment Granted Abilities | 677
+- Stance and Mode Toggles | 678
+
+## Enemy AI, Companions and Squad Command
+
+### Behavior Architectures
+
+- Finite State Patrol Guard | 681
+- Behavior Tree Hunter | 682
+- Utility Scoring Brain | 683
+- Goal-Oriented Action Planning | 684
+- Hierarchical Task Network Tactics | 685
+- Blackboard Squad Memory | 686
+- Perception Cones and Noise Maps | 687
+- Dumb-by-Design Telegraphs | 688
+
+### Boss Design and Phase Patterns
+
+- Three-Phase Escalation Boss | 690
+- Pattern Memorization Duel | 691
+- Weak Point Colossus | 692
+- Environmental Boss Arena | 693
+- Adds-and-Shield Phase | 694
+- Mimic Boss | 695
+- Enrage Timer Raid Boss | 696
+- Rhythm Bullet-Curtain Boss | 697
+
+### Aggro, Threat and Targeting
+
+- Threat Table Aggro | 699
+- Proximity and Role Targeting | 700
+- Taunt and Provoke Tools | 701
+- Anti-Kiting Leash Rules | 702
+- Alert Propagation Chain | 703
+
+### Flocking, Crowds and Swarms
+
+- Boids Swarm Pressure | 705
+- Zombie Crowd Flow Fields | 706
+- Predator and Prey Ecology | 707
+- Panic Crowd Contagion | 708
+
+### Adaptive and Learning Opponents
+
+- Nemesis Promotion System | 710
+- Counter-Build Adaptation | 711
+- Learning Racing Rivals | 712
+- Heat and Wanted Escalation | 713
+
+### Difficulty Tuning and Directors
+
+- Rubber-Band Racing Tuning | 715
+- Stress-Based Spawn Director | 716
+- Dynamic Difficulty Quiet Scaling | 717
+- Faction Strength Rebalancing | 718
+
+### Allies, Companions and Pets
+
+- Companion Banter and Barks | 720
+- Follower Cover and Flanking AI | 721
+- Companion Affinity and Loyalty | 722
+- Revive and Downed Ally Rules | 723
+- Pet Command Wheel | 724
+- Summoner Minion Control | 725
+
+### Squad and Party Command
+
+- Tactical Pause Queueing | 727
+- Cooldown Order Wheel | 728
+- Programmable Gambit Rules | 729
+- Formation and Stance Presets | 730
+- Direct-Possession Swap | 731
+
+## Strategy, Base Defense and Macro Systems
+
+### Production and Counters
+
+- Rock-Paper-Scissors Unit Triangle | 734
+- Soft Counters and Hard Counters | 735
+- Production Queue Rally Chains | 736
+- Unit Veterancy and Promotion | 737
+- Mixed Army Synergy Auras | 738
+- Upgrade-or-Mass Tradeoff | 739
+
+### Information and Tech
+
+- Fog of War with Remembered Terrain | 741
+- Scouting Bluff and Decoy Units | 742
+- Branching Tech Tree with Mutual Exclusion | 743
+- Tech Spread by Contact | 744
+- Era Ages and Tech Leaps | 745
+- Lost Knowledge and Tech Decay | 746
+
+### Expansion and Territory
+
+- Resource Node Expansion Timing | 748
+- Border Pressure and Cultural Influence | 749
+- Chokepoint and Pass Control | 750
+- Capturable Neutral Outposts | 751
+- Province Occupation and War Score | 752
+- Colonization Frontier Race | 753
+
+### Logistics and Supply
+
+- Supply Lines and Attrition | 755
+- Caravan Trade Routes | 756
+- Forage and Scorched Earth | 757
+- Command Range and Orders Delay | 758
+
+### Defense, Towers and Waves
+
+- Tower Defense Maze Building | 760
+- Tower Synergy and Damage Types | 761
+- Wave Composition Telegraphing | 762
+- Boss Wave and Escalation Curve | 763
+- Hero Defender in Tower Defense | 764
+- Asymmetric Base Defense versus Raid | 765
+
+### Siege and Fortification
+
+- Layered Walls and Siege Engines | 767
+- Destructible Fortress Physics | 768
+- Starvation Siege and Sally Timing | 769
+
+### Population and Society
+
+- Happiness and Unrest Management | 771
+- Population Classes and Needs Ladder | 772
+- Plague, Famine and Disaster Events | 773
+
+### Diplomacy and Espionage
+
+- Treaties, Alliances and Betrayal Costs | 775
+- Spy Networks and Covert Actions | 776
+- Vassalage and Tribute Systems | 777
+
+### Morale and Attention
+
+- Army Morale and Routing Cascades | 779
+- Macro and Micro Attention Budget | 780
+- Pause-and-Plan Real-Time Command | 781
+
+## Multiplayer, Competitive and Social Systems
+
+### Matchmaking and Ranking
+
+- Elo-Style Ladder (Hidden Rating) | 784
+- Seasonal Rank Reset (Soft Decay) | 785
+- Placement Calibration Matches | 786
+- Party-Weighted Matchmaking | 787
+- Bounty and Underdog Systems | 788
+- Tournament Brackets and Swiss Rounds | 789
+
+### Netcode and Fairness
+
+- Rollback Netcode | 791
+- Lag Compensation by Server Rewind | 792
+- Authoritative Server with Client Prediction | 793
+- Deterministic Lockstep | 794
+- Region and Ping Gating | 795
+- Host Migration and Drop-In Recovery | 796
+
+### Roles, Balance and Objective Modes
+
+- Trinity Role Composition (Tank, Healer, Damage) | 798
+- Hero Ability Counterpick Triangle | 799
+- Asymmetric Team Roles (One versus Many) | 800
+- Capture and Hold Control Points | 801
+- Extraction Mode (Loot and Leave) | 802
+- Shrinking Zone Battle Royale | 803
+- Payload and Escort Objectives | 804
+- Role-Hidden Social Deduction | 805
+
+### Spectating, Replays and Community Safety
+
+- Observer Mode with Delayed Broadcast | 807
+- Killcam and Instant Replay Review | 808
+- Shareable Match Replays and Clip Tools | 809
+- Reporting and Overwatch-Style Community Jury | 810
+- Anti-Griefing Friendly Fire Rules | 811
+- Mute, Ping Wheel and Contextual Chat | 812
+
+### Trading, Guilds and Asynchronous Play
+
+- Player Auction House with Listing Fees | 814
+- Secure Two-Party Trade Window | 815
+- Guild Halls and Shared Treasury | 816
+- Clan Wars and Territory Control | 817
+- Reputation and Karma Meter | 818
+- Relationship Affinity and Gift Preferences | 819
+- Dialogue Wheel with Tone Choices | 820
+- Asynchronous Ghost Races | 821
+- Asynchronous Raids on Player Bases | 822
+
+### Creature Collecting and Taming
+
+- Capture Mechanic with Weakening | 824
+- Breeding with Inherited Traits | 825
+- Bonding and Trust Taming | 826
+- Type Chart and Party Synergy | 827

@@ -743,3 +743,270 @@ Each line: `Name | line number in audio_visual_style_full.md`. Open audio_visual
 - Low-Health Vignette and Heartbeat | 597
 - Damage Direction Indicators | 598
 - Focus Dimming for Key Actions | 599
+
+## Visual Wayfinding and Environmental Readability
+
+### Landmarks and Silhouettes
+
+- Weenie Tower (Distant Beacon) | 602
+- Silhouette Test Skyline | 603
+- Triangle Rule Hills (Peak Layering) | 604
+- Hero Prop Landmark Cluster | 605
+- Vertical Contrast Marker | 606
+- Ruined Skeleton Landmark (Giant Bones) | 607
+- Sky Anchor Object | 608
+
+### Leading Lines and Composition
+
+- River as Natural Arrow | 610
+- Path Wear Trails | 611
+- Architectural Funnel | 612
+- Cable and Pipe Guideline | 613
+- Light Shaft Pointer | 614
+- Rule of Thirds Vista Frame | 615
+
+### Light as Guide
+
+- Warm Light in Cold Spaces | 617
+- Brightness Gradient Corridor | 618
+- Light Pool Stepping Stones | 619
+- Glowing Flora Trail | 620
+- Day-Night Landmark Swap | 621
+- Sun Direction Compass | 622
+
+### Color-Coded Affordances
+
+- Yellow Paint Climbable | 624
+- Red Means Hazard | 625
+- Interactive Sheen Highlight | 626
+- Breakable Wall Cracks | 627
+- Material Language Rules | 628
+- Color-Keyed Locks and Doors | 629
+- Saturation Spotlighting | 630
+
+### Negative Space, Scale and Vistas
+
+- Empty Plaza Pause | 632
+- Giant Scale Cue (Tiny Doorway) | 633
+- Fog Depth Layering | 634
+- Vista Reward Overlook | 635
+- Dead-End Dressing Contrast | 636
+
+### Breadcrumbing and Environmental Storytelling Trails
+
+- Item Breadcrumb Line | 638
+- Enemy Corpse Trail | 639
+- Footprint and Blood Trail | 640
+- Audio-Visual Echo Pairing | 641
+
+### Shape Language
+
+- Circle Safe Square Strong Triangle Danger | 643
+- Faction Silhouette Signatures | 644
+- Biome Palette and Form Identity | 645
+- Gameplay Role Color Banding | 646
+- Silhouette Readable Characters (Role Tiers) | 647
+
+## Character, Enemy and Creature Visual Design Language
+
+### Silhouette and Shape Psychology
+
+- Three-Shape Rule (Circle, Square, Triangle) | 650
+- Black-Fill Silhouette Test | 651
+- Asymmetric Hero Outline | 652
+- Weapon-as-Silhouette Extension | 653
+- Negative Space Identity | 654
+
+### Color-Coding by Role and Faction
+
+- Faction Palette Lock | 656
+- Team Color Mask Channel | 657
+- Role Glow Accents | 658
+- Threat Hue Ladder | 659
+- Corruption Color Bleed | 660
+- Friend or Foe Outline Shader | 661
+
+### Readable Enemy Telegraphs and Tiers
+
+- Wind-Up Pose Exaggeration | 663
+- Color-Flash Attack Classes | 664
+- Elite Accessory Tiering | 665
+- Size-Equals-Threat Ladder | 666
+- Glowing Weak Point Marking | 667
+- Wounded State Silhouette Change | 668
+- Idle Behavior Tells | 669
+
+### Boss Design
+
+- Environmental Scale Boss | 671
+- Multi-Phase Silhouette Transformation | 672
+- Mirror Rival Boss | 673
+- Boss With Visible Anatomy Puzzle | 674
+- Elegant Duelist Design | 675
+
+### Costume and Gear Evolution
+
+- Visible Gear Progression | 677
+- Tiered Armor Material Language | 678
+- Transmog Style Layer | 679
+- Costume Reflects Story Chapter | 680
+- Class Promotion Redesign | 681
+
+### Customization Aesthetics
+
+- Palette Swap Dye System | 683
+- Silly Hat Economy | 684
+- Modular Body Sculpting Sliders | 685
+- Emblem and Decal Editor | 686
+
+### Mascots and Iconic Character Design
+
+- Mascot Bold Simplicity | 688
+- Walking Brand Logo Character | 689
+- Sidekick Contrast Pairing | 690
+
+### Proportions, Cuteness and Menace
+
+- Chibi Heads Large Eyes | 692
+- Uncanny Elongation Menace | 693
+- Cute Enemy With Teeth | 694
+
+### Visual Storytelling Through Wear, Scars and Accessories
+
+- Battle Scar Accumulation | 696
+- Weathered Equipment Patina | 697
+- Trophy and Charm Accessories | 698
+- Environmental Residue on Characters | 699
+
+## Voice, Dialogue and Narration Audio
+
+### Full Voice Acting
+
+- Fully Voiced Cast | 702
+- Silent Protagonist with Voiced World | 703
+- Branching Performance Takes | 704
+- Dynamic Voice Splicing | 705
+- Performance Capture Sessions | 706
+- Celebrity and Cult-Voice Casting | 707
+
+### Gibberish and Abstract Speech
+
+- Simlish-Style Invented Language | 709
+- Constructed Language with Real Grammar | 710
+- Animal-Noise Dialogue | 711
+- Mumble Speech Over Expressive Animation | 712
+- Single Spoken Word Moments | 713
+
+### Text Blips and Typewriter Sound
+
+- Per-Character Text Blips | 715
+- Pitch-Mapped Letter Melodies | 716
+- Syllable-Timed Murmur Samples | 717
+- Typing Effect with Emphatic Timing | 718
+
+### Narrator-Driven Games
+
+- Reactive Omniscient Narrator | 720
+- Fairytale Storyteller Tone | 721
+- Noir Monologue Narration | 722
+- Documentary-Style Nature Narrator | 723
+- Sports Commentator Duo | 724
+
+### Barks and Companion Chatter
+
+- Contextual Combat Barks | 726
+- Squadmate Banter Trees | 727
+- Idle Chatter and Rest Commentary | 728
+- Memory-Aware Companion Remarks | 729
+- Crowd and Ambient NPC Murmur | 730
+- Systemic Enemy Alert Dialogue | 731
+
+### Radio, Diegetic Voice and Audio Logs
+
+- In-World Radio Broadcasts | 733
+- Walkie-Talkie Handler Voice | 734
+- Collectible Audio Logs | 735
+- Answering Machine and Voicemail Stories | 736
+- Intercom and Public Address Voices | 737
+- Proximity Voice Chat as Mechanic | 738
+
+### Voice Processing and Character Effects
+
+- Vocoder Robot Voices | 740
+- Layered Monster Vocals | 741
+- Pitch-Shifted Alien Speech | 742
+- Reverb and Space Matching | 743
+- Ghostly Whisper Layers | 744
+
+### Localization, Casting and Emotional Direction
+
+- Multilingual Dub Selection | 746
+- Authentic Regional Casting | 747
+- Emotional Direction Through Scene Context | 748
+- Whispered and Breathy Intimacy Direction | 749
+- Voice Fatigue and Stress Acting | 750
+
+## Presentation, Branding and Immersive Media (Title, Trailers, VR/AR)
+
+### Title Screens and Branding
+
+- Living Diorama Title Screen | 753
+- Press Any Button Teaser Loop | 754
+- Save-State Reactive Title Card | 755
+- Wordmark as World Object | 756
+- Dual-Tone Logo System | 757
+- Boot Sequence Fiction | 758
+- Mascot-Driven Branding | 759
+
+### Key Art and Box Art
+
+- Painterly Cover Illustration | 761
+- Minimalist Silhouette Poster | 762
+- Retro Airbrush Box Art | 763
+- Ukiyo-e Inspired Key Art | 764
+- Collage Cutout Cover | 765
+- Reversible Alternate Cover Art | 766
+
+### Trailer and Marketing Aesthetics
+
+- Fake Documentary Trailer | 768
+- Single-Shot Gameplay Trailer | 769
+- Silent Teaser with Sound Cue | 770
+- Mechanic Loop Trailer | 771
+- Cinematic CG Contrast Trailer | 772
+- Demo-Day Streaming Showcase | 773
+- Diegetic Ad Campaign | 774
+
+### Menus and Loading Screens
+
+- Menu as Physical Object | 776
+- Loading Screen Mini-Game | 777
+- Lore Card Loading Tips | 778
+- Concealed Loading Transitions | 779
+- Adaptive Menu Soundtrack | 780
+- Contextual Loading Art by Destination | 781
+
+### Photo Mode and Replay Presentation
+
+- Cinematic Photo Mode | 783
+- Auto-Director Replay | 784
+- Killcam Narrative Rewind | 785
+- Ghost Race Replays | 786
+
+### XR Visual and Audio Presentation
+
+- Comfort-Driven Cockpit Frame | 788
+- Dynamic Vignette Tunneling | 789
+- Teleport Arc Ritual | 790
+- Worldspace Wrist and Hand UI | 791
+- Hand Presence Stylization | 792
+- Spatial Audio Landmarks | 793
+- AR Anchored Overlay Characters | 794
+- Passthrough Mixed Reality Rooms | 795
+
+### Mobile and Low-Spec Visual Strategies
+
+- Baked Lighting Illusion | 797
+- Flat-Shaded Low Poly Style | 798
+- Palette-Swap Efficiency | 799
+- Dynamic Resolution Pixel Scaling | 800

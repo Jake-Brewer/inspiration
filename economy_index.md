@@ -821,3 +821,232 @@ Each line: `Name | line number in economy_full.md`. Open economy_full.md at that
 - Central Bank and Interest Rate Mechanic | 650
 - Business Cycle Events | 651
 - Open Ledger Economy Dashboard | 652
+
+## Production Chains, Crafting Economies, and Industrial Automation
+
+### Factory Lines and Logistics
+
+- Belt Balancer Mainline | 655
+- Ratio Blueprint Planning | 656
+- Bottleneck Hunting Heatmap | 657
+- Train Network Signals | 658
+- Drone Logistics Hubs | 659
+- Pipe Fluid Throughput | 660
+- Power Grid as Input | 661
+- Sushi Belt Mixed Lanes | 662
+- Overflow and Backpressure | 663
+- Mall Automation Hub | 664
+
+### Recipe Trees and Value-Add
+
+- Deep Recipe Tier Ladder | 666
+- Multi-Input Assembly Recipes | 667
+- Byproduct Management Puzzle | 668
+- Cracking and Conversion Loops | 669
+- Alternate Recipe Unlocks | 670
+- Quality Tiers on Crafted Goods | 671
+- Prestige Luxury Finishing | 672
+- Mass Versus Bespoke Production | 673
+
+### City Builders and Tycoons
+
+- Consumer Need Tiers | 675
+- Island Specialization Trade | 676
+- Cargo Payment by Distance | 677
+- Industry Growth Feedback | 678
+- Corporate Vertical Integration | 679
+- Warehouse Stockpile Policy | 680
+- Seasonal Harvest Cycles | 681
+- Settlement Specialist Buildings | 682
+
+### Player-Driven and Cooperative Crafting
+
+- Profession Interdependence Web | 684
+- Recipe Mastery Specialization | 685
+- Commission Crafting Boards | 686
+- Shared Guild Workshop | 687
+- Gathering Node Competition | 688
+- Crafting Failure and Catalysts | 689
+- Apprentice Chain Training | 690
+- Blueprint Research and Licensing | 691
+
+### Automation Progression
+
+- Manual to Machine Ladder | 693
+- Programmable Logistics Robots | 694
+- Circuit Signal Automation | 695
+- Late Game Megabase Scaling | 696
+- Closed Loop Ecosystem Factory | 697
+- Idle Production Multipliers | 698
+
+## Monetization-Driven Economies: Premium Currencies, Gacha, Battle Passes, and Real-Money Trade
+
+### Currency Architecture
+
+- Soft and Hard Currency Split | 701
+- Awkward Bundle Sizing | 702
+- Tri-Currency Ladder | 703
+- Event Tokens With Expiry | 704
+- Currency Obfuscation Layer | 705
+- Earnable Premium Trickle | 706
+- Currency Sunsetting and Conversion | 707
+
+### Gacha and Randomized Rewards
+
+- Pity Counter | 709
+- Soft Pity Ramp | 710
+- Fifty-Fifty Guarantee | 711
+- Rate-Up Banners | 712
+- Currency-Only Pull Tickets | 713
+- Duplicate Conversion | 714
+- Loot Box Disclosure Rules | 715
+- Direct-Purchase Alternative | 716
+
+### Passes, Subscriptions, and Timers
+
+- Seasonal Battle Pass | 718
+- Pass Currency Refund Loop | 719
+- Catch-Up Pass Mechanics | 720
+- Monthly Card Stipend | 721
+- Stamina and Energy Meters | 722
+- Wait-Or-Pay Build Timers | 723
+- Bounded Skip Pricing | 724
+- Free-to-Play Ad Rewards | 725
+
+### Real-Money Trade and Grey Markets
+
+- Gold Farming Operations | 727
+- Official Auction With Cash Cut | 728
+- Account Selling Grey Market | 729
+- Soulbound Anti-Trade Rule | 730
+- Trade Restrictions With Cooldowns | 731
+- Skin Marketplace Speculation | 732
+- Currency Laundering and Fraud | 733
+
+### Blockchain, Ethics, and Regulation
+
+- Play-To-Earn Token Economy | 735
+- NFT Asset Ownership | 736
+- Scholarship Guild Lending | 737
+- Whale-Dependent Revenue Model | 738
+- Spending Caps and Cooling-Off | 739
+- Fair-Monetization Pledge | 740
+- Fiction-Aware Monetization | 741
+- Monetization Shapes Scarcity | 742
+
+## Idle, Incremental, and Exponential-Growth Economies
+
+### Core Loops and Generators
+
+- Manual Click Seed Loop | 745
+- Tiered Generator Ladder | 746
+- Generator Producing Generators | 747
+- Manager Automation Unlock | 748
+- Cycle Timer Businesses | 749
+- Synergy Adjacency Bonuses | 750
+- Milestone Multiplier Thresholds | 751
+
+### Cost Curves and Number Scaling
+
+- Geometric Cost Escalation | 753
+- Cost Curve Versus Output Curve Gap | 754
+- Bulk Buy Modes | 755
+- Scientific and Suffix Notation | 756
+- Absurd Naming Ladders | 757
+- Big Number Library Engine | 758
+- Logarithmic Progress Display | 759
+- Layered Currency Pyramid | 760
+
+### Prestige and Reset Layers
+
+- Classic Prestige Reset | 762
+- Square Root Prestige Formula | 763
+- Second-Order Prestige Layer | 764
+- Prestige-Locked Content Gates | 765
+- Challenge Run Modifiers | 766
+- Ascension Heavenly Chips | 767
+- Legacy Seed Inheritance | 768
+
+### Offline Progress and Time
+
+- Offline Earnings Catch-Up | 770
+- Offline Efficiency Cap | 771
+- Time Warp Boost Items | 772
+- Daily Check-In Streak Bonus | 773
+- Calendar Event Seasons | 774
+- Wall Clock Timers | 775
+
+### Soft Caps, Friction, and Pacing
+
+- Soft Cap Diminishing Returns | 777
+- Hard Wall Progress Gate | 778
+- Golden Click Random Events | 779
+- Active Versus Idle Play Balance | 780
+- Heat and Overclock Trade-offs | 781
+
+### The Economy as the Game
+
+- Spreadsheet Optimization Meta | 783
+- Number Go Up Fantasy | 784
+- Idle Hybrid with Combat | 785
+- Narrative Idle Framing | 786
+- End-of-Game Closure Condition | 787
+
+## Labor, Property, Housing, and Business Ownership Economies
+
+### Wages and Jobs
+
+- Career Ladder Paychecks | 790
+- Gig Board Contracts | 791
+- Apprenticeship Indenture | 792
+- Skill-Gated Wage Scaling | 793
+- Tipping and Customer Mood | 794
+- Workers' Strike Mechanic | 795
+- Company Scrip Wages | 796
+
+### Rent, Mortgages, and Housing
+
+- Weekly Rent Collector | 798
+- Mortgage Amortization Ladder | 799
+- Starter Home Upgrades | 800
+- Housing Market Bubble | 801
+- Roommate Rent Splitting | 802
+- Landlord Simulator | 803
+- Homestead Land Claim | 804
+
+### Property Ownership and Upkeep
+
+- Property Tax Assessor | 806
+- Wear and Decay Upkeep | 807
+- Insurance Premiums and Payouts | 808
+- Guild Hall Ownership | 809
+- Ruined Estate Restoration | 810
+- Property Deed Trading | 811
+
+### Shops and Businesses
+
+- Run the Shop Loop | 813
+- Farm Shop and Market Stall | 814
+- Theme Park Admission Tycoon | 815
+- Franchise Expansion | 816
+- Restaurant Kitchen Management | 817
+- NPC Rival Merchants | 818
+- Customer Wish Lists | 819
+- Cooperative Ownership Model | 820
+
+### Corporations, Industry, and Speculation
+
+- Player Corporation Industry Chains | 822
+- Stock Market Speculation | 823
+- Commodities Futures Contracts | 824
+- Corporate Takeover Bids | 825
+- Pump and Dump Scheme | 826
+- Venture Funding Rounds | 827
+
+### NPC Economic Simulation
+
+- Population Needs Pyramid | 829
+- Supply and Demand Price Curves | 830
+- Autonomous Caravan Traders | 831
+- Migration and Labor Pools | 832
+- Event-Driven Economic Shocks | 833

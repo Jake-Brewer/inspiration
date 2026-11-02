@@ -767,3 +767,249 @@ Each line: `Name | line number in ability_full.md`. Open ability_full.md at that
 - Quicksand Pit (Sinking Trap) | 597
 - Mirror Decoy (Illusion Clone) | 598
 - Time Rewind (Position Recall) | 599
+
+## Ability Costs, Casting Models and Synergy Systems
+
+### Resource Pools
+
+- Mana Pool with Slow Regeneration | 602
+- Stamina Wheel (Action Budget) | 603
+- Rage Generator (Damage Taken Fuels Power) | 604
+- Heat and Overheat Gauge | 605
+- Ammo as Ability Cost | 606
+- Health-as-Cost (Blood Magic) | 607
+- Combo Points Builder-Spender | 608
+- Dual Resource Opposition | 609
+- Sacrificial Ally or Minion Cost | 610
+- Time-of-Day Power Tides | 611
+
+### Timing and Delivery Models
+
+- Pure Cooldown Rotation | 613
+- Charge-Based Abilities | 614
+- Cast Time with Movement Penalty | 615
+- Channeled Beam Casting | 616
+- Hold-to-Charge, Release-to-Fire | 617
+- Tap Versus Hold Variants | 618
+- Rhythm-Locked Casting | 619
+- Gestural or Drawn Spellcasting | 620
+
+### Loadouts and Learning
+
+- Hotbar Slot Limits | 622
+- Vancian Memorization | 623
+- Spellbook Scribing and Transcription | 624
+- Rune Combining Grammar | 625
+- Modular Spell Crafting Workbench | 626
+- Support Gems Socketed into Skills | 627
+- Ability Pairing via Equipment | 628
+- Learn by Using or Observing | 629
+
+### Synergy and Combination
+
+- Elemental Reaction Matrix | 631
+- Prime and Detonate Chains | 632
+- Status Effect Interplay | 633
+- Combo String Cancels | 634
+- Cross-Class Synergy Auras | 635
+- Team Ultimate Meter | 636
+- Tag-Based Passive Triggers | 637
+- Chain Reaction Environmental Combos | 638
+- Fusion and Overlap Casting | 639
+
+### Interrupts and Counters
+
+- Interrupt and Lockout Rules | 641
+- Counterspell Prediction Game | 642
+- Parry and Perfect-Block Windows | 643
+- Poise and Stagger Thresholds | 644
+- Backlash and Miscast Tables | 645
+
+## Time, Space, Gravity and Reality-Warping Powers
+
+### Time Control
+
+- Time Stop (Frozen Seconds) | 648
+- Rewind Pulse | 649
+- Slow Field (Molasses Bubble) | 650
+- Haste Aura (Quickened Allies) | 651
+- Time Loop (Groundhog Day Trial) | 652
+- Temporal Echo (Past Self Ally) | 653
+- Age Acceleration (Withering Touch) | 654
+- Chrono Debt (Borrowed Turns) | 655
+- Stasis Capsule (Preserved Moment) | 656
+
+### Space and Portals
+
+- Portal Pair (Linked Doorways) | 658
+- Spatial Fold (Pocket Shortcut) | 659
+- Pocket Dimension (Hidden Vault) | 660
+- Bigger on the Inside (Tardis Room) | 661
+- Spatial Shear (Dimensional Slice) | 662
+- Distance Swap (Place Exchange) | 663
+- Wormhole Tether (Linked Gateway Network) | 664
+
+### Gravity and Scale
+
+- Gravity Flip (Ceiling Walker) | 666
+- Weightless Field (Zero-G Burst) | 667
+- Crushing Weight (Heavy Hand) | 668
+- Magnetic Orbit (Planetary Shield) | 669
+- Shrink Ray (Lesser Size) | 670
+- Giant Growth (Titan Form) | 671
+- Scale Swap (Worlds in Miniature) | 672
+
+### Phasing and Dimensions
+
+- Phase Shift (Ghost Walk) | 674
+- Selective Intangibility (Partial Phase) | 675
+- Dimension Shift (Shadow Side Toggle) | 676
+- Reality Layer Peek (Veil Sight) | 677
+- Void Step (Between Spaces) | 678
+- Mirror World Crossing (Reflection Gate) | 679
+
+### Probability, Luck and Fate
+
+- Probability Shift (Loaded Dice) | 681
+- Fortune's Reroll (Second Chance) | 682
+- Curse of Misfortune (Hex of Slips) | 683
+- Fate Thread (Destiny Bind) | 684
+- Foresight Branches (Possible Futures) | 685
+
+### Reality Rewriting
+
+- Summon by Rewrite (Edit Into Existence) | 687
+- Matter Transmutation (Alchemy of Everything) | 688
+- Physics Override (Law Break) | 689
+- World-State Edit (Console Command) | 690
+- Retcon Strike (Undo Event) | 691
+- Paradox Anchor (Fixed Point) | 692
+- Paradox Backlash (Causal Fracture) | 693
+- Reality Anchor (Null Zone) | 694
+
+## Commander, Strategic and God-Game Powers
+
+### RTS and MOBA Hero Abilities
+
+- Global Teleport Recall | 697
+- Cooldown Ultimate Barrage | 698
+- Aura of Command | 699
+- Hex of Polymorph Swarm | 700
+- Last-Stand Resurrection Totem | 701
+- Worker Sacrifice Overcharge | 702
+
+### Tactics-Game Class Skills
+
+- Overwatch Reaction Volley | 704
+- Rally Cry Initiative Swap | 705
+- Phalanx Formation Lock | 706
+- Mark the Quarry | 707
+- Sacrificial Banner Plant | 708
+
+### Army-Wide Commands and Morale
+
+- Forced March Order | 710
+- Berserker Warhorn Blast | 711
+- Scorched Earth Directive | 712
+- Rousing Speech Before Battle | 713
+- Feigned Retreat Maneuver | 714
+- Decimation Discipline | 715
+
+### 4X Wonders and National Powers
+
+- Hanging Gardens Wonder | 717
+- Great Library of Shared Techs | 718
+- Mandate of Heaven Decree | 719
+- Silk Road Caravan Network | 720
+- Unique Civilization Ability (Steppe Horde) | 721
+- Space Race Launch Window | 722
+- Cultural Conversion Edict | 723
+
+### God-Game Miracles and Divine Interventions
+
+- Rain of Fire Judgment | 725
+- Bountiful Harvest Blessing | 726
+- Plague of Locusts | 727
+- Sculpt the Land | 728
+- Prophet Ascension | 729
+- Commandment Tablet | 730
+- Great Flood Reset | 731
+
+### Base and Faction Special Powers
+
+- Chronal Rift Superweapon | 733
+- Hive Mind Creep Spread | 734
+- Nanite Repair Pulse | 735
+- Spy Network Sabotage Cell | 736
+- Doomsday Reactor Meltdown | 737
+
+### Support Calls, Orbital Strikes and Killstreaks
+
+- Airstrike Smoke Marker | 739
+- Orbital Laser Lance | 740
+- Supply Drop Crate | 741
+- Killstreak Reward Chain | 742
+
+### Tower and Trap Activated Abilities
+
+- Tower Overcharge Switch | 744
+- Ward Lattice Detonation | 745
+- Pit Trap Chain Reaction | 746
+
+## Music, Voice, Rune and Ritual Magic
+
+### Songs and Performance
+
+- Rhythm Aura Ballad | 749
+- Dissonant Counter-Chord | 750
+- Lullaby of Slumber | 751
+- War Drum Cadence | 752
+- Harmony Stacking Chorus | 753
+- Taunting Mockery Verse | 754
+- Siren Call (Luring Song) | 755
+- Sheet Music Spellbook | 756
+- Instrument Resonance Crafting | 757
+- Ocarina Melody Warp | 758
+
+### Shouts and Words of Power
+
+- Dragon Shout Word Layers | 760
+- Voice of Command (Compulsion) | 761
+- True Name Binding | 762
+- Battle Cry Morale Surge | 763
+- Thunderclap Shockwave Shout | 764
+- Whispered Secret Word | 765
+- Silence Hex Ward | 766
+- Echo Repeat Utterance | 767
+
+### Runes, Sigils and Glyphs
+
+- Carved Rune Stone Imbue | 769
+- Rune Word Sequencing | 770
+- Chalk Sigil Trap | 771
+- Gesture-Drawn Spell Shapes | 772
+- Living Glyph Wall | 773
+- Tattoo Sigil Perk Skin | 774
+- Ward Circle Barrier | 775
+- Cipher Script Unlocking | 776
+
+### Totems, Rituals and Sacrifice
+
+- Elemental Totem Placement | 778
+- Ancestor Spirit Totem Pole | 779
+- Circle Casting Ritual | 780
+- Blood Sacrifice Empowerment | 781
+- Moonlit Ritual Timing | 782
+- Summoning Ceremony Components | 783
+- Communal Prayer Channel | 784
+- Binding Pact Contract | 785
+- Funeral Rite Soul Release | 786
+- Dance Trance Invocation | 787
+
+### Sound and Vibration Weapons
+
+- Sonic Lance Beam | 789
+- Resonance Shatter Pulse | 790
+- Infrasound Dread Field | 791
+- Seismic Bass Drop | 792
+- Mind-Shattering Psionic Scream | 793

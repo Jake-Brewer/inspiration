@@ -763,3 +763,245 @@ Each line: `Name | line number in game_mode_full.md`. Open game_mode_full.md at 
 - Rhythm Dungeon Crawler | 599
 - Puzzle Fighting Hybrid | 600
 - Hero Shooter Moba Blend | 601
+
+## Persistent Worlds, MMOs, and Live-Service Structures
+
+### Zones, Instances, and Hubs
+
+- Open Zone Overworld (Seamless Continent) | 604
+- Dungeon Instance (Private Copy) | 605
+- Hub City Social Plaza | 606
+- Phased World Layering | 607
+- Channel and Shard Overflow | 608
+- Matchmade Dungeon Finder | 609
+- Scaling Group Content (Level Sync) | 610
+
+### World Events and Bosses
+
+- World Boss Spawn Window | 612
+- Server-Wide Invasion Event | 613
+- Dynamic Meta-Event Chain | 614
+- Live Narrative Finale | 615
+- Cross-Server Raid Weekend | 616
+- Roaming Calamity (Moving Disaster) | 617
+
+### Guilds, Territory, and Faction Wars
+
+- Guild Hall and Shared Vault | 619
+- Castle Siege Weekend | 620
+- Territory Control Map | 621
+- Realm-vs-Realm Frontier | 622
+- Faction Allegiance Choice | 623
+- Clan Wars Ladder | 624
+- Alliance Coalition Layer | 625
+
+### Player-Run Societies
+
+- Sovereignty Null-Zone | 627
+- Player-Driven Economy Market | 628
+- Wipe-Cycle Survival Server | 629
+- Permanent Death Wasteland Server | 630
+- Player Governance Council | 631
+- Roleplay Server Constitution | 632
+- Emergent Piracy and Smuggling Lanes | 633
+
+### Seasons and Resets
+
+- Seasonal Ladder Reset | 635
+- Fresh-Start Seasonal Realms | 636
+- Battle Pass Track | 637
+- Expansion Level Squish | 638
+- Legacy Realm Archive | 639
+
+### Cadence, Cross-Play, and Endgame
+
+- Weekly Raid Lockout Rhythm | 641
+- Patch-Season Content Cadence | 642
+- Cross-Play Shared Lobby | 643
+- Mega-Server Seamless Sharding | 644
+- Endgame Prestige Loop | 645
+- Sunset and Final Event | 646
+- Private Server Afterlife | 647
+
+## Idle, Incremental, and Casual-Mobile Loop Modes
+
+### Clicker and Incremental Structures
+
+- Pure Clicker Core | 650
+- Generator Ladder | 651
+- Exponent Spiral Incremental | 652
+- Active-Idle Hybrid | 653
+- Automation Unlock Chain | 654
+- Thematic Idle Skin | 655
+- Spreadsheet Sim Idle | 656
+
+### Prestige and Reset Loops
+
+- Prestige Reset for Permanent Multiplier | 658
+- Layered Prestige Tiers | 659
+- Rebirth With Class Change | 660
+- Soft Prestige Without Wipe | 661
+- Challenge Run Resets | 662
+
+### Offline Progress and Timers
+
+- Offline Earnings Report | 664
+- Capped Offline Accumulation | 665
+- Real-Time Build Timers | 666
+- Energy and Stamina Pool | 667
+- Refill Sources Beyond Payment | 668
+- Time Skip Tokens | 669
+
+### Daily Login and Streak Loops
+
+- Daily Login Calendar | 671
+- Streak Counter With Grace | 672
+- Daily Quest Triplet | 673
+- Weekly Milestone Chest | 674
+- Comeback Bonus for Lapsed Players | 675
+
+### Gacha and Collection Loops
+
+- Gacha Pull Banner | 677
+- Pity Counter Guarantee | 678
+- Duplicate Conversion Currency | 679
+- Collection Album Completion | 680
+- Rotating Limited Banner | 681
+- Bond and Affinity Unlocks | 682
+
+### Merge and Match Ladders
+
+- Merge Tier Board | 684
+- Merge Restoration Meta | 685
+- Match-Three Level Ladder | 686
+- Booster Combo Crafting | 687
+- Lives and Hearts Gate | 688
+- Map Progress Road | 689
+
+### Short-Session and Ethical Design
+
+- Ninety-Second Session Loop | 691
+- One-Thumb Portrait Controls | 692
+- Natural Stopping Cue | 693
+- Transparent Odds and Spend Caps | 694
+- Cosmetic-Only Monetization | 695
+- Dark Pattern Avoidance Checklist | 696
+
+## Card, Board, and Tabletop-Derived Formats
+
+### Trading Card Game Formats
+
+- Constructed Ladder (Best-of-One) | 699
+- Constructed Best-of-Three with Sideboard | 700
+- Booster Draft Pod | 701
+- Sealed Deck Event | 702
+- Cube Draft (Curated Pool) | 703
+- Rotating Standard Window | 704
+- Singleton Multiplayer Commander | 705
+- Eternal Format (Legacy Power Cap) | 706
+- Arena Draft with Hero Class | 707
+- Deckbuilder Duel Solo Climb (Roguelike Card Run) | 708
+- Pauper Constraint Format | 709
+- Proxy-Friendly Kitchen Table League | 710
+
+### Digital Board Game Adaptations
+
+- Asynchronous Correspondence Play | 712
+- Automated Rules Engine with Hot Seat | 713
+- Digital Dice Tower with Visible Odds | 714
+- AI Opponent Difficulty Ladder | 715
+- Campaign Overlay for Single Matches | 716
+- Variant Rule Toggles and Mutators | 717
+
+### Tabletop RPG Session Shapes
+
+- One-Shot Adventure | 719
+- Long-Running Campaign Saga | 720
+- West Marches Open Table | 721
+- Megadungeon Delve | 722
+- GM-less Collaborative Storytelling | 723
+- Fiction-First Narrative Framework | 724
+- Play-by-Post Forum Campaign | 725
+- Mystery Investigation Scenario | 726
+- Sanity-Driven Horror Campaign | 727
+
+### Legacy and Campaign Board Games
+
+- Legacy Persistent Board | 729
+- Scenario Chain Campaign Book | 730
+- Cooperative Dungeon Crawler Box | 731
+- Pandemic-Style Outbreak Race | 732
+- Seasonal Calendar Campaign | 733
+
+### Wargame Skirmish and Scenarios
+
+- Narrative Skirmish Warband Campaign | 735
+- Asymmetric Scenario Briefing (Attacker versus Defender) | 736
+- Operational Map with Tactical Battles | 737
+- Solo Wargame with Automated Opponent | 738
+- Co-op Versus the System (Tower Defense Table) | 739
+
+## Difficulty, Onboarding, and Accessibility Modes
+
+### Tutorials and First-Time Experience
+
+- Invisible Tutorial Level | 742
+- Contextual Just-In-Time Prompts | 743
+- Training Dummy Playground | 744
+- Fake Opening Power Fantasy | 745
+- Mentor Companion Tutorial | 746
+- Skippable Interactive Primer Card Deck | 747
+- Failure-Gated Teaching | 748
+- First Match Bot Warm-Up | 749
+
+### Difficulty Selection and Dynamic Adjustment
+
+- Named Difficulty Ladder with Flavor Tiers | 751
+- Per-Parameter Difficulty Sliders | 752
+- Rubber-Band Racing AI | 753
+- Invisible Adaptive Director | 754
+- Hidden Mercy After Repeated Death | 755
+- Challenge Rank Modifiers | 756
+- Ironman Permadeath Toggle | 757
+- Difficulty Locked Behind Mastery | 758
+
+### Assist Modes and Accessibility
+
+- Assist Menu with Zero Stigma | 760
+- Aim Assist Strength Dial | 761
+- Colorblind Palette Swap and Shape Cues | 762
+- One-Switch Auto-Play Mode | 763
+- Audio Cues for the Visual World | 764
+- Remappable Everything with Hold-to-Toggle Swaps | 765
+- Time-Dilation Assist | 766
+- Skip-Puzzle Option with Narrative Payoff | 767
+
+### Story, Relaxed, and Cozy Modes
+
+- Story Mode Combat Opt-Out | 769
+- Cozy Mode with No Fail State | 770
+- Photo Mode Sanctuary | 771
+- Pacifist Run Route | 772
+- Wandering Mode Free Roam Credits | 773
+
+### Handicaps and Mixed-Skill Play
+
+- Spawn-Advantage Handicap System | 775
+- Catch-Up Mechanics in Party Races | 776
+- Asymmetric Skill Roles | 777
+- Stacking Score Handicap Percentages | 778
+
+### Practice, Training, and Replay
+
+- Frame Data Training Mode | 780
+- Ghost Replay Racing | 781
+- Boss Rush Practice Gym | 782
+- Full Match Replay with Free Camera | 783
+
+### Spectators, Menus, and Lobbies
+
+- Spectator Mode with Delayed Broadcast | 785
+- Audience Participation Voting | 786
+- Playlist Rotation Menu | 787
+- Custom Lobby Rule Editor | 788
+- Private Match with Invite Codes | 789

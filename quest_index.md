@@ -775,3 +775,240 @@ Each line: `Name | line number in quest_full.md`. Open quest_full.md at that lin
 - Adjustable Tracking Marker | 609
 - Quest Board Sorting and Filtering | 610
 - Completion Summary Screen | 611
+
+## Strategy, Tactical and Shooter Mission Design
+
+### RTS and 4X Scenarios
+
+- Hold the Line (Timed Defense Scenario) | 614
+- Rescue the Stranded Hero (Escort Convoy Scenario) | 615
+- Base Under Siege Inversion (Attacker Becomes Defender) | 616
+- Tech-Lock Scenario (Limited Roster Challenge) | 617
+- Wonder Race (4X Victory Sprint) | 618
+- Diplomatic Hostage Scenario (Non-Military Victory) | 619
+- Resource Famine Campaign Map (Scarcity Scenario) | 620
+- Fog Reveal Siege (Scouting-First Objective) | 621
+- Dual Front Campaign (Split Command Mission) | 622
+
+### Tactics-Game Battle Maps
+
+- Escort the Noble (Tactical VIP Protection) | 624
+- Assassinate the Commander (Decapitation Map) | 625
+- Route the Rearguard (Defend Until Retreat Map) | 626
+- Seize the Throne Tile (Capture Point Battle) | 627
+- Rising Tide Map (Environmental Hazard Battle) | 628
+- Reinforcement Gate Battle (Spawn Control Map) | 629
+- Prison Break Skirmish (Free the Captives Map) | 630
+- Thief and Treasure Map (Chest Rush Objective) | 631
+- Reversal of Fortune Battle (Scripted Betrayal Map) | 632
+
+### Shooter and Action Set Pieces
+
+- Breach and Clear (Room Entry Mission) | 634
+- Hold the Elevator (Wave Defense Set Piece) | 635
+- Escort Through the Burning City (Moving Safe Zone) | 636
+- Stealth Infiltration Lane (Silent Approach Mission) | 637
+- Vehicle Chase Set Piece (Pursuit Objective) | 638
+- Sniper Overwatch Mission (Cover Fire Objective) | 639
+- Boss Gauntlet Finale (Multi-Phase Encounter) | 640
+- Timed Self-Destruct Escape (Reverse Objective) | 641
+
+### Secondary Objectives and Scoring
+
+- Optional Bonus Objective (Side Goal Within a Mission) | 643
+- Par Time Medal (Speedrun Rank Target) | 644
+- Rank Scoring Ladder (S to D Grade System) | 645
+- No-Casualty Clause (Perfect Squad Bonus) | 646
+- Hidden Objective Reveal (Discovered Mission Goal) | 647
+- Stylish Kill Combo Score (Performance Multiplier) | 648
+
+### Briefings, Loadouts and Escalation
+
+- Cinematic Mission Briefing (Pre-Mission Intelligence Screen) | 650
+- Loadout Selection Dilemma (Limited Slots Preparation) | 651
+- Twist Mid-Mission Escalation (Objective Reversal) | 652
+- Gauntlet Escalation Ladder (Rising Difficulty Phases) | 653
+
+### Puzzle-Level Goal Structures
+
+- Three-Star Puzzle Goals (Tiered Completion Targets) | 655
+- Minimum Move Optimal Solution (Efficiency Puzzle Goal) | 656
+- Constraint Challenge Level (Rule-Limited Puzzle Variant) | 657
+
+## Co-op, Multiplayer and MMO Group Objectives
+
+### Dungeons, Raids and Instances
+
+- Five-Player Dungeon Crawl | 660
+- Multi-Boss Raid Wing | 661
+- Mechanic-Gated Boss Phases | 662
+- Wipe-and-Retry Learning Loop | 663
+- Keystone Scaling Dungeon | 664
+- Hard-Mode Toggle Encounter | 665
+- Timed Heist Instance | 666
+- Puzzle Dungeon Relay | 667
+- Roguelike Co-op Descent | 668
+
+### Public Events and Open-World Groups
+
+- Roaming World Boss Spawn | 670
+- Dynamic Public Event Chain | 671
+- Contribution-Tiered Rewards | 672
+- Convoy Defense Caravan | 673
+- Zone Siege Takeover | 674
+- Invasion Rift Closing | 675
+- Community Collective Goal | 676
+- Weekly World Event Rotation | 677
+
+### Roles, Matchmaking and Party Structure
+
+- Holy Trinity Role Lock | 679
+- Flexible Hybrid Roles | 680
+- Support-Centered Objective | 681
+- Automated Matchmaking Queue | 682
+- Looking-for-Group Board | 683
+- Backfill Replacement Joiners | 684
+- Pre-Mission Loadout Briefing | 685
+- Ready Check and Role Callouts | 686
+
+### Shared versus Per-Player Quest State
+
+- Shared Party Quest Progress | 688
+- Per-Player Instanced Progress | 689
+- Quest Sharing and Sync | 690
+- Host-Owned Campaign State | 691
+- Phased World Layers | 692
+
+### Drop-In Campaigns and Asymmetric Modes
+
+- Drop-In Co-op Campaign | 694
+- Asymmetric PvPvE Extraction | 695
+- Hunter Versus Survivors Asymmetry | 696
+- Faction War Objective Layer | 697
+
+### Guilds, Clans and Scaling
+
+- Guild Contract Board | 699
+- Clan Stronghold Construction | 700
+- Guild Versus Guild Season Ladder | 701
+- Dynamic Party-Size Scaling | 702
+- Downscaled Legacy Content | 703
+
+## Sandbox Self-Directed Goals, Player-Authored and Tabletop Quests
+
+### Emergent Sandbox and Survival Goals
+
+- Build a Home Base (Shelter Claim) | 706
+- Reach the Horizon Landmark (Self-Set Expedition) | 707
+- Tame the Apex Creature (Domestication Campaign) | 708
+- Automate the Factory (Throughput Obsession) | 709
+- Terraform the Wasteland (World Reclamation) | 710
+- Collect Every Variant (Completionist Catalog) | 711
+- Survive N Days (Longevity Streak) | 712
+- Map the Unknown (Cartographer's Pursuit) | 713
+- Settlement Growth Target (Town Population Goal) | 714
+- Grudge Match (Nemesis Vendetta) | 715
+- Storytelling Through Play (Roleplay Persona) | 716
+
+### Challenge Runs and Speedrun Rulesets
+
+- Any-Percent Speedrun (Finish Fast) | 718
+- 100-Percent Completion Route (Everything Run) | 719
+- Low-Level Challenge (Underleveled Victory) | 720
+- Pacifist Run (No Kills Allowed) | 721
+- Permadeath Ironman (One Life Rule) | 722
+- Randomizer Seed (Shuffled World) | 723
+- Nuzlocke-Style Restrictions (Self-Imposed Laws) | 724
+- Challenge Modifiers (Mutator Stacking) | 725
+- Daily Seeded Run (Shared Daily Challenge) | 726
+- Glitchless Category (Intended Mechanics Only) | 727
+
+### Player-Authored Missions and UGC Editors
+
+- Mission Editor with Trigger Logic (Scenario Toolkit) | 729
+- Custom Campaign Workshop (Community Storylines) | 730
+- Level Maker with Clear Condition (Prove It Beatable) | 731
+- Creator-Mode Quest Templates (Fill-in-the-Blank Quests) | 732
+- Game Master Live Tools (Real-Time Dungeon Master) | 733
+- Modded Total Conversion (Whole New Game) | 734
+- Community Adventure Maps (Hand-Built Worlds) | 735
+- Shared Challenge Codes (Copy-Paste Scenarios) | 736
+
+### Tabletop Adventure Structures
+
+- Hex-Crawl Exploration (Overland Grid) | 738
+- Point-Crawl Network (Linked Locations) | 739
+- Site-Based Adventure (Keyed Location) | 740
+- Dungeon Crawl with Faction Turf (Rival Occupants) | 741
+- One-Shot Module (Single-Session Scenario) | 742
+- Mystery Box Investigation (Clue Web) | 743
+- Heist Planning Phase (Caper Setup) | 744
+- Random Table Generators (Oracle-Driven Quests) | 745
+- Clock-Driven Threats (Doomsday Countdown) | 746
+- West Marches Open Table (Drop-In Campaign) | 747
+- Downtime and Stronghold Play (Between-Adventure Goals) | 748
+- Module Hooks Menu (Choose Your Entrance) | 749
+
+## Quest Tracking, Navigation and Guidance UX
+
+### Logs and Journals
+
+- Categorized Quest Log | 752
+- Handwritten Diary Journal | 753
+- Corkboard Evidence Wall | 754
+- Rolling Objective Ticker | 755
+- Quest Timeline Chronicle | 756
+- Nested Objective Tree | 757
+- Rumor and Lead Notebook | 758
+- Faction Ledger Pages | 759
+
+### Waypoints and Compasses
+
+- Distance-Labeled Waypoint | 761
+- Ribbon Compass Bar | 762
+- Minimap With Edge Clamping | 763
+- Search Radius Circle | 764
+- Vertical Layer Indicators | 765
+- Path-Drawn Guide Line | 766
+- Breadcrumb Trail Followers | 767
+
+### Escalating Help
+
+- Idle Timer Hint Ladder | 769
+- Companion Prompts | 770
+- Three-Tier Hint Menu | 771
+- Hint Currency Economy | 772
+- Contextual Reminder Barks | 773
+- Fail-Count Assist | 774
+
+### Diegetic and Non-Marker Navigation
+
+- Landmark Directions From NPCs | 776
+- Compass-Free Map Annotation | 777
+- Environmental Light Guidance | 778
+- Sound Beacon Tracking | 779
+- Pet or Guide Spirit | 780
+- Radio Triangulation Gadget | 781
+
+### Recap and Resume
+
+- Previously-On Recap | 783
+- Last Objective Banner | 784
+- Journal Memory Prompts | 785
+- Session Break Detection | 786
+
+### Limits, Spoilers and Accessibility
+
+- Tracked Quest Cap | 788
+- Spoiler-Safe Quest Titles | 789
+- Progressive Log Reveal | 790
+- Marker Intensity Settings | 791
+- Text-to-Speech Objective Readout | 792
+- Colorblind-Safe Marker Shapes | 793
+
+### Players Who Ignore the Log
+
+- Redundant Cues Design | 795
+- Soft Gating Nudges | 796
+- Self-Resolving Waiting Quests | 797
+- Return-to-Giver Reminders | 798

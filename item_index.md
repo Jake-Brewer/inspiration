@@ -786,3 +786,257 @@ Each line: `Name | line number in item_full.md`. Open item_full.md at that line 
 - Cowrie Shell String | 608
 - Wishing Coin | 609
 - Debt Ledger Tab | 610
+
+## Traps, Deployables, and Placed Devices
+
+### Pressure and Contact Traps
+
+- Steel Jaw Trap | 613
+- Pit Snare with Spikes | 614
+- Caltrop Scatter | 615
+- Pressure Plate Tile | 616
+- Landmine (Buried Anti-Personnel) | 617
+- Frozen Pond Thinner | 618
+
+### Wire and Proximity Triggers
+
+- Tripwire Alarm (Bell Line) | 620
+- Grenade Tripwire Rig | 621
+- Proximity Charge (Motion Sensor) | 622
+- Laser Grid Emitter | 623
+- Claymore-Style Directional Mine | 624
+- Sound-Triggered Noisemaker Trap | 625
+
+### Automated Defenses
+
+- Auto-Turret (Tripod Gun) | 627
+- Sentry Crossbow Nest | 628
+- Flame Projector Post | 629
+- Tesla Coil Pylon | 630
+- Healing Totem Beacon | 631
+- Shock Wire Fence Segment | 632
+
+### Wards, Glyphs, and Magical Seals
+
+- Warding Glyph (Chalk Circle) | 634
+- Explosive Rune Scroll | 635
+- Sanctuary Ward Stone | 636
+- Soul-Binding Sigil | 637
+- Silence Field Glyph | 638
+- Alarm Sigil Thread | 639
+
+### Decoys and Lures
+
+- Inflatable Decoy Soldier | 641
+- Scent Bait Pouch | 642
+- Holographic Double Projector | 643
+- False Treasure Chest (Mimic Bait) | 644
+- Noise Maker Firecracker String | 645
+
+### Signals and Beacons
+
+- Signal Flare (Handheld Red) | 647
+- Smoke Beacon Canister | 648
+- Radio Distress Beacon | 649
+- Lantern Signal Post | 650
+- Recon Drone Drop (Spotter Pod) | 651
+
+### Cover and Barricades
+
+- Folding Ballistic Shield Wall | 653
+- Sandbag Barricade Kit | 654
+- Spiked Barricade (Hedgehog Frame) | 655
+- Portable Wooden Palisade | 656
+
+### Teleports and Camps
+
+- Linked Teleport Pad Pair | 658
+- Recall Waystone | 659
+- Camp Kit (Tent and Fire Ring) | 660
+- Field Forge Anvil Pack | 661
+
+## Collectibles, Trophies, and Lore Objects
+
+### Lore Documents and Recordings
+
+- Scattered Audio Logs (Environmental Storytelling) | 664
+- Torn Diary Pages (Fragmentary Journal) | 665
+- Field Researcher's Journal (Player-Filled Notebook) | 666
+- Lorebook Codex Entries (Unlockable Encyclopedia) | 667
+- Cassette Tapes with Playable Hardware (Diegetic Audio) | 668
+- Message in a Bottle (Drifting Lore) | 669
+- Cipher Scrolls (Puzzle Lore) | 670
+- Graffiti and Wall Scrawls (Scannable Lore) | 671
+
+### Figures, Cards, and Miniatures
+
+- Trading Cards (Minigame Currency) | 673
+- Painted Figurines (Display Statuettes) | 674
+- Blind-Box Capsule Toys (Gacha Collectibles) | 675
+- Sticker Album Pages (Slotted Set Book) | 676
+- Pressed Flowers and Leaves (Herbarium Pages) | 677
+
+### Natural History and Specimens
+
+- Fossil Fragments (Excavation Collectibles) | 679
+- Pinned Insect Specimens (Bug-Catching Set) | 680
+- Preserved Fish in Jars (Aquarium Exhibit) | 681
+- Mineral and Gem Samples (Geode Cabinet) | 682
+- Pressed Footprint Casts (Tracking Collectibles) | 683
+- Bird Feather Collection (Aviary Log) | 684
+
+### Trophies and Hunting Prizes
+
+- Monster Head Mounts (Boss Trophies) | 686
+- Apex Predator Pelts (Hunter's Rugs) | 687
+- Slayer's Tally Banner (Kill-Count Standard) | 688
+- Champion Belts and Cups (Tournament Prizes) | 689
+- Severed Ears and Teeth Bounty Tokens (Proof of Kill) | 690
+
+### Museum, Gallery, and Donation Systems
+
+- Museum Donation Wing (Curator's Hall) | 692
+- Art Forgery Gallery (Authenticity Puzzle) | 693
+- Time Capsule Shelf (Archived Memory Collection) | 694
+- Community Bundle Boxes (Themed Offering Sets) | 695
+
+### Tracking and Display Systems
+
+- Trophy Room (Personal Showcase Hall) | 697
+- Glass-Front Shelving (Slot-Based Display) | 698
+- Collection Log Menu (Completion Tracker) | 699
+- Radar Ping for Nearby Collectibles (Detection Gadget) | 700
+- Completion Map Markers (Cartographer's Pins) | 701
+
+### Set Rewards and Achievement Relics
+
+- Set-Completion Rewards (Matched Collection Bonus) | 703
+- Hidden Idols (Secret Statues) | 704
+- Achievement Relics (Milestone Mementos) | 705
+- Legacy Heirloom Chest (Inherited Collection) | 706
+- Mythic Relic of Completion (Final Prize) | 707
+
+## Cosmetic Items, Skins, and Appearance Customization
+
+### Outfit Slots and Vanity Layers
+
+- Vanity Layer (Overlay Slot) | 710
+- Transmog Station (Appearance Transfer) | 711
+- Glamour Prism (Consumable Appearance Projection) | 712
+- Wardrobe Ledger (Collection Book) | 713
+- Set Bonus Mirror (Look-Only Set Display) | 714
+- Hidden Slot Toggle (Hide Helm and Cloak) | 715
+- Silhouette Rule (Readability Constraint) | 716
+
+### Dyes and Palettes
+
+- Dye Channels (Multi-Zone Coloring) | 718
+- Rare Pigment (Drop-Gated Color) | 719
+- Regional Dye Palette (Culture-Linked Colors) | 720
+- Pattern Stamp (Textile Overlay) | 721
+- Fading Dye (Wear-Based Appearance) | 722
+- Palette Swap Token (Alternate Colorway) | 723
+
+### Weapon Skins and Charms
+
+- Weapon Skin (Surface Replacement) | 725
+- Wear and Float Value (Condition Grade) | 726
+- Weapon Charm (Hanging Trinket) | 727
+- Kill Tracker (Stat-Counting Attachment) | 728
+- Muzzle and Impact Effects (Visual Signature) | 729
+- Inspect Animation (Showcase Flourish) | 730
+
+### Emotes, Titles, and Expressive Items
+
+- Emote (Social Gesture) | 732
+- Title (Name-Line Epithet) | 733
+- Nameplate Frame (Profile Border) | 734
+- Spray and Graffiti (World Marking) | 735
+- Voice Line Pack (Audio Personalization) | 736
+- Musical Instrument (Performance Item) | 737
+
+### Mounts, Pets, and Companion Cosmetics
+
+- Mount Skin (Reskinned Steed) | 739
+- Saddle and Tack Dyes (Gear Customization) | 740
+- Companion Pet (Follower Collectible) | 741
+- Pet Accessory (Hats for Followers) | 742
+
+### Banners, Heraldry, and Status
+
+- Guild Banner (Group Heraldry) | 744
+- Heraldic Sigil Editor (Emblem Builder) | 745
+- Prestige Frame (Veteran Marker) | 746
+- Trophy Mounting (Displayed Achievement) | 747
+
+### Unlock Sources
+
+- Battle Pass Track (Seasonal Reward Path) | 749
+- Seasonal Event Relic (Limited-Time Cosmetic) | 750
+- Crafted Cosmetic (Artisan-Made Look) | 751
+- Found Cosmetic (Exploration Secret) | 752
+- Purchased Cosmetic (Storefront Item) | 753
+- Achievement Garb (Earned Honor Set) | 754
+
+## Summoning, Taming, and Companion Items
+
+### Capture Devices
+
+- Capture Sphere (Tiered) | 757
+- Soul Gem (Shard Vessel) | 758
+- Wicker Trap Cage | 759
+- Pheromone Net Launcher | 760
+- Spirit Jar (Sealed Clay) | 761
+- Capture Card Deck | 762
+- Tranquilizer Dart Rifle | 763
+
+### Taming Lures and Bait
+
+- Gourmet Taming Treat | 765
+- Hum-Whistle Lure | 766
+- Scented Musk Bait | 767
+- Lullaby Music Box | 768
+- Fermented Honey Lure | 769
+- Blood-Trail Vial | 770
+
+### Eggs, Hatchlings, and Familiars
+
+- Incubation Egg (Warmth Tracked) | 772
+- Mystery Clutch Nest | 773
+- Familiar Token (Carved Bone) | 774
+- Wishing-Lamp Charm | 775
+- Bound Grimoire Page | 776
+- Living Seed Pod | 777
+
+### Summoning Stones and Cards
+
+- Summoning Stone (Rune Anchor) | 779
+- Elemental Tarot Card | 780
+- Portal Sigil Scroll | 781
+- Totem of the Ancestors | 782
+- Necromancer's Bone Flute | 783
+- Phantom Contract Seal | 784
+
+### Commands, Leashes, and Loyalty
+
+- Command Whistle (Three Tone) | 786
+- Leash of Fidelity | 787
+- Loyalty Collar (Mood Gauge) | 788
+- Oath Ring of Binding | 789
+- Beast Handler's Gauntlet | 790
+- Upkeep Provisions Satchel | 791
+
+### Mounts and Riding
+
+- Mount Saddle (Tiered) | 793
+- Flight Harness and Rein Set | 794
+- Stirrups of the Tireless | 795
+- Boat Beast Bridle | 796
+
+### Grafts, Drones, and Constructs
+
+- Drone Controller Wrist Console | 798
+- Symbiote Graft Vial | 799
+- Clockwork Minion Key | 800
+- Neural Leash Implant | 801
+- Golem Core Heart | 802

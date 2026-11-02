@@ -833,3 +833,240 @@ Each line: `Name | line number in resource_full.md`. Open resource_full.md at th
 - Wartime Rationing (Economic Pressure) | 662
 - Salvage Decay Fields (Depletion Rule) | 663
 - Seasonal Famine Cycles (Economic Pressure) | 664
+
+## Stone, Soil, Sand, and Raw Earth Materials
+
+### Quarry Stone and Building Rock
+
+- Common Cobblestone | 667
+- Granite Block | 668
+- Marble Slab | 669
+- Limestone Ashlar | 670
+- Sandstone Strata | 671
+- Obsidian Glass-Rock | 672
+- Slate Shingle Stone | 673
+- Basalt Columns | 674
+- Bedrock Floor | 675
+- Standing Stone Megalith | 676
+
+### Clay, Mud, and Earth Binders
+
+- River Clay | 678
+- Terracotta Red Clay | 679
+- Adobe Mud Mix | 680
+- Wattle and Daub Slurry | 681
+- Kaolin White Clay | 682
+- Quicksand and Bog Mud | 683
+- Cob Clay Wall | 684
+
+### Sand, Glass Sands, and Gravel
+
+- Beach Sand | 686
+- Silica Glass Sand | 687
+- Black Volcanic Sand | 688
+- Desert Dune Sand | 689
+- Gravel and Aggregate | 690
+- Pebble Shingle | 691
+- Whetstone Grit | 692
+
+### Soil, Peat, and Fertilizer
+
+- Topsoil Loam | 694
+- Tilled Farmland | 695
+- Peat Bricks | 696
+- Compost Heap | 697
+- Bat Guano | 698
+- Seabird Guano Islands | 699
+- Marl and Lime Dressing | 700
+- Terra Preta Dark Earth | 701
+
+### Volcanic, Frozen, and Alien Ground
+
+- Pumice Float Stone | 703
+- Volcanic Ash and Pozzolan | 704
+- Sulfur Crust | 705
+- Permafrost Ground | 706
+- Ice Block Harvest | 707
+- Mars Regolith | 708
+- Lunar Regolith Bricks | 709
+- Terraformed Substrate | 710
+
+## Ammunition, Explosives, and Combat Consumables
+
+### Firearm and Projectile Ammunition
+
+- Scarce Handgun Rounds (survival horror) | 713
+- Per-Weapon Reserve Pools | 714
+- Universal Ammo Pool | 715
+- Magazine-Based Reload Economy | 716
+- Quiver and Arrow Retrieval | 717
+- Specialty Arrow Types | 718
+- Sling Stones and Improvised Missiles | 719
+- Artillery Shell Stockpile | 720
+- Energy Cell Packs | 721
+- Overheating Heat Sinks | 722
+- Melee Weapon Durability as Ammo | 723
+- Bullet-Time Focus Charge | 724
+
+### Explosives and Throwables
+
+- Black Powder and Fuse | 726
+- Frag Grenade Cooking | 727
+- Sticky Demolition Charges | 728
+- Molotov and Improvised Incendiaries | 729
+- Smoke and Flash Grenades | 730
+- Mines and Tripwire Traps | 731
+- Rocket and Missile Stocks | 732
+- Nitroglycerin Instability | 733
+
+### Traps, Bait, and Utility
+
+- Bear Traps and Snares | 735
+- Bait Meat and Lures | 736
+- Pitfall and Spike Pit Kits | 737
+- Repair Kits and Field Patches | 738
+- Medical Bandages and Stims | 739
+- Lockpicks and Breaching Tools | 740
+- Torches, Flares, and Glowsticks | 741
+
+### Poisons, Coatings, and Alchemy
+
+- Blade Poison Vials | 743
+- Weapon Oils and Elemental Coatings | 744
+- Venom Extraction and Brewing | 745
+- Antidotes and Cure Tinctures | 746
+- Dart and Blowpipe Ammunition | 747
+
+### Magical Charges and Scrolls
+
+- Single-Use Spell Scrolls | 749
+- Spell Slots and Daily Charges | 750
+- Wand Charges with Recharge Gambles | 751
+- Mana Crystals and Reagent Components | 752
+- Soul Gem Ammunition | 753
+- Rune Stones and Glyph Charges | 754
+
+## Medicine, Healing, and Survival Supplies
+
+### Herbal and Natural Remedies
+
+- Healing Herb (Common Poultice Plant) | 757
+- Willow Bark Tea (Fever Reducer) | 758
+- Moss Compress (Bleed Stopper) | 759
+- Honey Salve (Antiseptic Balm) | 760
+- Bitter Root Tonic (Poison Resistance) | 761
+- Dreamflower Petals (Sleep Aid) | 762
+- Ginseng-Like Vital Root (Rare Stamina Restorative) | 763
+
+### Bandages, Dressings, and Field Care
+
+- Cloth Bandage (Basic Dressing) | 765
+- Sterile Gauze (Clean Dressing) | 766
+- Splint Kit (Fracture Brace) | 767
+- Tourniquet (Emergency Limb Control) | 768
+- Suture Thread and Needle (Wound Closer) | 769
+- Cauterizing Iron (Brutal Last Resort) | 770
+
+### Pharmaceuticals and Chemicals
+
+- Antibiotic Course (Finite Cure) | 772
+- Painkiller Tablets (Numbing Dose) | 773
+- Combat Stimulant Injector (Burst Drug) | 774
+- Antidote Vial (Targeted Cure) | 775
+- Sedative Ampoule (Calming Agent) | 776
+- Adrenaline Shot (Revive Dose) | 777
+- Radiation Purge Tablets (Anti-Rad Chelator) | 778
+- Mind-Altering Brew (Addictive Euphoric) | 779
+
+### Medkits, Surgery, and Cybernetics
+
+- Field Medkit (Portable Treatment Pack) | 781
+- Surgical Tray (Clinic Equipment) | 782
+- Anesthetic Gas (Operation Enabler) | 783
+- Prosthetic Limb (Replacement Part) | 784
+- Cybernetic Implant (Augmentation Module) | 785
+- Nanite Repair Gel (Regenerative Paste) | 786
+- Cryo Stasis Pod (Life Suspension) | 787
+
+### Food, Water, and Status-Effect Rations
+
+- Clean Water Flask (Purified Drink) | 789
+- Hearty Stew (Warming Meal) | 790
+- Preserved Rations (Long-Life Food) | 791
+- Electrolyte Solution (Heat Remedy) | 792
+- Spiced Tea (Courage Booster) | 793
+
+### Clothing, Shelter, Warmth, and Sanity
+
+- Fur-Lined Coat (Cold Insulation) | 795
+- Waterproof Oilskin (Rain Cover) | 796
+- Insulated Bedroll (Sleeping Gear) | 797
+- Hearth Fuel Bundle (Warmth Source) | 798
+- Gas Mask Filter (Air Quality Supply) | 799
+- Lantern Oil (Sanity Light) | 800
+- Holy Charm (Sanity Ward) | 801
+- Comfort Keepsake (Morale Anchor) | 802
+
+## Pollution, Byproducts, and Environmental Cost
+
+### Solid Waste and Slag
+
+- Slag Heaps | 805
+- Tailings Ponds | 806
+- Spoil Tips | 807
+- Scrap Mountains | 808
+- Spent Fuel Casks | 809
+- Landfill Mounds | 810
+
+### Air, Water, and Soil Pollution
+
+- Smog Layer | 812
+- Acid Rain | 813
+- Toxic Runoff | 814
+- Soil Contamination | 815
+- Oil Spill Event | 816
+- Groundwater Plume | 817
+- Particulate Soot | 818
+
+### Radiation, Heat, and Noise
+
+- Radiation Fallout | 820
+- Irradiated Salvage | 821
+- Thermal Discharge | 822
+- Waste Heat Buildup | 823
+- Noise Pollution | 824
+- Light Pollution | 825
+
+### Ecological Collapse and Feedback
+
+- Overfishing Collapse | 827
+- Deforestation Cascade | 828
+- Soil Exhaustion | 829
+- Aquifer Depletion | 830
+- Invasive Species Spread | 831
+- Climate Tipping Points | 832
+- Sea Level Flooding | 833
+- Extinction Ledger | 834
+
+### Fantasy and Sci-Fi Taint
+
+- Blight Spread | 836
+- Arcane Residue | 837
+- Mana Depletion Scars | 838
+- Necrotic Taint | 839
+- Terraforming Backlash | 840
+- Void Contamination | 841
+
+### Turning Byproducts into Opportunities
+
+- Waste-to-Resource Chains | 843
+- Carbon Capture Rigs | 844
+- Toxic Mutation Harvest | 845
+- Compost and Biogas Loops | 846
+
+### Regulation, Factions, and Moral Choice
+
+- Emission Taxes and Permits | 848
+- Green Faction Backlash | 849
+- Corporate Cover-Up Choices | 850
+- Export the Problem | 851

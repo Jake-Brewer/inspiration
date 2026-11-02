@@ -741,3 +741,246 @@ Each line: `Name | line number in monetization_live_ops_full.md`. Open monetizat
 - Carrier Billing Micropurchases | 585
 - Gacha Disclosure Regulation | 586
 - Offline-first Sideload Distribution | 587
+
+## Live-Ops Operations, Tooling, and Economy Health
+
+### Team Structures and On-Call
+
+- Follow-the-Sun Rotation | 590
+- Two-Person Indie Pager Pact | 591
+- Incident Commander Role | 592
+- Live Producer as Calendar Keeper | 593
+- Embedded Designer on Call | 594
+- Blameless Postmortem Ritual | 595
+- Game Master Corps (Volunteer Tier) | 596
+
+### Remote Config and Content Delivery
+
+- Server-Driven Event Definitions | 598
+- Feature Flag Ladder | 599
+- Live Tuning Dials | 600
+- Content Bundle Hot-Swap | 601
+- A/B Cohort Experiments | 602
+- Kill Switch for Risky Features | 603
+
+### Hotfix, Rollback, and Maintenance Practice
+
+- Staged Rollout With Canary Servers | 605
+- Database Snapshot Rollback | 606
+- Surgical Item Recall | 607
+- Maintenance Window as Ritual | 608
+- Hotfix Freeze Calendar | 609
+- Rollback Rehearsal Day | 610
+
+### Economy Health: Inflation, Sinks, and Faucets
+
+- Faucet and Sink Ledger | 612
+- Elegant Gold Sink Menu | 613
+- Item Decay and Durability | 614
+- Currency Velocity Watch | 615
+- Gradual Devaluation Event | 616
+- Price Floor and Ceiling Guards | 617
+- Wealth Inequality Dashboard | 618
+- Seasonal Reset Economy | 619
+
+### Fraud, Botting, RMT, and Chargebacks
+
+- Behavioral Bot Fingerprinting | 621
+- Ban Wave Strategy | 622
+- Real-Money Trading Tripwires | 623
+- Chargeback Triage Desk | 624
+- Stolen Card Cashout Detection | 625
+- Duplication Exploit Audits | 626
+
+### Support, Compensation, and Community Cadence
+
+- Tiered Support Macros With Human Escalation | 628
+- Outage Apology Gift Basket | 629
+- Make-Whole Ledger for Lost Progress | 630
+- Status Page and Honest Timelines | 631
+- Weekly Dev Diary Cadence | 632
+- Indie Community Garden Model | 633
+- AAA Community Council Program | 634
+- Feedback Triage Pipeline | 635
+
+## Sunsetting, Shutdowns, and Game Preservation
+
+### Shutdown Notices and Wind-Down Design
+
+- Long-Runway Shutdown Notice | 638
+- Final Season Send-Off | 639
+- Shutdown Currency Spend-Down | 640
+- Rolling Feature Retirement | 641
+- In-World Farewell Event | 642
+- Memorial Wall of Players | 643
+- Last-Login Time Capsule | 644
+- Shutdown Date Grace Extension | 645
+
+### Refunds and Compensation
+
+- Pro-Rated Purchase Refund | 647
+- Full-Price Refund for Day-One Buyers | 648
+- Currency-to-Cash Conversion | 649
+- Compensation Gift Codes | 650
+- Subscription Remainder Payout | 651
+
+### Offline Patches and Conversion
+
+- Offline Mode Final Patch | 653
+- Single-Player Backport of Live Content | 654
+- Private Server Binary Release | 655
+- Local-Host Lobby Browser | 656
+- Bot-Filled Match Fallback | 657
+- Unlock-Everything End State | 658
+- Save File Export Tool | 659
+- DRM Removal Patch | 660
+
+### Legacy, Classic, and Community Servers
+
+- Official Classic Realm | 662
+- Progression-Server Rollout | 663
+- Fan Emulator Tolerance Policy | 664
+- Source Code Escrow | 665
+- Legacy Server Revenue Share | 666
+- Seasonal Reset Classic Ladder | 667
+
+### Delisting and Licenses
+
+- License Expiry Countdown | 669
+- Delisted but Playable Guarantee | 670
+- Music Swap Patch | 671
+- Roster Freeze Edition | 672
+- Digital Ownership Disclosure Label | 673
+
+### Preservation and Advocacy
+
+- End-of-Life Plan Requirement | 675
+- Minimum Support Period Pledge | 676
+- Archive Build Submission | 677
+- Community Preservation Wiki | 678
+- Fan Recreation Charter | 679
+
+## Alternative and Non-Digital Business Models
+
+### Arcade and Location-Based
+
+- Coin-Op Arcade Cabinet | 682
+- Ticket Redemption Machine | 683
+- Crane Claw Tuned Payout | 684
+- Pinball Route Operator Model | 685
+- Escape Room Ticketed Experience | 686
+- Virtual Reality Arcade Pod | 687
+- Family Entertainment Center Wristband | 688
+- Karaoke Box Rhythm Rental | 689
+- Immersive Theater Game Hybrid | 690
+- Amusement Park Dark Ride Queue Game | 691
+
+### Tabletop and Collectible Models
+
+- Board Game Crowdfunding Tiers | 693
+- Collectible Card Booster Pack | 694
+- Living Card Game Fixed Expansions | 695
+- Miniature Wargame Army Collecting | 696
+- Legacy Game Campaign Box | 697
+- Print and Play Pay What You Want | 698
+- Tabletop Role-Playing Core Book Ecosystem | 699
+- Subscription Game Box | 700
+- Gaming Cafe Library Model | 701
+- Convention Exclusive Promo Items | 702
+
+### Licensing, Merchandise and Transmedia
+
+- Toy-to-Game Figurine Platform | 704
+- Brand Licensing Tie-In Game | 705
+- Merchandise Revenue Mascot Franchise | 706
+- Transmedia Story World | 707
+- Soundtrack and Art Book Bundle | 708
+- Anime and Comic Cross-Promotion | 709
+- Esports League Franchise Slots | 710
+
+### Web3 and Experimental Economies
+
+- Play-to-Earn Token Economy | 712
+- NFT Cosmetic Ownership Marketplace | 713
+- Blockchain Land Parcels | 714
+- Tokenised Governance Community | 715
+- Digital Collectible Royalty Loop | 716
+
+### Sponsorship, Advertising and Serious Games
+
+- Advergame Brand Sponsorship | 718
+- In-Game Billboard Dynamic Ads | 719
+- Rewarded Video Opt-In Boost | 720
+- Corporate Training Simulation | 721
+- Educational Classroom Site License | 722
+- Healthcare Therapeutic Game Prescription | 723
+- Museum and Public Institution Commission | 724
+- Military and Emergency Training Contracts | 725
+
+## Cross-Platform Ownership, Account Portability, and Entitlements
+
+### Cross-Save and Cross-Progression
+
+- Universal Save Slot | 728
+- Progression-Only Sync | 729
+- Save Conflict Fork | 730
+- One-Way Migration Ticket | 731
+- Cross-Play Without Cross-Save | 732
+- Offline Edit Queue | 733
+- Platform-Neutral Save Format | 734
+- Cheat-Safe Cross-Progression | 735
+
+### Cross-Buy and Shared Entitlements
+
+- Buy Once Play Anywhere Bundle | 737
+- Cross-Gen Upgrade Entitlement | 738
+- Cosmetic Carryover Across Platforms | 739
+- Season Pass Portability | 740
+- Platform-Locked Premium Items | 741
+- Ownership Ledger Screen | 742
+- Legacy Entitlement Grandfathering | 743
+
+### Shared Wallets and Currencies
+
+- Unified Premium Wallet | 745
+- Platform-Siloed Currency Packs | 746
+- Earned-Currency Bridge | 747
+- Wallet Expiry and Unspent Balance Notices | 748
+- Gift Balance Pooling | 749
+- Transparent Real-Money Equivalent Display | 750
+- Exchange Rate Smoothing | 751
+
+### Family Sharing and Account Linking
+
+- Household Library Sharing | 753
+- Guardian Dashboard | 754
+- Linked Account Handshake | 755
+- Child-to-Adult Account Graduation | 756
+- Shared Console Profile Guest Mode | 757
+- Account Recovery by Trusted Contacts | 758
+
+### Physical, Digital, and Resale
+
+- Physical Edition Redemption Key | 760
+- Disc Trade-In Ecosystem | 761
+- Digital Gifting Pipeline | 762
+- Tradable Item Marketplace | 763
+- Non-Transferable License Notice | 764
+- Collector's Vault Tier | 765
+
+### Refunds and Regional Quirks
+
+- Playtime-Based Refund Window | 767
+- Refund With Consumed-Item Reversal | 768
+- Regional Pricing Tiers | 769
+- Regional Content Variants | 770
+- Loot Box Disclosure Compliance | 771
+- Chargeback Grace Process | 772
+
+### Platform Fees and Off-Store Purchases
+
+- Web Shop Bonus Bundles | 774
+- Steering Rules Compliance Layer | 775
+- Fee-Aware Price Parity Strategy | 776
+- Gift Card and Prepaid Code Channel | 777
+- Cross-Store Receipt Validation | 778
